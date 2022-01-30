@@ -1,5 +1,5 @@
 ---
-layout: narrative
+layout: poem
 title: Steps of Analysis
 author:
 editor: Sabina Pringle
