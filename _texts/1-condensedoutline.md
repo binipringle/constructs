@@ -48,38 +48,38 @@ See [U.S. Constitution](https://www.law.cornell.edu/constitution/index.html) for
 
 **1787 Constitution**
 
-- {:.indent-0}Article I: National Legislature (Congress)
-- {:.indent-0}Article II: National Executive (President)
-- {:.indent-0}Article III: National Judiciary
-- {:.indent-0}Article IV: States
-- {:.indent-0}Article V: Amendment process (very difficult)
-- {:.indent-0}Article VI: Federal Supremacy (within a system of “dual sovereignty”)
-- {:.indent-0}Article VII: Ratification
-- {:.indent-2}1st Amendment: Protects freedom of religion, freedom of speech, freedom of the press, freedom of assembly and the right to petition the government. Ratified 1791.
-- {:.indent-2}3rd Amendment: Restricts the quartering of soldiers in private homes. Ratified 1791.
-- {:.indent-2}4th Amendment: Prohibits unreasonable searches and seizures and sets out requirements for search warrants based on probable cause. Ratified 1791.
-- {:.indent-2}5th Amendment: Sets out rules for indictment by grand jury and eminent domain, protects the right to due process, and prohibits self-incrimination and double jeopardy. Ratified 1791.
-- {:.indent-2}7th Amendment: Provides for the right to a jury trial in civil lawsuits. Ratified 1791.
-- {:.indent-2}8th Amendment: Prohibits excessive fines and excessive bail, as well as cruel and unusual punishment. Ratified 1791.
-- {:.indent-2}9th Amendment: States that rights not enumerated in the Constitution are retained by the people. Ratified 1791.
-- {:.indent-2}10th Amendment: States that the federal government possesses only those powers delegated, or enumerated, to it through the Constitution, and that all other powers are reserved to the States, or to the people. Ratified 1791.
-- {:.indent-2}11th Amendment: Makes states immune from suits from out-of-state citizens and foreigners not living within the state borders; lays the foundation for state sovereign immunity. Ratified 1795.
-- {:.indent-2}12th Amendment: Revises presidential election procedures by having the president and vice president elected together as opposed to the vice president being the runner up in the presidential election. Ratified 1804.
-- {:.indent-2}13th Amendment: Abolishes slavery, and involuntary servitude, except as punishment for a crime. Ratified 1865.
-- {:.indent-2}14th Amendment: Defines citizenship, contains the Privileges or Immunities Clause, the Due Process Clause, and the Equal Protection Clause, and deals with post–Civil War issues. Ratified 1868.
-- {:.indent-2}15th Amendment: Prohibits the denial of the right to vote based on race, color or previous condition of servitude. Ratified 1870.
-- {:.indent-2}16th Amendment: Permits Congress to levy an income tax without apportioning it among the various states or basing it on the United States Census. Ratified 1913.
-- {:.indent-2}17th Amendment: Establishes the direct election of United States senators by popular vote. Ratified 1913.
-- {:.indent-2}18th Amendment: Prohibited the manufacturing or sale of alcohol within the United States (Repealed December 5, 1933, via the 21st Amendment). Ratified 1919.
-- {:.indent-2}19th Amendment: Prohibits the denial of the right to vote based on sex. Ratified 1920.
-- {:.indent-2}20th Amendment: Changes the dates on which the terms of the president and vice president, and of members of Congress, begin and end, to January 20 and January 3 respectively. States that if the president-elect dies before taking office, the vice president–elect is to be inaugurated as President. Ratified 1933.
-- {:.indent-2}21st Amendment: Repeals the 18th Amendment and makes it a federal offense to transport or import intoxicating liquors into U.S. states and territories where such is prohibited by law. Ratified 1933.
-- {:.indent-2}22nd Amendment: Limits the number of times a person can be elected president. Ratified 1951.
-- {:.indent-2}23rd Amendment: Grants the District of Columbia electors in the Electoral College. Ratified 1961.
-- {:.indent-2}24th Amendment: Prohibits the revocation of voting rights due to the non-payment of a poll tax or any other tax. Ratified 1964.
-- {:.indent-2}25th Amendment: Addresses succession to the presidency and establishes procedures both for filling a vacancy in the office of the vice president and responding to presidential disabilities. Ratified 1967.
-- {:.indent-2}26th Amendment: Prohibits the denial of the right of US citizens, 18 years of age or older, to vote on account of age. Ratified 1971.
-- {:.indent-2}27th Amendment: Delays laws affecting Congressional salary from taking effect until after the next election of representatives. Ratified 1992.
+- {:.indent-0}**Article I**: National Legislature (Congress)
+- {:.indent-0}**Article II**: National Executive (President)
+- {:.indent-0}**Article III**: National Judiciary
+- {:.indent-0}**Article IV**: States
+- {:.indent-0}**Article V**: Amendment process (very difficult)
+- {:.indent-0}**Article VI**: Federal Supremacy (within a system of “dual sovereignty”)
+- {:.indent-0}**Article VII**: Ratification
+- {:.indent-2}**1st Amendment: Protects freedom of religion, freedom of speech, freedom of the press, freedom of assembly and the right to petition the government. Ratified 1791.
+- {:.indent-2}**3rd Amendment**: Restricts the quartering of soldiers in private homes. Ratified 1791.
+- {:.indent-2}**4th Amendment**: Prohibits unreasonable searches and seizures and sets out requirements for search warrants based on probable cause. Ratified 1791.
+- {:.indent-2}**5th Amendment**: Sets out rules for indictment by grand jury and eminent domain, protects the right to due process, and prohibits self-incrimination and double jeopardy. Ratified 1791.
+- {:.indent-2}**7th Amendment**: Provides for the right to a jury trial in civil lawsuits. Ratified 1791.
+- {:.indent-2}**8th Amendment**: Prohibits excessive fines and excessive bail, as well as cruel and unusual punishment. Ratified 1791.
+- {:.indent-2}**9th Amendment**: States that rights not enumerated in the Constitution are retained by the people. Ratified 1791.
+- {:.indent-2}**10th Amendment**: States that the federal government possesses only those powers delegated, or enumerated, to it through the Constitution, and that all other powers are reserved to the States, or to the people. Ratified 1791.
+- {:.indent-2}**11th Amendment**: Makes states immune from suits from out-of-state citizens and foreigners not living within the state borders; lays the foundation for state sovereign immunity. Ratified 1795.
+- {:.indent-2}**12th Amendment**: Revises presidential election procedures by having the president and vice president elected together as opposed to the vice president being the runner up in the presidential election. Ratified 1804.
+- {:.indent-2}**13th Amendment**: Abolishes slavery, and involuntary servitude, except as punishment for a crime. Ratified 1865.
+- {:.indent-2}**14th Amendment**: Defines citizenship, contains the Privileges or Immunities Clause, the Due Process Clause, and the Equal Protection Clause, and deals with post–Civil War issues. Ratified 1868.
+- {:.indent-2}**15th Amendment**: Prohibits the denial of the right to vote based on race, color or previous condition of servitude. Ratified 1870.
+- {:.indent-2}**16th Amendment**: Permits Congress to levy an income tax without apportioning it among the various states or basing it on the United States Census. Ratified 1913.
+- {:.indent-2}**17th Amendment**: Establishes the direct election of United States senators by popular vote. Ratified 1913.
+- {:.indent-2}**18th Amendment**: Prohibited the manufacturing or sale of alcohol within the United States (Repealed December 5, 1933, via the 21st Amendment). Ratified 1919.
+- {:.indent-2}**19th Amendment**: Prohibits the denial of the right to vote based on sex. Ratified 1920.
+- {:.indent-2}**20th Amendment**: Changes the dates on which the terms of the president and vice president, and of members of Congress, begin and end, to January 20 and January 3 respectively. States that if the president-elect dies before taking office, the vice president–elect is to be inaugurated as President. Ratified 1933.
+- {:.indent-2}**21st Amendment**: Repeals the 18th Amendment and makes it a federal offense to transport or import intoxicating liquors into U.S. states and territories where such is prohibited by law. Ratified 1933.
+- {:.indent-2}**22nd Amendment**: Limits the number of times a person can be elected president. Ratified 1951.
+- {:.indent-2}**23rd Amendment**: Grants the District of Columbia electors in the Electoral College. Ratified 1961.
+- {:.indent-2}**24th Amendment**: Prohibits the revocation of voting rights due to the non-payment of a poll tax or any other tax. Ratified 1964.
+- {:.indent-2}**25th Amendment**: Addresses succession to the presidency and establishes procedures both for filling a vacancy in the office of the vice president and responding to presidential disabilities. Ratified 1967.
+- {:.indent-2}**26th Amendment**: Prohibits the denial of the right of US citizens, 18 years of age or older, to vote on account of age. Ratified 1971.
+- {:.indent-2}**27th Amendment**: Delays laws affecting Congressional salary from taking effect until after the next election of representatives. Ratified 1992.
 
 ---
 
