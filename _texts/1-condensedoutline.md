@@ -6,7 +6,6 @@ editor: Sabina Pringle
 source:
 toc:
 - Statutory Scheme
-- Major themes and concepts
 - Slavery and the Constitution
 - Wealth, class, economic inequality and the Constitution
 - Federal Judicial Power
@@ -46,16 +45,17 @@ See [U.S. Constitution](https://www.law.cornell.edu/constitution/index.html) for
 ---
 ## Statutory Scheme
 
-**1787 Constitution**
+- {:.indent-0}**1787 Constitution**
+- {:.indent-2}**Article I**: National Legislature (Congress)
+- {:.indent-2}**Article II**: National Executive (President)
+- {:.indent-2}**Article III**: National Judiciary
+- {:.indent-2}**Article IV**: States
+- {:.indent-2}**Article V**: Amendment process (very difficult)
+- {:.indent-2}**Article VI**: Federal Supremacy (within a system of “dual sovereignty”)
+- {:.indent-2}**Article VII**: Ratification
 
-- {:.indent-0}**Article I**: National Legislature (Congress)
-- {:.indent-0}**Article II**: National Executive (President)
-- {:.indent-0}**Article III**: National Judiciary
-- {:.indent-0}**Article IV**: States
-- {:.indent-0}**Article V**: Amendment process (very difficult)
-- {:.indent-0}**Article VI**: Federal Supremacy (within a system of “dual sovereignty”)
-- {:.indent-0}**Article VII**: Ratification
-- {:.indent-2}**1st Amendment: Protects freedom of religion, freedom of speech, freedom of the press, freedom of assembly and the right to petition the government. Ratified 1791.
+- {:.indent-0}**Amendments**
+- {:.indent-2}**1st Amendment**: Protects freedom of religion, freedom of speech, freedom of the press, freedom of assembly and the right to petition the government. Ratified 1791.
 - {:.indent-2}**3rd Amendment**: Restricts the quartering of soldiers in private homes. Ratified 1791.
 - {:.indent-2}**4th Amendment**: Prohibits unreasonable searches and seizures and sets out requirements for search warrants based on probable cause. Ratified 1791.
 - {:.indent-2}**5th Amendment**: Sets out rules for indictment by grand jury and eminent domain, protects the right to due process, and prohibits self-incrimination and double jeopardy. Ratified 1791.
@@ -83,36 +83,6 @@ See [U.S. Constitution](https://www.law.cornell.edu/constitution/index.html) for
 
 ---
 
-## Major themes and concepts
-
-Constitutions serve two major functions. These are (1) recognize and protect individual and group rights, and (2) “constitute” the government by creating institutions, specifying their powers, and establishing the ground rules. The two central concepts in this course are **federalism** and **separation of powers**.
-
-"Federalism" in the U.S. context:
-
-- {:.indent-0}Federalism issues are now highly contested and in flux:
-- {:.indent-2}(A) New Deal (1930s) - 1970s: federalism issues settled/stable; broad deference to congressional power.
-- {:.indent-2}(B) 1980s: “states’ rights” revival in political, and judicial realm. Federalism issues become increasingly contested.
-- {:.indent-2}(C) 1990s - present: states’ rights campaign achieves dominance on Supreme Court, often at expense of other constitutional values.
-- {:.indent-2}(D) Judicial activism deployed to advance states’ rights theory of federalism.
-
-A major question in US constitutional law has been whether and to what extent the judiciary should define and enforce federalism-based limits (aka, “states-rights” limits) on the national government. The question of how power should be allocated between the national government and state governments (aka, federalism issues) has no intrinsic political valence. However, federalism issues often divide Supreme Court on political/ideological lines. Recent Supreme Court decisions interpreting the Constitution:
-
-- {:.indent-2}Parents Involved (2007):  The Constitution bars states and localities from using most (maybe any) race conscious measures to keep public schools from becoming segregated by race.
-- {:.indent-2}Citizens United (2010): The Constitution bars regulation of corporate spending on elections - leaves government powerless to prevent flooding of the political process with corporate wealth.
-- {:.indent-2}Shelby County (2013):  The Constitution bars Congress from maintaining key provisions of the Voting Rights Act of 1965 that had curbed state actions disenfranchising people of color.
-
-Frederick Douglass, “The Constitution of the United States: Is It Pro-Slavery or Anti-slavery?” (1860): "First let me state what is not the question… It is not whether slavery existed in the United States at the time of the adoption of the Constitution; it is not whether slaveholders took part in the framing of the Constitution; it is not whether those slaveholders, in their hearts, intended to secure certain advantages for slavery; it is not whether the American Government has been wielded during seventy-two years in favour of the propagation and permanence of slavery; it is not whether a pro-slavery interpretation has been put upon the Constitution by the American Courts — The real and exact question [is whether] the United States Constitution guarantees to any class of people the right to enslave, or hold as property, any other class of people in that country… The American Government and the American Constitution are spoken of in a manner which would naturally lead the hearer to believe that one is identical with the other; when the truth is, they are distinct in character as is a ship and a compass. The one may point right and the other steer wrong. The Constitution may be right, the Government wrong. If the Government has been governed by mean, sordid, and wicked passions, it does not follow that the Constitution is mean, sordid, and wicked.  If the South has made the Constitution bend to the purposes of slavery, let the North now make that instrument bend to the cause of freedom and justice.
-
-What are the implications of Douglass’s argument? Why might he have adopted this stance (while other abolitionists condemned the Constitution as pro-slavery)?
-
-Possible rationales for supporting the Constitution are (1) "rule of law” rationale; and (2) pragmatic or “consequentialist” rationale.  
-
-The “rule of law” rationale rests on the circumstances of the founding that speak to the legitimacy (or not) of the Constitution at adoption, and thus the rule-of-law rationale for supporting it.
-
-The “consequentialist” rationale focuses on the implications for how the courts should interpret the Constitution. These include the use of “originalism” (especially from founding era); interpreting the constitution as a “living constitution” v. fixed meaning; and the role of courts in democratic society.
-
----
-
 ## Slavery and the Constitution
 
 Const. Art. I, § 2: "Representatives … shall be apportioned among the several States … according to their respective Numbers, which shall be determined by adding to the whole Number of free Persons, including those bound to service for a Term of Years, and excluding Indians not taxed, three fifths of all other Persons."
@@ -125,64 +95,43 @@ Const. Art. V: ""... no Amendment which shall be made prior to the Year [1808] s
 
 Const. Art. II, § 1: Presidents chosen by “electoral votes,” not popular vote.
 
-Likely results during founding era if Presidents chosen by direct vote of enfranchised people, not through Electoral College?
-
 - {:.indent-2}2000 Election: George W. Bush loses popular vote – becomes President.
 - {:.indent-2}2016 Election: Trump loses popular vote by 2.9 million – becomes President.
 - {:.indent-2}2020 Election: Joe Biden wins popular vote by over 7 million; but a change of about 100k votes could have given an electoral college victory to Trump.
 
-At the Constitution's Bicentennial in 1987, Chief Justice Thurgood Marshall said "[t]he focus of this celebration invites a complacent belief that the vision of those who debated and compromised in Philadelphia yielded the "more perfect Union" it is said we now enjoy. I cannot accept this invitation, for I do not believe that the meaning of the Constitution was forever "fixed" at the Philadelphia Convention. Nor do I find the wisdom, foresight, and sense of justice exhibited by the Framers particularly profound. To the contrary, the government they devised was defective from the start, requiring several amendments, a civil war, and momentous social transformation to attain the system of constitutional government, and its respect for the individual freedoms and human rights, we hold as fundamental today." *Commemorating the Wrong Document?* (1987).  
-
-When contemporary Americans cite "The Constitution," they invoke a concept that is vastly different from what the Framers barely began to construct two centuries ago.
+At the Constitution's Bicentennial in 1987, Chief Justice Thurgood Marshall said "[t]he focus of this celebration invites a complacent belief that the vision of those who debated and compromised in Philadelphia yielded the "more perfect Union" it is said we now enjoy. I cannot accept this invitation, for I do not believe that the meaning of the Constitution was forever "fixed" at the Philadelphia Convention. Nor do I find the wisdom, foresight, and sense of justice exhibited by the Framers particularly profound. To the contrary, the government they devised was defective from the start, requiring several amendments, a civil war, and momentous social transformation to attain the system of constitutional government, and its respect for the individual freedoms and human rights, we hold as fundamental today." *Commemorating the Wrong Document?* (1987). When contemporary Americans cite "The Constitution," they invoke a concept that is vastly different from what the Framers barely began to construct two centuries ago.
 
 ---
 
 ## Wealth, class, economic inequality, and the Constitution
 
-**Federalists** were proponents of the proposed Constitution. **Antifederalists** opposed the proposed Constitution. There was **one point of agreement**: A political system organized on the principle of democratic self-governance is in severe tension (and perhaps inconsistent) with an economic system that generates and protects large disparities of wealth.
+**Federalists** were proponents of the proposed Constitution. **Antifederalists** opposed the proposed Constitution. There was one point of agreement: A political system organized on the principle of democratic self-governance is in severe tension (and perhaps inconsistent) with an economic system that generates and protects large disparities of wealth.
 
 A significant motivation for Federalists was protection of existing property rights and wealth distribution from “excess” democracy. Madison at the closed constitutional debates in Philadelphia:
-“In future times a great majority of the people will not only be without land, but any other sort of property. These may combine under the influence of their common situation; in which case the rights of property will not be secure.”
+“In future times a great majority of the people will not only be without land, but any other sort of property. These may combine under the influence of their common situation; in which case the rights of property will not be secure.” Some warning signs for Federalists were (1) powerful egalitarian ethos following the Revolution; (2) redistributive state legislation; and (3) Shay’s rebellion (armed uprising in Western Massachusetts and Worcester in 1786 and 1787 in response to a debt crisis among the citizenry and in opposition to the state government's increased efforts to collect taxes both on individuals and their trades.). Federalist response to these threats was constitutional design.
 
-Some warning signs for Federalists were (1) powerful egalitarian ethos following the Revolution; (2) redistributive state legislation; and (3) Shay’s rebellion. Federalist response to these threats was constitutional design.
+**Federalist No. 10** Premises: Main threat in system of self-government danger of “factions.” Greatest cause of factions is disparities of property and wealth. A central object of government is protection of property rights. State redistributive legislation is “wicked” and “improper” (Madison specially condemns “a rage for paper money, for an abolition of debt and for an equal distribution of property”). Solutions: Federalist 10 and 51 Blueprint (1) Set government power at a remove from the people (rejection of “pure 	democracy”). (2) Build inertia into federal government (separation of powers/“checks and balances”). (3) Impose direct limits on state governments (e.g., Article I, §10).
 
-**Federalist No. 10**
+**Competing political philosophies and models of government at founding**
 
-Premises:
-	• main threat in system of self-government danger of “factions.”
-	• greatest cause of factions is disparities of property and wealth.
-	• a central object of government is protection of property rights.
-	• state redistributive legislation is “wicked” and “improper” (Madison specially condemns “a rage for paper money, for an abolition of debt and for an equal distribution of property”).
-Solutions: Federalist 10 and 51 Blueprint
-	(1) Set government power at a remove from the people (rejection of 			“pure 	democracy”).
-	(2) Build inertia into federal government (separation of powers/ 			“checks and balances”).
-Q: How does the Constitution make action by the national government difficult?
-Q: How do such restraints protect property rights and existing distribution of wealth?
-	(3) Impose direct limits on state governments (e.g., Article I, §10).
+- {:.indent-0}**(1) Classical Republicanism**:
+- {:.indent-2}advanced by antifederalists
+- {:.indent-2}decentralized, democratic self-governance
+- {:.indent-2}citizens animated by “civic virtue” - pursuit of common good
+- {:.indent-2}wide disparities of wealth must be avoided to minimize factions
 
-Competing political philosophies and models of government at founding
-	[Text p. 15 et seq]
-	Classical Republicanism
-	Pluralism (aka 18th C Liberalism)
-	“Madisonian Republicanism”
-1. Classical Republicanism:
-	• advanced by antifederalists
-	• decentralized, democratic self-governance
-	• citizens animated by “civic virtue” - pursuit of common good
-	• wide disparities of wealth must be avoided to minimize factions
+- {:.indent-0}**(2)Pluralism (18th century liberalism)**:
+- {:.indent-2}doubt concept of “the common good”
+- {:.indent-2}self-interest, not civic virtue, dominant motivator
+- {:.indent-2}faction inevitable
+- {:.indent-2}“the good” is maximization of private interests
+- {:.indent-2}role of government is to create fair process / ground rules
 
-2. Pluralism (18th century liberalism):
-	• doubt concept of “the common good”
-	• self-interest, not civic virtue, dominant motivator
-	• faction inevitable
-	• “the good” is maximization of private interests
-	• role of government is to create fair process / ground rules
-
-3. Madisonian Republicanism (synthesis of 1 & 2):
-	• faction unavoidable - government cannot erase self-interest
-	• but government must advance the common good, not simply facilitate 		private interests
-	• means to accomplish set out in Federalist 10 & 51:
-		remove power from direct control of people through system of 			representation; and encourage civic virtue in the representatives.
+- {:.indent-0}**(3)Madisonian Republicanism (synthesis of 1 & 2)**:
+- {:.indent-2}faction unavoidable - government cannot erase self-interest
+- {:.indent-2}but government must advance the common good, not simply facilitate 		private interests
+- {:.indent-2}means to accomplish set out in Federalist 10 & 51:
+- {:.indent-2}remove power from direct control of people through system of representation; and encourage civic virtue in the representatives.
 
 ---
 
@@ -193,6 +142,23 @@ Basic Concepts are federalism, separation of powers, power of judicial review an
 ### Federalism
 
 System of "dual sovereignty" by which the states operate under a national or "federal" government but still retain certain independent powers and sovereign attributes.  Federalism issues involve questions about the appropriate distribution of authority between the national government and the states, and the relationship between those units of government.  The Supreme Court at present is deeply divided on basic issues of federalism (recall, e.g., *Term Limits* and *Seminole Tribe*).  When the modern Court invokes "federalism" as justification for declining to adjudicate cases (e.g. *Lyons*, which the Court formally decided on standing grounds) it has concluded that federal judicial oversight of state or local governments in a particular context would constitute an inappropriate federal encroachment upon state sovereignty or areas traditionally committed to the states.
+
+- {:.indent-2}(A) New Deal (1930s) - 1970s: federalism issues settled/stable; broad deference to congressional power.
+- {:.indent-2}(B) 1980s: “states’ rights” revival in political and judicial realm. Federalism issues increasingly contested.
+- {:.indent-2}(C) 1990s - present: states’ rights campaign achieves dominance on Supreme Court, often at expense of other constitutional values.
+- {:.indent-2}(D) Judicial activism deployed to advance states’ rights theory of federalism.
+
+A major question in US constitutional law has been whether and to what extent the judiciary should define and enforce federalism-based limits (aka, “states-rights” limits) on the national government. The question of how power should be allocated between the national government and state governments (aka, federalism issues) has no intrinsic political valence. However, federalism issues often divide Supreme Court on political/ideological lines. Recent Supreme Court decisions interpreting the Constitution:
+
+**Parents Involved (2007)** (Constitution bars states and localities from using most (maybe any) race conscious measures to keep public schools from becoming segregated by race)
+
+**Citizens United (2010)** (Constitution bars regulation of corporate spending on elections, leaving government powerless to prevent flooding of the political process with corporate wealth)
+
+**Shelby County (2013)** (Constitution bars Congress from maintaining key provisions of the Voting Rights Act of 1965 that had curbed state actions disenfranchising people of color)
+
+Frederick Douglass: “If the South has made the Constitution bend to the purposes of slavery, let the North now make that instrument bend to the cause of freedom and justice." Other abolitionists condemned the Constitution as pro-slavery. Possible rationales for supporting the Constitution are **(1) "rule of law” rationale**; and **(2) pragmatic or “consequentialist” rationale**. The “rule of law” rationale rests on the circumstances of the founding that speak to the legitimacy (or not) of the Constitution at adoption, and thus the rule-of-law rationale for supporting it. The “consequentialist” rationale focuses on the implications for how the courts should interpret the Constitution. These include the use of “originalism” (especially from founding era); interpreting the constitution as a “living constitution” v. fixed meaning; and the role of courts in democratic society.
+
+---
 
 ### Separation of Powers
 
