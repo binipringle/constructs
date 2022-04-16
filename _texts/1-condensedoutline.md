@@ -162,31 +162,40 @@ Frederick Douglass said “If the South has made the Constitution bend to the pu
 
 ### Separation of Powers
 
-Distribution of powers among the three branches of the national government.  When the modern Court speaks of "separation of powers" as justification for declining to adjudicate cases (e.g. *Allen v. Wright*, which the Court formally decided on standing grounds) it has concluded that the broad availability of federal courts as a means for enforcing legal norms against other branches of the national government would expand the role and power of the judiciary beyond constitutional boundaries and would inappropriately intrude into the spheres of the political departments of government.
+Distribution of powers among the three branches of the national government.  When the modern Court speaks of "separation of powers" as justification for declining to adjudicate cases, it has concluded that the broad availability of federal courts as a means for enforcing legal norms against other branches of the national government would expand the role and power of the judiciary beyond constitutional boundaries and would inappropriately intrude into the spheres of the political departments of government.
 
-Note: the Court's conception and applications of "federalism" and "separation of powers" principles are highly controversial and in flux.
+- {:.indent-0}**Allen v. Wright (1984)**:
+- {:.indent-2}Holding/rule: Citizens do not have standing to sue a federal government agency based on the influence that the agency's determinations might have on third parties.
+
+---
 
 ### Power of Judicial Review
 
 Power of the federal judiciary to review the constitutionality of statutes (and other governmental acts) and to declare void any such acts found to be inconsistent with the Constitution.
 
+---
+
 ### Countermajoritarian Difficulty
 
-The idea that an essential tension exists between a system of representative democracy founded on the principle of majority rule, and a power in non-elected, life-tenured federal judges to negate laws enacted by a majority of the people’s representatives. Hamilton attempted a response to this critique in Federalist No. 78, and many modern commentators question whether the power of judicial review really poses a "countermajoritarian difficulty," since the constitution in many ways is countermajoritarian by design (e.g., the Bill of Rights places certain issues beyond the reach of majorities). Nevertheless, the modern Supreme Court frequently speaks about the "properly limited role of the courts in a representative democracy," to some degree crediting the notion of a countermajoritarian difficulty.
+The idea that an essential tension exists between a system of representative democracy founded on the principle of majority rule, and a power in non-elected, life-tenured federal judges to negate laws enacted by a majority of the people’s representatives.
+
+Hamilton attempted a response to this critique in Federalist No. 78, and many modern commentators question whether the power of judicial review really poses a "countermajoritarian difficulty," since the constitution in many ways is countermajoritarian by design (e.g., the Bill of Rights places certain issues beyond the reach of majorities). Nevertheless, the modern Supreme Court frequently speaks about the "properly limited role of the courts in a representative democracy," to some degree crediting the notion of a countermajoritarian difficulty.
+
+---
 
 ## Source of judicial power - Article III  
 
-**Section 1 vests jurisdiction:**
+**Article III, Section 1 vests jurisdiction:**
 
-The judicial Power of the United States, shall be vested in one supreme Court, and in such inferior Courts as the Congress may from time to time ordain and establish. The Judges, both of the supreme and inferior Courts, shall hold their Offices during good Behaviour, and shall, at stated Times, receive for their Services, a Compensation, which shall not be diminished during their Continuance in Office.
+*The judicial Power of the United States, shall be vested in one supreme Court, and in such inferior Courts as the Congress may from time to time ordain and establish. The Judges, both of the supreme and inferior Courts, shall hold their Offices during good Behaviour, and shall, at stated Times, receive for their Services, a Compensation, which shall not be diminished during their Continuance in Office.*
 
-**Section 2 clause 1 enumerates the types of cases over which federal courts have jurisdiction:**
+**Article III, Section 2 clause 1 enumerates the types of cases over which federal courts have jurisdiction:**
 
-The judicial Power shall extend to all Cases, in Law and Equity, arising under this Constitution, the Laws of the United States, and Treaties made, or which shall be made, under their Authority;—to all Cases affecting Ambassadors, other public Ministers and Consuls;—to all Cases of admiralty and maritime Jurisdiction;—to Controversies to which the United States shall be a Party;—to Controversies between two or more States;—between a State and Citizens of another State,—between Citizens of different States,—between Citizens of the same State claiming Lands under Grants of different States, and between a State, or the Citizens thereof, and foreign States, Citizens or Subjects.
+*The judicial Power shall extend to all Cases, in Law and Equity, arising under this Constitution, the Laws of the United States, and Treaties made, or which shall be made, under their Authority;—to all Cases affecting Ambassadors, other public Ministers and Consuls;—to all Cases of admiralty and maritime Jurisdiction;—to Controversies to which the United States shall be a Party;—to Controversies between two or more States;—between a State and Citizens of another State,—between Citizens of different States,—between Citizens of the same State claiming Lands under Grants of different States, and between a State, or the Citizens thereof, and foreign States, Citizens or Subjects.*
 
-**Section 2 clause 2 distinguishes original and appellate jurisdiction of Supreme Court:**
+**Article III, Section 2 clause 2 distinguishes original and appellate jurisdiction of Supreme Court:**
 
-In all Cases affecting Ambassadors, other public Ministers and Consuls, and those in which a State shall be Party, the supreme Court shall have original Jurisdiction. In all the other Cases before mentioned, the supreme Court shall have appellate Jurisdiction, both as to Law and Fact, with such Exceptions, and under such Regulations as the Congress shall make.
+*In all Cases affecting Ambassadors, other public Ministers and Consuls, and those in which a State shall be Party, the supreme Court shall have original Jurisdiction. In all the other Cases before mentioned, the supreme Court shall have appellate Jurisdiction, both as to Law and Fact, with such Exceptions, and under such Regulations as the Congress shall make.*
 
 - {:.indent-0}**Marbury v. Madison (1803)**
 - {:.indent-2}Holding/rule: Congress may not enlarge Supreme Court's original jurisdiction beyond that prescribed by Article III.
