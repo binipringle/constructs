@@ -14,9 +14,6 @@ toc:
 - Power of Judicial Review
 - Countermajoritarian Difficulty
 - Source of judicial power - Article III
-- Marbury v. Madison
-- Martin v. Hunters Lessee
-- McCulloch v. Maryland
 - Theories of Constitutional Interpretation
 - Justiciability
 - Standing
@@ -120,14 +117,14 @@ A significant motivation for Federalists was protection of existing property rig
 - {:.indent-2}citizens animated by “civic virtue” - pursuit of common good
 - {:.indent-2}wide disparities of wealth must be avoided to minimize factions
 
-- {:.indent-0}**(2)Pluralism (18th century liberalism)**:
+- {:.indent-0}**(2) Pluralism (18th century liberalism)**:
 - {:.indent-2}doubt concept of “the common good”
 - {:.indent-2}self-interest, not civic virtue, dominant motivator
 - {:.indent-2}faction inevitable
 - {:.indent-2}“the good” is maximization of private interests
 - {:.indent-2}role of government is to create fair process / ground rules
 
-- {:.indent-0}**(3)Madisonian Republicanism (synthesis of 1 & 2)**:
+- {:.indent-0}**(3) Madisonian Republicanism (synthesis of 1 & 2)**:
 - {:.indent-2}faction unavoidable - government cannot erase self-interest
 - {:.indent-2}but government must advance the common good, not simply facilitate 		private interests
 - {:.indent-2}means to accomplish set out in Federalist 10 & 51:
@@ -150,13 +147,16 @@ System of "dual sovereignty" by which the states operate under a national or "fe
 
 A major question in US constitutional law has been whether and to what extent the judiciary should define and enforce federalism-based limits (aka, “states-rights” limits) on the national government. The question of how power should be allocated between the national government and state governments (aka, federalism issues) has no intrinsic political valence. However, federalism issues often divide Supreme Court on political/ideological lines. Recent Supreme Court decisions interpreting the Constitution:
 
-**Parents Involved (2007)** (Constitution bars states and localities from using most (maybe any) race conscious measures to keep public schools from becoming segregated by race)
+- {:.indent-0}**Parents Involved (2007)**
+- {:.indent-2}Holding/rule: Constitution bars states and localities from using most (maybe any) race conscious measures to keep public schools from becoming segregated by race.
 
-**Citizens United (2010)** (Constitution bars regulation of corporate spending on elections, leaving government powerless to prevent flooding of the political process with corporate wealth)
+- {:.indent-0}**Citizens United (2010)**
+- {:.indent-2}Holding/rule: Constitution bars regulation of corporate spending on elections, leaving government powerless to prevent flooding of the political process with corporate wealth.
 
-**Shelby County (2013)** (Constitution bars Congress from maintaining key provisions of the Voting Rights Act of 1965 that had curbed state actions disenfranchising people of color)
+- {:.indent-0}**Shelby County (2013)**
+- {:.indent-2}Holding/rule: Constitution bars Congress from maintaining key provisions of the Voting Rights Act of 1965 that had curbed state actions disenfranchising people of color.
 
-Frederick Douglass: “If the South has made the Constitution bend to the purposes of slavery, let the North now make that instrument bend to the cause of freedom and justice." Other abolitionists condemned the Constitution as pro-slavery. Possible rationales for supporting the Constitution are **(1) "rule of law” rationale**; and **(2) pragmatic or “consequentialist” rationale**. The “rule of law” rationale rests on the circumstances of the founding that speak to the legitimacy (or not) of the Constitution at adoption, and thus the rule-of-law rationale for supporting it. The “consequentialist” rationale focuses on the implications for how the courts should interpret the Constitution. These include the use of “originalism” (especially from founding era); interpreting the constitution as a “living constitution” v. fixed meaning; and the role of courts in democratic society.
+Frederick Douglass said “If the South has made the Constitution bend to the purposes of slavery, let the North now make that instrument bend to the cause of freedom and justice." Other abolitionists condemned the Constitution as pro-slavery. Possible rationales for supporting the Constitution are **(1) "rule of law” rationale**; and **(2) pragmatic or “consequentialist” rationale**. The “rule of law” rationale rests on the circumstances of the founding that speak to the legitimacy (or not) of the Constitution at adoption, and thus the rule-of-law rationale for supporting it. The “consequentialist” rationale focuses on the implications for how the courts should interpret the Constitution. These include the use of “originalism” (especially from founding era); interpreting the constitution as a “living constitution” v. fixed meaning; and the role of courts in democratic society.
 
 ---
 
@@ -188,26 +188,18 @@ The judicial Power shall extend to all Cases, in Law and Equity, arising under t
 
 In all Cases affecting Ambassadors, other public Ministers and Consuls, and those in which a State shall be Party, the supreme Court shall have original Jurisdiction. In all the other Cases before mentioned, the supreme Court shall have appellate Jurisdiction, both as to Law and Fact, with such Exceptions, and under such Regulations as the Congress shall make.
 
-### Marbury v. Madison
+- {:.indent-0}**Marbury v. Madison (1803)**
+- {:.indent-2}Holding/rule: Congress may not enlarge Supreme Court's original jurisdiction beyond that prescribed by Article III.
+- {:.indent-2}Significance: Right to a remedy. Executive branch officials subject to suit and to direction by the courts regarding "what the law is." Supremacy of written constitution. Establishes power of judicial review: Role of Court as interpreter of Constitution. Effect of declaration that statute is inconsistent with Constitution.
 
-Holding/rule: Congress may not enlarge Supreme Court's original jurisdiction beyond that prescribed by Article III.
+- {:.indent-0}**Martin v. Hunters Lessee (1816)**
+- {:.indent-2}Holding/rule: Under Article III of the Constitution, the U.S. Supreme Court has authority to exercise appellate review of state-court decisions. Permitting appellate review of state-court decisions by the Supreme Court does not impair the sovereignty of states, nor does it impair the independence of state judges. State judges are not absolutely independent from federal laws, but are bound to follow the Constitution of the United States at all times. It thus follows that the Supreme Court is vested with authority to conduct appellate review by the Constitution. Vesting this authority in the Supreme Court ensures impartiality in decisions that might not otherwise be present among individual state judges. It also ensures uniformity of decisions throughout the whole United States upon all constitutional subjects. Thus, the United States Supreme Court properly exercised appellate review of the Virginia courts’ decision.
+- {:.indent-2}Significance: Supreme Court has appellate jurisdiction over state court decisions that adjudicate questions of federal law (constitutional, statutory or otherwise).  Article III gives Supreme Court appellate jurisdiction over all cases arising under federal law, irrespective of whether the case originated in a state court or a federal court.
 
-Significance: Right to a remedy. Executive branch officials subject to suit and to direction by the courts regarding "what the law is." Supremacy of written constitution. Establishes power of judicial review: Role of Court as interpreter of Constitution. Effect of declaration that statute is inconsistent with Constitution.
-
-### Martin v. Hunters Lessee
-
-Holding/rule: Under Article III of the Constitution, the U.S. Supreme Court has authority to exercise appellate review of state-court decisions. Permitting appellate review of state-court decisions by the Supreme Court does not impair the sovereignty of states, nor does it impair the independence of state judges. State judges are not absolutely independent from federal laws, but are bound to follow the Constitution of the United States at all times. It thus follows that the Supreme Court is vested with authority to conduct appellate review by the Constitution. Vesting this authority in the Supreme Court ensures impartiality in decisions that might not otherwise be present among individual state judges. It also ensures uniformity of decisions throughout the whole United States upon all constitutional subjects. Thus, the United States Supreme Court properly exercised appellate review of the Virginia courts’ decision.
-
-Significance: Supreme Court has appellate jurisdiction over state court decisions that adjudicate questions of federal law (constitutional, statutory or otherwise).  Article III gives Supreme Court appellate jurisdiction over all cases arising under federal law, irrespective of whether the case originated in a state court or a federal court.
-
-### McCulloch v. Maryland
-
-Rule: The Constitution specifically delegates to Congress the power to tax and spend for the general welfare, and to make such other laws as it deems necessary and proper to carry out this enumerated power. Additionally, federal laws are supreme and states may not make laws that interfere with the federal government’s exercise of its constitutional powers.
-
-Issue: (1) Does Congress have implied constitutional power to create a bank? (2) If so, may individual states tax a federally created bank?
-Holding and Reasoning (Marshall, C.J.)
-
-Holding and reasoning: (1) Yes. Congress has the constitutional power to charter the Bank of the United States. This power is ultimately derived from the Constitution’s grant to Congress of the general power to “tax and spend” for the general welfare. However, in addition to its enumerated powers, Congress is also given general powers under the Constitution’s Necessary and Proper Clause, which states that Congress may create laws it deems necessary and proper to help carry out its enumerated powers. The Necessary and Proper Clause functions to expand, not limit, Congress’s enumerated powers. Congress decided that chartering the Bank of the United States was a necessary and proper method of raising revenue to carry out its overall taxing and spending powers. (2) No. The Bank was created by federal statute. Maryland may not tax the Bank as a federal institution because federal laws are supreme to state laws. A federally created institution may not be inhibited by a state law. The Bank of the United States functions to serve the entire nation. It is thus inappropriate for it to be controlled by one part of the nation (i.e. Maryland) through a tax. The judgment of the court of appeals is reversed.
+- {:.indent-0}**McCulloch v. Maryland (1819)**
+- {:.indent-2}Rule: The Constitution specifically delegates to Congress the power to tax and spend for the general welfare, and to make such other laws as it deems necessary and proper to carry out this enumerated power. Additionally, federal laws are supreme and states may not make laws that interfere with the federal government’s exercise of its constitutional powers.
+- {:.indent-2}Issue: (1) Does Congress have implied constitutional power to create a bank? (2) If so, may individual states tax a federally created bank?
+- {:.indent-2}Holding and reasoning: (1) Yes. Congress has the constitutional power to charter the Bank of the United States. This power is ultimately derived from the Constitution’s grant to Congress of the general power to “tax and spend” for the general welfare. However, in addition to its enumerated powers, Congress is also given general powers under the Constitution’s Necessary and Proper Clause, which states that Congress may create laws it deems necessary and proper to help carry out its enumerated powers. The Necessary and Proper Clause functions to expand, not limit, Congress’s enumerated powers. Congress decided that chartering the Bank of the United States was a necessary and proper method of raising revenue to carry out its overall taxing and spending powers. (2) No. The Bank was created by federal statute. Maryland may not tax the Bank as a federal institution because federal laws are supreme to state laws. A federally created institution may not be inhibited by a state law. The Bank of the United States functions to serve the entire nation. It is thus inappropriate for it to be controlled by one part of the nation (i.e. Maryland) through a tax. The judgment of the court of appeals is reversed.
 
 ---
 
