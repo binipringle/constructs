@@ -13,7 +13,7 @@ toc:
 - Separation of Powers
 - Power of Judicial Review
 - Countermajoritarian Difficulty
-- Source of judicial power - Article III
+- Source of Judicial Power Article III
 - Theories of Constitutional Interpretation
 - Justiciability
 - Standing
@@ -82,27 +82,27 @@ See [U.S. Constitution](https://www.law.cornell.edu/constitution/index.html) for
 
 ## Slavery and the Constitution
 
-Const. Art. I, § 2: "Representatives … shall be apportioned among the several States … according to their respective Numbers, which shall be determined by adding to the whole Number of free Persons, including those bound to service for a Term of Years, and excluding Indians not taxed, three fifths of all other Persons."
+**Article I, Section 2**: "Representatives … shall be apportioned among the several States … according to their respective Numbers, which shall be determined by adding to the whole Number of free Persons, including those bound to service for a Term of Years, and excluding Indians not taxed, three fifths of all other Persons."
 
-Const. Art. I, §9, cl. 1: "The Migration or Importation of such Persons as any of the States now existing shall think proper to admit, shall not be prohibited by Congress prior to the Year [1808]."
+**Article I, Section 9, clause 1**: "The Migration or Importation of such Persons as any of the States now existing shall think proper to admit, shall not be prohibited by Congress prior to the Year [1808]."
 
-Const. Art. IV §2: "No Person held to Service or Labor in one State under the Laws thereof, escaping into another, shall . . . be discharged from such Service or Labor, but shall be delivered up on Claim of the Party to whom Service or Labor may be due.""
+**Article IV, Section 2**: "No Person held to Service or Labor in one State under the Laws thereof, escaping into another, shall . . . be discharged from such Service or Labor, but shall be delivered up on Claim of the Party to whom Service or Labor may be due.""
 
-Const. Art. V: ""... no Amendment which shall be made prior to the Year [1808] shall in any manner affect [Art. I, §9, cl. 1]."
+**Article V**: "... no Amendment which shall be made prior to the Year [1808] shall in any manner affect [Art. I, §9, cl. 1]."
 
-Const. Art. II, § 1: Presidents chosen by “electoral votes,” not popular vote.
+**Article II, Section 1**: Presidents chosen by “electoral votes,” not popular vote.
 
 - {:.indent-2}2000 Election: George W. Bush loses popular vote – becomes President.
 - {:.indent-2}2016 Election: Trump loses popular vote by 2.9 million – becomes President.
 - {:.indent-2}2020 Election: Joe Biden wins popular vote by over 7 million; but a change of about 100k votes could have given an electoral college victory to Trump.
 
-At the Constitution's Bicentennial in 1987, Chief Justice Thurgood Marshall said "[t]he focus of this celebration invites a complacent belief that the vision of those who debated and compromised in Philadelphia yielded the "more perfect Union" it is said we now enjoy. I cannot accept this invitation, for I do not believe that the meaning of the Constitution was forever "fixed" at the Philadelphia Convention. Nor do I find the wisdom, foresight, and sense of justice exhibited by the Framers particularly profound. To the contrary, the government they devised was defective from the start, requiring several amendments, a civil war, and momentous social transformation to attain the system of constitutional government, and its respect for the individual freedoms and human rights, we hold as fundamental today." *Commemorating the Wrong Document?* (1987). When contemporary Americans cite "The Constitution," they invoke a concept that is vastly different from what the Framers barely began to construct two centuries ago.
+At the Constitution's Bicentennial in 1987, Chief Justice Thurgood Marshall: "[t]he focus of this celebration invites a complacent belief that the vision of those who debated and compromised in Philadelphia yielded the "more perfect Union" it is said we now enjoy. I cannot accept this invitation, for I do not believe that the meaning of the Constitution was forever "fixed" at the Philadelphia Convention. Nor do I find the wisdom, foresight, and sense of justice exhibited by the Framers particularly profound. To the contrary, the government they devised was defective from the start, requiring several amendments, a civil war, and momentous social transformation to attain the system of constitutional government, and its respect for the individual freedoms and human rights, we hold as fundamental today." *Commemorating the Wrong Document?* (1987). When contemporary Americans cite "The Constitution," they invoke a concept that is vastly different from what the Framers barely began to construct two centuries ago.
 
 ---
 
 ## Wealth, class, economic inequality, and the Constitution
 
-**Federalists** were proponents of the proposed Constitution. **Antifederalists** opposed the proposed Constitution. There was one point of agreement: A political system organized on the principle of democratic self-governance is in severe tension (and perhaps inconsistent) with an economic system that generates and protects large disparities of wealth.
+Federalists were proponents of the proposed Constitution. Antifederalists opposed the proposed Constitution. They agreed on one point: A political system organized on the principle of democratic self-governance is in severe tension (and perhaps inconsistent) with an economic system that generates and protects large disparities of wealth.
 
 A significant motivation for Federalists was protection of existing property rights and wealth distribution from “excess” democracy. Madison at the closed constitutional debates in Philadelphia:
 “In future times a great majority of the people will not only be without land, but any other sort of property. These may combine under the influence of their common situation; in which case the rights of property will not be secure.” Some warning signs for Federalists were (1) powerful egalitarian ethos following the Revolution; (2) redistributive state legislation; and (3) Shay’s rebellion (armed uprising in Western Massachusetts and Worcester in 1786 and 1787 in response to a debt crisis among the citizenry and in opposition to the state government's increased efforts to collect taxes both on individuals and their trades.). Federalist response to these threats was constitutional design.
@@ -136,7 +136,9 @@ A significant motivation for Federalists was protection of existing property rig
 
 Basic Concepts are federalism, separation of powers, power of judicial review and countermajoritarian difficulty.
 
-### Federalism
+---
+
+## Federalism
 
 System of "dual sovereignty" by which the states operate under a national or "federal" government but still retain certain independent powers and sovereign attributes.  Federalism issues involve questions about the appropriate distribution of authority between the national government and the states, and the relationship between those units of government.  The Supreme Court at present is deeply divided on basic issues of federalism (recall, e.g., *Term Limits* and *Seminole Tribe*).  When the modern Court invokes "federalism" as justification for declining to adjudicate cases (e.g. *Lyons*, which the Court formally decided on standing grounds) it has concluded that federal judicial oversight of state or local governments in a particular context would constitute an inappropriate federal encroachment upon state sovereignty or areas traditionally committed to the states.
 
@@ -160,18 +162,29 @@ Frederick Douglass said “If the South has made the Constitution bend to the pu
 
 ---
 
-### Separation of Powers
+## Separation of Powers
 
 Distribution of powers among the three branches of the national government.  When the modern Court speaks of "separation of powers" as justification for declining to adjudicate cases, it has concluded that the broad availability of federal courts as a means for enforcing legal norms against other branches of the national government would expand the role and power of the judiciary beyond constitutional boundaries and would inappropriately intrude into the spheres of the political departments of government.
 
 - {:.indent-0}**Allen v. Wright (1984)**:
-- {:.indent-2}Holding/rule: Citizens do not have standing to sue a federal government agency based on the influence that the agency's determinations might have on third parties.
+- {:.indent-2}Holding/rule: Citizens do not have standing to sue a federal government agency based on the influence that the agency's determinations might have on third parties. See also in standing below.
 
 ---
 
 ### Power of Judicial Review
 
 Power of the federal judiciary to review the constitutionality of statutes (and other governmental acts) and to declare void any such acts found to be inconsistent with the Constitution.
+
+- {:.indent-0}**U.S. Term Limits v. Thornton (1995)**
+- {:.indent-2}Holding/rule: States may not impose qualifications for prospective members of Congress stricter than those specified in the Constitution.
+
+- {:.indent-0}**Marbury v. Madison (1803)**
+- {:.indent-2}Holding/rule: Congress may not enlarge Supreme Court's original jurisdiction beyond that prescribed by Article III.
+- {:.indent-2}Significance: Right to a remedy. Executive branch officials subject to suit and to direction by the courts regarding "what the law is." Supremacy of written constitution. Establishes power of judicial review: Role of Court as interpreter of Constitution. Effect of declaration that statute is inconsistent with Constitution.
+
+- {:.indent-0}**U.S. v. Carolene Products (1938)**
+- {:.indent-2}Holding/rule: The federal government has the power to prohibit filled milk from being shipped in interstate commerce. Economic regulations are "presumptively constitutional" under a deferential standard of review known as the "rational basis test".
+- {:.indent-2}Footnote Four: The Court will exercise a stricter standard of review when a law appears on its face to violate a provision of the United States Constitution, restricts the political process in a way that could impede the repeal of an undesirable law, or discriminates against "discrete and insular" minorities. Footnote Four would influence later Supreme Court decisions, and the higher standard of review is now known as "strict scrutiny".
 
 ---
 
@@ -183,7 +196,7 @@ Hamilton attempted a response to this critique in Federalist No. 78, and many mo
 
 ---
 
-## Source of judicial power - Article III  
+## Source of Judicial Power Article III
 
 **Article III, Section 1 vests jurisdiction:**
 
@@ -197,10 +210,6 @@ Hamilton attempted a response to this critique in Federalist No. 78, and many mo
 
 *In all Cases affecting Ambassadors, other public Ministers and Consuls, and those in which a State shall be Party, the supreme Court shall have original Jurisdiction. In all the other Cases before mentioned, the supreme Court shall have appellate Jurisdiction, both as to Law and Fact, with such Exceptions, and under such Regulations as the Congress shall make.*
 
-- {:.indent-0}**Marbury v. Madison (1803)**
-- {:.indent-2}Holding/rule: Congress may not enlarge Supreme Court's original jurisdiction beyond that prescribed by Article III.
-- {:.indent-2}Significance: Right to a remedy. Executive branch officials subject to suit and to direction by the courts regarding "what the law is." Supremacy of written constitution. Establishes power of judicial review: Role of Court as interpreter of Constitution. Effect of declaration that statute is inconsistent with Constitution.
-
 - {:.indent-0}**Martin v. Hunters Lessee (1816)**
 - {:.indent-2}Holding/rule: Under Article III of the Constitution, the U.S. Supreme Court has authority to exercise appellate review of state-court decisions. Permitting appellate review of state-court decisions by the Supreme Court does not impair the sovereignty of states, nor does it impair the independence of state judges. State judges are not absolutely independent from federal laws, but are bound to follow the Constitution of the United States at all times. It thus follows that the Supreme Court is vested with authority to conduct appellate review by the Constitution. Vesting this authority in the Supreme Court ensures impartiality in decisions that might not otherwise be present among individual state judges. It also ensures uniformity of decisions throughout the whole United States upon all constitutional subjects. Thus, the United States Supreme Court properly exercised appellate review of the Virginia courts’ decision.
 - {:.indent-2}Significance: Supreme Court has appellate jurisdiction over state court decisions that adjudicate questions of federal law (constitutional, statutory or otherwise).  Article III gives Supreme Court appellate jurisdiction over all cases arising under federal law, irrespective of whether the case originated in a state court or a federal court.
@@ -210,11 +219,22 @@ Hamilton attempted a response to this critique in Federalist No. 78, and many mo
 - {:.indent-2}Issue: (1) Does Congress have implied constitutional power to create a bank? (2) If so, may individual states tax a federally created bank?
 - {:.indent-2}Holding and reasoning: (1) Yes. Congress has the constitutional power to charter the Bank of the United States. This power is ultimately derived from the Constitution’s grant to Congress of the general power to “tax and spend” for the general welfare. However, in addition to its enumerated powers, Congress is also given general powers under the Constitution’s Necessary and Proper Clause, which states that Congress may create laws it deems necessary and proper to help carry out its enumerated powers. The Necessary and Proper Clause functions to expand, not limit, Congress’s enumerated powers. Congress decided that chartering the Bank of the United States was a necessary and proper method of raising revenue to carry out its overall taxing and spending powers. (2) No. The Bank was created by federal statute. Maryland may not tax the Bank as a federal institution because federal laws are supreme to state laws. A federally created institution may not be inhibited by a state law. The Bank of the United States functions to serve the entire nation. It is thus inappropriate for it to be controlled by one part of the nation (i.e. Maryland) through a tax. The judgment of the court of appeals is reversed.
 
+- {:.indent-0}**District of Columbia v. Heller(2008)**
+- {:.indent-2}Issue: Whether the District of Columbia's handgun ban and requirement that lawfully owned rifles and shotguns be kept "unloaded and disassembled or bound by a trigger lock" violated 2nd Amendment rights.
+- {:.indent-2}Rule: The 2nd Amendment protects an individual's right to keep and bear arms, unconnected with service in a militia, for traditionally lawful purposes, such as self-defense within the home.
+- {:.indent-2}Holding: The District of Columbia's handgun ban and requirement that lawfully owned rifles and shotguns be kept "unloaded and disassembled or bound by a trigger lock" violated the 2nd Amendment. The Supreme Court struck down provisions of the Firearms Control Regulations Act of 1975 as unconstitutional, determined that handguns are "arms" for the purposes of the Second Amendment, found that the Regulations Act was an unconstitutional ban, and struck down the portion of the Regulations Act that requires all firearms including rifles and shotguns be kept "unloaded and disassembled or bound by a trigger lock".
+
 ---
 
 ## Theories of Constitutional Interpretation
 
-The three major contemporary schools are **originalism** (original intent, original understanding; what is strong originalism?); **representation reinforcement** (“democratic process theory” advanced in various forms in McCulloch and Carolene Products), and **non-originalism** (reliance on “broad principles” of the Constitution, e.g., equality, dignity, rule of law (Brennan, Breyer), or resort to natural law or other political or moral philosophies or principles.)   
+The three major contemporary schools are **originalism** (original intent, original understanding; strong originalism); **representation reinforcement** (“democratic process theory” advanced in various forms in McCulloch and Carolene Products), and **non-originalism** (reliance on “broad principles” of the Constitution, e.g., equality, dignity, rule of law (Brennan, Breyer), or resort to natural law or other political or moral philosophies or principles.)   
+
+- {:.indent-0}**Ex parte McCardle (1869)**
+- {:.indent-2}Issue: Whether the U.S. Supreme Court has jurisdiction to review decisions of lower courts under federal statutory law. (Two issues were raised by this case: Whether the Supreme Court had jurisdiction to hear an appeal of a ruling by a state court under the Habeas Corpus Act of 1867, and if so, whether McCardle's imprisonment violated his Fifth Amendment Due Process rights.)
+- {:.indent-2}Case history: During the Civil War Reconstruction, newspaper publisher William McCardle printed articles advocating opposition to Reconstruction laws enacted by Congress. He was jailed by a military commander under the Military Reconstruction Act of 1867. McCardle invoked habeas corpus in the Circuit Court of the Southern District of Mississippi. The judge sent him back into custody, finding the military actions legal under Congress' law. He appealed to the Supreme Court under the Habeas Corpus Act of 1867, which granted appellate jurisdiction to review denial of habeas corpus petitions. After the case was argued but before an opinion was delivered, Congress suspended the Supreme Court's jurisdiction over the case, exercising the powers granted under Article III, section 2 of the Constitution.
+- {:.indent-2}Holding: The Constitution allowed Congress to repeal the Court's jurisdiction under the exceptions clause of Article III Section 2. But Chase pointedly reminded his readers that the 1868 statute repealing jurisdiction "does not affect the jurisdiction which was previously exercised." Since the Court held it lacked jurisdiction to hear the case, the second question was not answered. Since Congress withdrew jurisdiction to hear the case, McCardle had no legal recourse to challenge his imprisonment in federal court.
+
 
 ---
 
@@ -226,11 +246,25 @@ Justiciability asks whether a federal court has the power to hear a particular c
 
 ### Standing
 
-Whether the plaintiff has a sufficient stake in the lawsuit to **(1) give rise to an Article III "case or controversy"** and **(2) satisfy the Supreme Court’s judge-made "prudential limitations."** (It appears that only one prudential limit remains after *Lexmark*). Congress may override “prudential limitations” by statute, but may not override Article III case or controversy limits; i.e., Congress may not authorize lawsuits by parties that do not satisfy the Art III case or controversy requirements (e.g., compare Lujan with Akins).
+To have standing, a plaintiff must have a sufficient stake in the lawsuit to **(1) give rise to an Article III "case or controversy"** and **(2) satisfy the Supreme Court’s judge-made "prudential limitations."** (only one prudential limit remains after *Lexmark*). Congress may override prudential limitations by statute, but may not override Article III case or controversy limits; i.e., Congress may not authorize lawsuits by parties that do not satisfy the Article III case or controversy requirements (e.g., compare *Lujan* with *Akins*).
 
 **Underlying policies** are **adverse presentation of issues** (courts want cases to be vigorously litigated [this ensures fairness]); **autonomy** (favors placing litigation of rights in the hands of those most affected) and **additional separation of powers and federalism considerations**.
 
 Note the shift in standing doctrine from the Flast-era formulation ("The question [of standing asks] whether a particular person is a proper party to maintain an action [; it] does not, by its own force, raise separation of powers problems related to improper judicial interference in areas committed to other branches of government.  Such problems arise, if at all, from the substantive issues the individual seeks to have adjudicated") to the current Court’s overt reliance on "federalism" and "separation of powers" as justification for a restrictive standing doctrine. (e.g. Lyons; Clapper, Allen v. Wright; Lujan; see Handout No. 3, note A).
+
+- {:.indent-0}**Allen v. Wright (1984)**:
+- {:.indent-2}Holding/rule: Citizens do not have standing to sue a federal government agency based on the influence that the agency's determinations might have on third parties. "In essence the question of standing is whether the litigant is entitled to have the court decide the merits of the dispute or of particular issues. Standing doctrine embraces... the general prohibition on a litigant's raising another person's legal rights, the rule barring adjudication of generalized grievances more appropriately addressed in the representative branches, and the requirement that a plaintiff's complaint fall within the zone of interests protected by the law invoked. The requirement of standing, however, has a core component derived directly from the Constitution. A plaintiff must allege personal injury fairly traceable to defendant’s allegedly unlawful conduct and likely to be redressed by the requested relief."
+
+- {:.indent-0}**Lujan v. Defenders of Wildlife (1992)**
+Issue: Whether the Endangered Species Act of 1973 applied to development projects in Aswan, Egypt and Mahaweli, Sri Lanka funded by the U.S., that could harm endangered species in  affected areas in the U.S..
+- {:.indent-2}Rule: Plaintiffs must suffer a concrete, discernible injury - not a "conjectural or hypothetical one" — to have Article III standing to bring a suit against the U.S. government in federal court. It, in effect, made it more difficult for plaintiffs to challenge the actions of a government agency when the actions don't directly affect them.[2]
+- {:.indent-2}Holding: Defenders of Wildlife lacked standing to challenge regulations jointly issued by the U.S. Secretaries of the Interior and Commerce, regarding the geographic area to which a particular section of the Endangered Species Act of 1973 applied.
+
+Flast
+
+Lexmark
+
+Akins
 
 ---
 
