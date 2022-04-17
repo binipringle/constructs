@@ -104,10 +104,15 @@ At the Constitution's Bicentennial in 1987, Chief Justice Thurgood Marshall: "[t
 
 Federalists were proponents of the proposed Constitution. Antifederalists opposed the proposed Constitution. They agreed on one point: A political system organized on the principle of democratic self-governance is in severe tension (and perhaps inconsistent) with an economic system that generates and protects large disparities of wealth.
 
-A significant motivation for Federalists was protection of existing property rights and wealth distribution from “excess” democracy. Madison at the closed constitutional debates in Philadelphia:
+Federalists wanted to protect existing property rights and wealth distribution from “excess” democracy. At the closed constitutional debates in Philadelphia, Madison expressed the belief that
 “In future times a great majority of the people will not only be without land, but any other sort of property. These may combine under the influence of their common situation; in which case the rights of property will not be secure.” Some warning signs for Federalists were (1) powerful egalitarian ethos following the Revolution; (2) redistributive state legislation; and (3) Shay’s rebellion (armed uprising in Western Massachusetts and Worcester in 1786 and 1787 in response to a debt crisis among the citizenry and in opposition to the state government's increased efforts to collect taxes both on individuals and their trades.). Federalist response to these threats was constitutional design.
 
-**Federalist No. 10** Premises: Main threat in system of self-government danger of “factions.” Greatest cause of factions is disparities of property and wealth. A central object of government is protection of property rights. State redistributive legislation is “wicked” and “improper” (Madison specially condemns “a rage for paper money, for an abolition of debt and for an equal distribution of property”). Solutions: Federalist 10 and 51 Blueprint (1) Set government power at a remove from the people (rejection of “pure 	democracy”). (2) Build inertia into federal government (separation of powers/“checks and balances”). (3) Impose direct limits on state governments (e.g., Article I, §10).
+- {:.indent-0}**Federalist No. 10**
+- {:.indent-2}Premises: Main threat in system of self-government danger of “factions.” Greatest cause of factions is disparities of property and wealth. A central object of government is protection of property rights. State redistributive legislation is “wicked” and “improper” (Madison specially condemns “a rage for paper money, for an abolition of debt and for an equal distribution of property”).
+- {:.indent-2}Solutions: Federalist 10 and 51 Blueprint
+- {:.indent-4}(1) Set government power at a remove from the people (rejection of “pure 	democracy”);
+- {:.indent-4}(2) Build inertia into federal government (separation of powers/“checks and balances”);
+- {:.indent-4}(3) Impose direct limits on state governments (e.g., Article I, §10).
 
 **Competing political philosophies and models of government at founding**
 
@@ -142,10 +147,9 @@ Basic Concepts are federalism, separation of powers, power of judicial review an
 
 System of "dual sovereignty" by which the states operate under a national or "federal" government but still retain certain independent powers and sovereign attributes.  Federalism issues involve questions about the appropriate distribution of authority between the national government and the states, and the relationship between those units of government.  The Supreme Court at present is deeply divided on basic issues of federalism (recall, e.g., *Term Limits* and *Seminole Tribe*).  When the modern Court invokes "federalism" as justification for declining to adjudicate cases (e.g. *Lyons*, which the Court formally decided on standing grounds) it has concluded that federal judicial oversight of state or local governments in a particular context would constitute an inappropriate federal encroachment upon state sovereignty or areas traditionally committed to the states.
 
-- {:.indent-2}(A) New Deal (1930s) - 1970s: federalism issues settled/stable; broad deference to congressional power.
-- {:.indent-2}(B) 1980s: “states’ rights” revival in political and judicial realm. Federalism issues increasingly contested.
-- {:.indent-2}(C) 1990s - present: states’ rights campaign achieves dominance on Supreme Court, often at expense of other constitutional values.
-- {:.indent-2}(D) Judicial activism deployed to advance states’ rights theory of federalism.
+- {:.indent-2}**New Deal (1930s) - 1970s**: federalism issues settled/stable; broad deference to congressional power.
+- {:.indent-2}**1980s**: “states’ rights” revival in political and judicial realm. Federalism issues increasingly contested.
+- {:.indent-2}**1990s - present**: states’ rights campaign achieves dominance on Supreme Court, often at expense of other constitutional values. Judicial activism deployed to advance states’ rights theory of federalism.
 
 A major question in US constitutional law has been whether and to what extent the judiciary should define and enforce federalism-based limits (aka, “states-rights” limits) on the national government. The question of how power should be allocated between the national government and state governments (aka, federalism issues) has no intrinsic political valence. However, federalism issues often divide Supreme Court on political/ideological lines. Recent Supreme Court decisions interpreting the Constitution:
 
