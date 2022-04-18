@@ -127,7 +127,7 @@ Federalists wanted to protect existing property rights and wealth distribution f
 - {:.indent-5}(2) Build inertia into federal government (separation of powers/“checks and balances”);
 - {:.indent-5}(3) Impose direct limits on state governments (e.g., Article I, §10).
 
-**Competing political philosophies and models of government at founding**
+### Competing political philosophies and models of government at founding**
 
 - {:.indent-0}**(1) Classical Republicanism**:
 - {:.indent-2}advanced by antifederalists
@@ -144,9 +144,10 @@ Federalists wanted to protect existing property rights and wealth distribution f
 
 - {:.indent-0}**(3) Madisonian Republicanism (synthesis of 1 & 2)**:
 - {:.indent-2}faction unavoidable - government cannot erase self-interest
-- {:.indent-2}but government must advance the common good, not simply facilitate 		private interests
+- {:.indent-2}but government must advance the common good, not simply facilitate private interests
 - {:.indent-2}means to accomplish set out in Federalist 10 & 51:
-- {:.indent-2}remove power from direct control of people through system of representation; and encourage civic virtue in the representatives.
+- {:.indent-5}remove power from direct control of people through system of representation; and
+- {:.indent-5}encourage civic virtue in the representatives.
 
 ---
 
@@ -192,7 +193,7 @@ Distribution of powers among the three branches of the national government.  Whe
 
 ---
 
-### Power of Judicial Review
+## Power of Judicial Review
 
 Power of the federal judiciary to review the constitutionality of statutes (and other governmental acts) and to declare void any such acts found to be inconsistent with the Constitution.
 
@@ -209,7 +210,7 @@ Power of the federal judiciary to review the constitutionality of statutes (and 
 
 ---
 
-### Countermajoritarian Difficulty
+## Countermajoritarian Difficulty
 
 The idea that an essential tension exists between a system of representative democracy founded on the principle of majority rule, and a power in non-elected, life-tenured federal judges to negate laws enacted by a majority of the people’s representatives.
 
@@ -265,7 +266,7 @@ Justiciability asks whether a federal court has the power to hear a particular c
 
 ---
 
-### Standing
+## Standing
 
 To have standing, a plaintiff must have a sufficient stake in the lawsuit to **(1) give rise to an Article III "case or controversy"** and **(2) satisfy the Supreme Court’s judge-made "prudential limitations."** (only one prudential limit remains after *Lexmark*). Congress may override prudential limitations by statute, but may not override Article III case or controversy limits; i.e., Congress may not authorize lawsuits by parties that do not satisfy the Article III case or controversy requirements (e.g., compare *Lujan* with *Akins*).
 
@@ -314,7 +315,7 @@ Note the shift in standing doctrine from the Flast-era formulation ("The questio
 
 ---
 
-### Article III case or controversy requirement
+## Article III case or controversy requirement
 
 1. Injury
 2. Causation
@@ -403,7 +404,7 @@ Non-constitutional, judge-made limitations on standing. [Note:  since these limi
 
 ---
 
-### Ripeness
+## Ripeness
 
 An issue of ripeness arises where plaintiff’s injury has yet to occur and may be contingent on future events that may or may not come to pass.  
 
@@ -425,7 +426,7 @@ Note: The court will always consider the probability that the predicted harm wil
 
 ---
 
-### Mootness
+## Mootness
 
 When the case is no longer a live "case or controversy" because of subsequent events, it is moot. The "case and controversy" requirements of Article III must be met at every stage of the litigation, from trial through final disposition on appeal (see Honig v. Doe). If a case becomes moot while on appeal, *what happens to the ruling(s) below? (See Rehnquist concurrence in Honig).*
 
@@ -487,7 +488,7 @@ Milliken v. Bradley:  federal court order that Michigan fund a special education
 
 ---
 
-### Abrogation
+## Abrogation
 
 Congress may "abrogate" (remove, override) a state’s SSI if:
 
@@ -505,7 +506,7 @@ States have a constitutional immunity from federal law claims brought by individ
 
 ---
 
-### Waiver
+## Waiver
 
 States may "waive" their 11A immunity, but the Court has set an extremely high threshold for finding waiver, and construes waivers narrowly. (As with abrogation, waiver is not "all or nothing."  A state that has waived its immunity may be sued only to the extent of the waiver, which be qualified, e.g., limited to certain forms of relief.)  General waivers of sovereign immunity by a state have been held insufficient to waive 11A immunity; the Supreme Court requires that the state expressly waive its immunity to suit in federal court in order for a federal action to go forward.  The Court will not imply waiver from a state’s participation in a federal program and agreement to obey federal standards, and the Court seems unwilling to find any constructive waiver of state sovereign immunity (e.g. Edelman) except where a State’s litigation actions amount to a consent to federal jurisdiction.  E.g., Lapides v. Bd. of Regents (2002) (implied waiver of SSI where state agency voluntarily removed a lawsuit from state court to federal court).  Congress may require states to waive their 11A immunity as a condition of receiving federal funds, and courts will enforce the waiver if Congress has set forth the condition in very clear terms. (This is in essence another “clear statement rule,” akin to the “clear statement rule” applied in the abrogation context.) (Cf. Pennhurst)
 
@@ -734,19 +735,19 @@ Text pp 367-370
 
 ---
 
-### Executive Authority General Framework
+## Executive Authority General Framework
 Text pp 370-388 (Youngstown (Steel Seizure Case))
 Dames & Moore, Medellin)
 
 ---
 
-### Executive Authority and Foreign Affairs
+## Executive Authority and Foreign Affairs
 
 Text pp 388-409 (Hamdi, Hamdan, Boumediene)
 
 ---
 
-### Executive Authority
+## Executive Authority
 
 Handout 11 (Zivotofsky and current issues).
 
