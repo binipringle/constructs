@@ -26,12 +26,25 @@ toc:
 - Mootness
 - Eleventh Amendment State Sovereign Immunity Limitations on Federal Judicial Power
 - Abrogation
-- The meaning of Alden
 - Waiver
 - Federal Legislative Power
 - Necessary and Proper Clause
 - Commerce Power
 - Commerce Power After Lopez and Morrison
+- Tenth Amendment
+- Civil Rights Enforcement Power
+- Taxing Power
+- Spending Power
+- External Constraints on Congressional Powers
+- Structural Limitations on State and Local Power The Dormant Commerce Clause
+- Dormant Commerce Clause Protection against Discrimination
+- Facially Neutral Statutes that Affect Commerce
+- Market Participant Doctrine
+- Protection Against Discrimination on Account of State Residence
+- Separation of National Powers Federal Executive Authority
+- Executive Authority General Framework
+- Executive Authority and Foreign Affairs
+- Executive Authority
 
 ---
 
@@ -96,7 +109,7 @@ See [U.S. Constitution](https://www.law.cornell.edu/constitution/index.html) for
 - {:.indent-2}2016 Election: Trump loses popular vote by 2.9 million – becomes President.
 - {:.indent-2}2020 Election: Joe Biden wins popular vote by over 7 million; but a change of about 100k votes could have given an electoral college victory to Trump.
 
-**At the Constitution's Bicentennial in 1987, Chief Justice Thurgood Marshall**: "[t]he focus of this celebration invites a complacent belief that the vision of those who debated and compromised in Philadelphia yielded the "more perfect Union" it is said we now enjoy. I cannot accept this invitation, for I do not believe that the meaning of the Constitution was forever "fixed" at the Philadelphia Convention. Nor do I find the wisdom, foresight, and sense of justice exhibited by the Framers particularly profound. To the contrary, the government they devised was defective from the start, requiring several amendments, a civil war, and momentous social transformation to attain the system of constitutional government, and its respect for the individual freedoms and human rights, we hold as fundamental today." *Commemorating the Wrong Document?* (1987). When contemporary Americans cite "The Constitution," they invoke a concept that is vastly different from what the Framers barely began to construct two centuries ago.
+**At the Constitution's Bicentennial in 1987, Chief Justice Thurgood Marshall**: "[t]he focus of this celebration invites a complacent belief that the vision of those who debated and compromised in Philadelphia yielded the "more perfect Union" it is said we now enjoy. I cannot accept this invitation, for I do not believe that the meaning of the Constitution was forever "fixed" at the Philadelphia Convention. Nor do I find the wisdom, foresight, and sense of justice exhibited by the Framers particularly profound. To the contrary, the government they devised was defective from the start, requiring several amendments, a civil war, and momentous social transformation to attain the system of constitutional government, and its respect for the individual freedoms and human rights, we hold as fundamental today." *Commemorating the Wrong Document?* (1987).
 
 ---
 
@@ -110,9 +123,9 @@ Federalists wanted to protect existing property rights and wealth distribution f
 - {:.indent-0}**Federalist No. 10**
 - {:.indent-2}Premises: Main threat in system of self-government danger of “factions.” Greatest cause of factions is disparities of property and wealth. A central object of government is protection of property rights. State redistributive legislation is “wicked” and “improper” (Madison specially condemns “a rage for paper money, for an abolition of debt and for an equal distribution of property”).
 - {:.indent-2}Solutions: Federalist 10 and 51 Blueprint
-- {:.indent-4}(1) Set government power at a remove from the people (rejection of “pure 	democracy”);
-- {:.indent-4}(2) Build inertia into federal government (separation of powers/“checks and balances”);
-- {:.indent-4}(3) Impose direct limits on state governments (e.g., Article I, §10).
+- {:.indent-5}(1) Set government power at a remove from the people (rejection of “pure 	democracy”);
+- {:.indent-5}(2) Build inertia into federal government (separation of powers/“checks and balances”);
+- {:.indent-5}(3) Impose direct limits on state governments (e.g., Article I, §10).
 
 **Competing political philosophies and models of government at founding**
 
@@ -145,7 +158,11 @@ Basic Concepts are federalism, separation of powers, power of judicial review an
 
 ## Federalism
 
-System of "dual sovereignty" by which the states operate under a national or "federal" government but still retain certain independent powers and sovereign attributes.  Federalism issues involve questions about the appropriate distribution of authority between the national government and the states, and the relationship between those units of government.  The Supreme Court at present is deeply divided on basic issues of federalism (recall, e.g., *Term Limits* and *Seminole Tribe*).  When the modern Court invokes "federalism" as justification for declining to adjudicate cases (e.g. *Lyons*, which the Court formally decided on standing grounds) it has concluded that federal judicial oversight of state or local governments in a particular context would constitute an inappropriate federal encroachment upon state sovereignty or areas traditionally committed to the states.
+System of "dual sovereignty" by which the states operate under a national or "federal" government but still retain certain independent powers and sovereign attributes.  
+
+Federalism issues involve the appropriate distribution of authority between the national government and the states, and the relationship between those units of government.  The Supreme Court at present is deeply divided on basic issues of federalism.  When the modern Court invokes "federalism" as justification for declining to adjudicate cases, it has concluded that federal judicial oversight of state or local governments in a particular context would constitute an inappropriate federal encroachment upon state sovereignty or areas traditionally committed to the states.
+
+(recall, e.g., *Term Limits* and *Seminole Tribe*)  (e.g. *Lyons*, which the Court formally decided on standing grounds)
 
 - {:.indent-2}**New Deal (1930s) - 1970s**: federalism issues settled/stable; broad deference to congressional power.
 - {:.indent-2}**1980s**: “states’ rights” revival in political and judicial realm. Federalism issues increasingly contested.
@@ -162,7 +179,7 @@ A major question in US constitutional law has been whether and to what extent th
 - {:.indent-0}**Shelby County (2013)**
 - {:.indent-2}Holding/rule: Constitution bars Congress from maintaining key provisions of the Voting Rights Act of 1965 that had curbed state actions disenfranchising people of color.
 
-Unlike other abolitionists who condemned the Constitution as pro-slavery, **Frederick Douglass** proposed “If the South has made the Constitution bend to the purposes of slavery, let the North now make that instrument bend to the cause of freedom and justice." Possible rationales for supporting the Constitution are **(1) "rule of law” rationale**; and **(2) pragmatic or “consequentialist” rationale**. The “rule of law” rationale rests on the circumstances of the founding that speak to the legitimacy (or not) of the Constitution at adoption, and thus the rule-of-law rationale for supporting it. The “consequentialist” rationale focuses on the implications for how the courts should interpret the Constitution. These include the use of “originalism” (especially from founding era); interpreting the constitution as a “living constitution” v. fixed meaning; and the role of courts in democratic society.
+Unlike other abolitionists who condemned the Constitution as pro-slavery, in 1860 **Frederick Douglass** wrote “If the South has made the Constitution bend to the purposes of slavery, let the North now make that instrument bend to the cause of freedom and justice." Possible rationales for supporting the Constitution are **(1) "rule of law” rationale**; and **(2) pragmatic or “consequentialist” rationale**. The “rule of law” rationale rests on the circumstances of the founding that speak to the legitimacy (or not) of the Constitution at adoption, and thus the rule-of-law rationale for supporting it. The “consequentialist” rationale focuses on the implications for how the courts should interpret the Constitution. These include the use of “originalism” (especially from founding era); interpreting the constitution as a “living constitution” v. fixed meaning; and the role of courts in democratic society.
 
 ---
 
@@ -257,32 +274,51 @@ To have standing, a plaintiff must have a sufficient stake in the lawsuit to **(
 Note the shift in standing doctrine from the Flast-era formulation ("The question [of standing asks] whether a particular person is a proper party to maintain an action [; it] does not, by its own force, raise separation of powers problems related to improper judicial interference in areas committed to other branches of government.  Such problems arise, if at all, from the substantive issues the individual seeks to have adjudicated") to the current Court’s overt reliance on "federalism" and "separation of powers" as justification for a restrictive standing doctrine.
 
 - {:.indent-0}**Allen v. Wright (1984)**:
-- {:.indent-2}Background: The IRS denies tax-exempt status to racially discriminatory private schools, and has established guidelines and procedures for determining whether a particular school is racially nondiscriminatory. Private schools deemed by the IRS to be racially discriminatory are not eligible to receive tax deductible charitable contributions. Parents of African-American children in seven states brought a nationwide class action lawsuit against the IRS in federal district court, contending that IRS guidelines and procedures for determining whether private schools were racially discriminatory, and subsequent denial of tax exempt status to such schools, were insufficient. White parents could avoid integration by sending children to private schools and deducting charitable contributions, thereby making it harder for Black children to attend integrated schools. W. Wayne Allen intervened as defendant in his official capacity as chairman of the board of Briarcrest Christian School, Memphis. The District Court dismissed the complaint on the ground that respondents lacked standing. Court of Appeals reversed. The U.S. Supreme Court granted cert.
+- {:.indent-2}Background: IRS denies tax-exempt status to racially discriminatory private schools, and established guidelines and procedures for determining whether a school is racially nondiscriminatory. Private schools deemed racially discriminatory are not eligible to receive tax deductible charitable contributions. Parents of African-American children brought a class action lawsuit against IRS in federal district court, contending that IRS guidelines and procedures were insufficient and allowed white parents to avoid integration by sending children to private schools and deducting charitable contributions, thereby making it harder for Black children to attend integrated schools. W. Wayne Allen was defendant in his official capacity as chairman of the board of Briarcrest Christian School, Memphis. The District Court dismissed the complaint on the ground that respondents lacked standing. Court of Appeals reversed. U.S. Supreme Court granted certiorari.
 - {:.indent-2}Alleged injuries: (1) Direct harm by government financial aid (through allowing tax deductions for donations) to discriminatory schools. This was argued to be a stigmatic injury because of the appearance of government approval for discrimination against blacks. (2) Tax exemptions for discriminatory schools impaired the ability of blacks to force desegregation of public schools, because white parents would simply withdraw their children from public schools and place them in discriminatory private schools.
 - {:.indent-2}Issue: Whether the plaintiffs had standing to bring the lawsuit.
-- {:.indent-2}Holding/rule: Citizens do not have standing to sue a federal government agency based on the influence that the agency's determinations might have on third parties. "In essence the question of standing is whether the litigant is entitled to have the court decide the merits of the dispute or of particular issues. Standing doctrine embraces... the general prohibition on a litigant's raising another person's legal rights, the rule barring adjudication of generalized grievances more appropriately addressed in the representative branches, **and the requirement that a plaintiff's complaint fall within the zone of interests protected by the law invoked.** The requirement of standing, however, has a core component derived directly from the Constitution. **A plaintiff must allege personal injury fairly traceable to defendant’s allegedly unlawful conduct and likely to be redressed by the requested relief**."
+- {:.indent-2}Holding/rule: Citizens do not have standing to sue a federal government agency based on the influence that the agency's determinations might have on third parties. "In essence the question of standing is whether the litigant is entitled to have the court decide the merits of the dispute or of particular issues. Standing doctrine embraces... the general prohibition on a litigant's raising another person's legal rights, the rule barring adjudication of generalized grievances more appropriately addressed in the representative branches, and the requirement that a plaintiff's complaint fall within the zone of interests  to be protected or regulated by the statute or constitutional guarantee in question." The requirement of standing, however, has a core component derived directly from the Constitution. A plaintiff must allege personal injury fairly traceable to defendant’s allegedly unlawful conduct and likely to be redressed by the requested relief."" **Zone of interests test is no longer part of standing analysis after 2014, but relates instead to whether a particular statute confers a right of action on the plaintiff.**[^1]
 - {:.indent-2}Dissents: Justice Brennan wrote a dissenting opinion complaining that the use of separation of powers is a truism. He opined that the injury of the children's opportunities was enough to grant standing to sue. Justice Stevens wrote that the allegation really is that the government is subsidizing white flight, which is sufficient to allow standing – the harm (lack of desegregated schools) was traceable to government conduct. Stevens also asserted that standing has nothing to do with separation of powers.
+
+[^1]:In *Lexmark v. Static Controls* (2014), the Supreme Court held that zone-of-interest is no longer to be considered part of standing analysis, but relates instead to whether a particular statute confers a right of action on the plaintiff.  The zone-of-interests test will appear as part of the standing rule statement in many pre-2014 judicial opinions; those rule statements are no longer correct.  
 
 - {:.indent-0}**Lujan v. Defenders of Wildlife (1992)**
 - {:.indent-2}Issue: Whether the Endangered Species Act of 1973 applied to development projects in Aswan, Egypt and Mahaweli, Sri Lanka funded by the U.S., that could harm endangered species in  affected areas in the U.S..
 - {:.indent-2}Rule: Plaintiffs must suffer a concrete, discernible injury - not a "conjectural or hypothetical one" — to have Article III standing to bring a suit against the U.S. government in federal court. It, in effect, made it more difficult for plaintiffs to challenge the actions of a government agency when the actions don't directly affect them.[2]
 - {:.indent-2}Holding: Defenders of Wildlife lacked standing to challenge regulations jointly issued by the U.S. Secretaries of the Interior and Commerce, regarding the geographic area to which a particular section of the Endangered Species Act of 1973 applied.
 
-Flast
+- {:.indent-0}**Federal Election Commission v. Akins (1998)**
+- {:.indent-2}Background: Akins asked the Federal Elections Commission ("FEC") to determine that an organization called the American Israel Public Affairs Committee ("AIPAC") was a "political committee" subject to certain regulations and reporting requirements under the Federal Election Campaign Act, because AIPAC had crossed certain spending thresholds. The FEC determined that AIPAC had indeed crossed those thresholds, but still did not require it to make the required reports because the organization was issue-oriented, not campaign-related. District Court granted summary judgment for FEC; Court of Appeals panel affirmed but Court of Appeals en banc reversed. The government sought certiorari and challenged plaintiff's standing on the grounds that plaintiffs had suffered no 'injury in fact'; any injury was not fairly traceable to the FEC decision; and a decision in favor of the plaintiffs would not redress their injury.
+- {:.indent-2}Issue: Whether the plaintiffs suffered an injury in fact sufficient to establish standing.
+- {:.indent-2}Holding/Rule: The Court (Justice Breyer) held that Congress has, by statute, allowed "any party aggrieved by an order of the Commission" to file a suit, which is a broad grant; not getting the requested information is an "injury in fact" just like the denial of any other information which is statutorily required to be provided to citizens by the government. The grievance is a "generalized grievance," but the harm is concrete enough to overcome this, and the harm is fairly traceable to the FEC – even though the FEC may find other grounds not to make AIPAC provide the info.
+- {:.indent-2}**Zone of interests test**: The Court distinguished this case from lawsuits where an individual seeks relief based on mere taxpayer standing - an insufficient ground for standing to sue. It instead employed a "zone of interests test," asking whether the injury asserted fell into the zone of interests protected by the statute.
+- {:.indent-2}Outcome for plaintiff: Case was remanded to the FEC to review its definition of 'members.' FEC produced new guidelines which would not require a new legal precedent. The plaintiffs were bitterly disappointed and tried to have case re-opened because wanted AIPAC to be considered political actin committee but in 2010 a Federal court in D.C. ruled that the lawsuit had no merit as electoral law and it was officially and finally dismissed.
+- {:.indent-2}Dissent: Justice Scalia asserted that the fact the statute differentiated between 'any person' (in defining the class of persons who could file a complaint with the FEC over a violation) and 'any party aggrieved' (in defining the class of persons who could bring suit in federal court over the FEC's decision on the complaint) demonstrated the limiting force of the latter provision—anyone could file a complaint with the FEC if they believed a violation had occurred, but only parties who had actually been aggrieved (suffered a particularized injury) as a result of the FEC's decision on the complaint could sue.
 
-Lexmark
 
-Akins
+- {:.indent-0}**Spokeo, Inc. v. Robins (2016)**
+- {:.indent-2}Issue: Whether the U.S. Court of Appeals for the Ninth Circuit properly determined whether the plaintiff suffered an "injury-in-fact" when analyzing whether he had standing.
+- {:.indent-2}Background: Spokeo operates a .com website featuring a "people search engine" with which its users can obtain in-depth consumer reports on individual persons. In 2010, a class action law firm sued Spokeo alleging violations of the Fair Credit Reporting Act (FCRA) because profiles of people had been misreported. In 2011, the court dismissed the initial complaint for not alleging "any actual or imminent harm." Robins amended complaint to allege employment, stress and anxiety injuries. In 2011, Judge Wright found Robins had alleged a valid injury-in-fact but then reversed himself and dismissed the case for lack of standing after Spokeo filed for an appeal. In 2014, the U.S. Court of Appeals for the Ninth Circuit reversed the dismissal and remanded the case, finding that Robins had alleged injuries sufficient to establish standing because FCRA protected individual rather than collective rights and Robins was suing for a violation of his own statutory rights. U.S. Supreme Court granted certiorari.
+- {:.indent-2}Holding/Rule: (Justice Alito) The circuit below had failed to establish that Robins had standing to file the lawsuit under Article Three of the Constitution. The Court reasoned that the Case or Controversy Clause requires any plaintiff to allege an injury-in-fact that is "concrete and particularized". Here, although the Ninth Circuit identified particular harms to Robins, it erred by not also determining that those harms were "concrete". Although intangible harms such as risk can be concrete, the Court clarified, "bare procedural violations" cannot. The Court remanded and took "no position as to whether the Ninth Circuit’s ultimate conclusion— that Robins adequately alleged an injury in fact— was correct."
+- {:.indent-2}Dissent: Justice Ginsburg, joined by Justice Sotomayor, dissented. Justice Ginsburg wrote that she agreed with much of the Court’s opinion but saw "no utility" in remanding the case back to the Ninth Circuit. Justice Ginsburg saw the many inaccuracies published by Spokeo as concretely harming Robins and, as such, she would have simply affirmed.
 
-(e.g. Lyons; Clapper, Allen v. Wright; Lujan; see Handout No. 3, note A).
+- {:.indent-0}**City of Los Angeles v. Lyons (1983)**
+- {:.indent-2}Background: In 1976, Adolph Lyons was stopped by four white LAPD officers for driving with a broken tail light. The unarmed 24-year-old was ordered to leave his vehicle by officers with guns drawn and to spread his legs and put his hands on top of his head. After being frisked, Lyons put his hands down, and an officer put him in a chokehold until he lost consciousness. Lyons woke up lying face down in the road with soiled underwear and blood and dirt in his mouth. The officers gave him a traffic citation and sent him on his way. Seven years later, Lyons sought compensatory damages for the chokehold and declaratory and injunctive relief against the LAPD's chokehold policy.
+- {:.indent-2}Holding: Lyons failed to allege a sufficiently-plausible threat of future injury to have standing to seek an injunction. Lyons had standing for his damages action since it was retrospective and the injury was concrete and particular. The decision helped to establish the principle that a plaintiff must meet a standing requirement for each form of relief sought.
+
+**Lexmark**
+
+**Clapper**
+
+**Handout No. 3, note A**
 
 ---
 
 ### Article III case or controversy requirement
 
-1. injury
-2. causation
-3. redressability
+1. Injury
+2. Causation
+3. Redressability
 
 ---
 
@@ -290,98 +326,80 @@ Akins
 
 Injury in fact: plaintiff must show an “injury” that is (a) “concrete” and “particularized” (as opposed to “abstract” and “undifferentiated”); and (b) “actual” or “imminent” (as opposed to “speculative” or “remote”.)
 
-*What types of harm (harms to what interests) may constitute “injury”?*
+*What types of harm (harms to what interests) may constitute “injury”? What is a “concrete” injury, as opposed to an “abstract” one?  Note especially the debate in Akins between Breyer (for the Court) and Scalia (in dissent).  Why was plaintiff’s injury in Akins “concrete” but the injury alleged in Lujan under the Endangered Species Act’s “citizen-suit” provision not “concrete”?*
 
-*What is a “concrete” injury, as opposed to an “abstract” one?  Note especially the debate in Akins between Breyer (for the Court) and Scalia (in dissent).  Why was plaintiff’s injury in Akins “concrete” but the injury alleged in Lujan under the Endangered Species Act’s “citizen-suit” provision not “concrete”?*
+- {:.indent-0}An injury is a “concrete injury" if it is:
+- {:.indent-2}(1) “tangible” (physical, financial, economic).
+- {:.indent-2}(2) “intangible” injuries may be concrete if they
+- {:.indent-5}(a) abridge constitutional rights (free speech, free exercise, privacy, etc);
+- {:.indent-5}(b) infringe upon other “intangible” interests previously recognized by the Court (environmental, aesthetic, etc.);
+- {:.indent-5}(c) are historically recognized injuries (Alito gives the example of “qui tam” actions (bounty actions)[^2] which American and English courts have entertained for centuries (see e.g. the excerpt from Marvin v. Trout, 199 U.S. 212 (1906), discussed in class – and quoted on the class scroll.)
+- {:.indent-5}(d) Congress may create statutory rights the invasion of which constitute “concrete injury” (see Kennedy’s Lujan concurrence) However, as the Court stated in Spokeo, a plaintiff does not “automatically” satisfy the injury requirement “whenever a statute grants a person a statutory right and purports to authorize that person to sue to vindicate that right.”  The Court will decide for itself whether violation of the statutory interest causes a “concrete” injury.  Violation of a statutorily-created “procedural right” counts as concrete injury if that procedural violation increases “the risk of real harm” to the plaintiff or otherwise affects the plaintiff’s concrete interests. (For example, see the Spokeo majority’s discussion of what Robins would have to allege to satisfy this requirement – and Ginsberg’s dissent arguing that plaintiff had already made the requisite allegations.)  A “bare procedural violation” without more (i.e., absent any impact some “actual,” “concrete” interest of the plaintiff) does not count as a “concrete injury.”
 
-From **Spokeo:** an injury is a “concrete injury" if it is:
+[^2]:Legal Definition of qui tam action: an action that is brought by a person on behalf of a government against a party alleged to have violated a statute especially against defrauding the government through false claims and that provides for part of a penalty to go to the person bringing the action.
 
-- {:.indent-0}(1) “tangible” (physical, financial, economic).
-- {:.indent-0}(2) “intangible” injuries may be concrete if they
-- {:.indent-2}(a) abridge constitutional rights (free speech, free exercise, privacy, etc);
-- {:.indent-2}(b) infringe upon other “intangible” interests previously recognized by the Court (environmental, aesthetic, etc.);
-- {:.indent-2}(c) are historically recognized injuries (Alito gives the example of “qui tam” actions (bounty actions)[^1] which American and English courts have entertained for centuries (see e.g. the excerpt from Marvin v. Trout, 199 U.S. 212 (1906), discussed in class – and quoted on the class scroll.)
-- {:.indent-2}(d) Congress may create statutory rights the invasion of which constitute “concrete injury” (see Kennedy’s Lujan concurrence and the discussion below.) However, as the Court stated in Spokeo, a plaintiff does not “automatically” satisfy the injury requirement “whenever a statute grants a person a statutory right and purports to authorize that person to sue to vindicate that right.”  The Court will decide for itself whether violation of the statutory interest causes a “concrete” injury.  Violation of a statutorily-created “procedural right” counts as concrete injury if that procedural violation increases “the risk of real harm” to the plaintiff or otherwise affects the plaintiff’s concrete interests. (For example, see the Spokeo majority’s discussion of what Robins would have to allege to satisfy this requirement – and Ginsberg’s dissent arguing that plaintiff had already made the requisite allegations.)  A “bare procedural violation” without more (i.e., absent any impact some “actual,” “concrete” interest of the plaintiff) does not count as a “concrete injury.”
+**“Particularized” injury**: Justices all seem to agree that a violation of voting rights affecting an entire population would cause each individual voter a “particularized” injury. “Widely shared harms” (even harms that may extend to the public at large) may nevertheless be “particularized” and count as Article III injury if they are “concrete” and not “abstract.”  For example, wholesale violation of an individual constitutional right (e.g., imposition of a poll tax in violation of the 24th Amendment) would harm all or most citizens, and each of them would have an Article III injury. Each person’s injury would be “particularized”, even though millions of people suffer exactly the same harm.  See discussion in *Akins*.
 
-[^1]:Legal Definition of qui tam action: an action that is brought by a person on behalf of a government against a party alleged to have violated a statute especially against defrauding the government through false claims and that provides for part of a penalty to go to the person bringing the action.
+**“Generalized grievances”**: There is some uncertainty about the extent to which the ban on generalized grievances is a component of the Article III injury requirement or should be considered a non-constitutional “prudential limitation” on standing, as the Court in Allen v. Wright and many earlier cases listed it. (The Court in Akins noted this uncertainty, but declined to resolve it.)   But this much seems settled: the ban on generalized grievances, defined narrowly as “suits ‘claiming only harm to [the plaintiff's] and every citizen's interest in proper application of the Constitution and laws, and seeking relief that no more directly and tangibly benefits him than it does the public at large’”, must now be considered an Article III constitutional limitation on standing. Note that a “generalized grievance” as defined above involves only “abstract” harm.[^3]
 
-*What is a “particularized” injury?  Akins and Spokeo both discuss this question. Why were plaintiffs’ injuries in those cases “particularized”? Why do the Justices all seem to agree that a violation of voting rights affecting an entire population would cause each individual voter a “particularized” injury? (Note that certain widely-shared injuries may nevertheless be “particularized.”)*
+[^3]:What rules emerge from Lujan and Kennedy’s concurrence in that case; from Akins; and from the explanation of “concrete” injury in Spokeo?). Consider these hypos, some of which we discussed in class. Why does the Freedom of Information Act’s authorization of private suits comport with Art. III? (Assume that it does!)  Could Congress grant “every citizen” a “right” to “a federal government that obeys the Constitution” and authorize federal lawsuits by any citizen who alleges her right has been abridged?  (Why not?) Could Congress confer upon each citizen a “right to clean air” and authorize citizens to bring federal suits against any entity (public or private) that acts in ways that abridge that right (including, e.g., governmental failure to enforce the Clean Air Act properly)?  Do you think it matters -- for purposes of the Supreme Court's standing analysis -- whether the "citizen suits" are brought against private parties or against the government? (Why?)  Note the dictum in the Lexmark footnote defining a set of “generalized grievances” that do not satisfy Art III’s “injury” requirement. (Congress may not authorize lawsuits that assert only a “generalized grievance” as narrowly defined in Lexmark.
 
-“Widely shared harms” (even harms that may extend to the public at large) may nevertheless be “particularized” and count as Art. III injury if they are “concrete” and not “abstract”.  For example, wholesale violation of an individual constitutional right (e.g., imposition of a poll tax in violation of the 24th Amendment) would harm all or most citizens, and each of them would have an Art. III injury.   Each person’s injury would also be “particularized”, even though millions of people suffer exactly the same harm.  See discussion in *Akins*.
+**Threatened injury** can give rise to standing if it is “imminent” and not merely “speculative” or “conjectural”.[^4]
 
-**“Generalized grievances”:** There is some uncertainty about the extent to which the ban on generalized grievances is a component of the Article III injury requirement or should be considered a non-constitutional “prudential limitation” on standing, as the Court in Allen v. Wright and many earlier cases listed it. (The Court in Akins noted this uncertainty, but declined to resolve it.)   But this much seems settled: the ban on generalized grievances, defined narrowly as: “suits ‘claiming only harm to [the plaintiff's] and every citizen's interest in proper application of the Constitution and laws, and seeking relief that no more directly and tangibly benefits him than it does the public at large’”, must now be considered an Art. III constitutional limitation on standing. Note that a “generalized grievance” as defined above involves only “abstract” harm.  *(Q: Why doesn’t the “injury” suffered by plaintiffs in Akins fit this definition of “generalized grievance”?)*    
+[^4]:How imminent or likely to occur must a threatened injury be? What does Clapper say about this?  Note the concession in footnote 5 that the "certainly imminent" standard may not always apply.  Later cases, including Driehaus, alternatively use “significant risk” as the standard for determining whether a threatened injury gives rise to an Art. III case or controversy.  Compare Justice Breyer's explanation in his Clapper dissent.  What role does the subject-matter of the case – here foreign affairs/intelligence gathering – play in how the Court conducts the standing inquiry?
 
-*In view of these principles, to what extent may Congress create statutory interests the invasion of which causes an Art. III injury?*
-
-(What rules emerge from Lujan and Kennedy’s concurrence in that case; from Akins; and from the explanation of “concrete” injury in Spokeo?). Consider these hypos, some of which we discussed in class. Why does the Freedom of Information Act’s authorization of private suits comport with Art. III? (Assume that it does!)  Could Congress grant “every citizen” a “right” to “a federal government that obeys the Constitution” and authorize federal lawsuits by any citizen who alleges her right has been abridged?  (Why not?) Could Congress confer upon each citizen a “right to clean air” and authorize citizens to bring federal suits against any entity (public or private) that acts in ways that abridge that right (including, e.g., governmental failure to enforce the Clean Air Act properly)?  Do you think it matters -- for purposes of the Supreme Court's standing analysis -- whether the "citizen suits" are brought against private parties or against the government? (Why?)  Note the dictum in the Lexmark footnote defining a set of “generalized grievances” that do not satisfy Art III’s “injury” requirement. (Congress may not authorize lawsuits that assert only a “generalized grievance” as narrowly defined in Lexmark.)
-
-**Threatened injury** can give rise to standing **if it is “imminent”** and not merely “speculative” or “conjectural”.
-
-How imminent or likely to occur must a threatened injury be? What does Clapper say about this?  Note the concession in footnote 5 that the "certainly imminent" standard may not always apply.  Later cases, including Driehaus, alternatively use “significant risk” as the standard for determining whether a threatened injury gives rise to an Art. III case or controversy.  Compare Justice Breyer's explanation in his Clapper dissent.  What role does the subject-matter of the case – here foreign affairs/intelligence gathering – play in how the Court conducts the standing inquiry?)  
+---
 
 ### (2) Causation
 
 The injury must be "fairly traceable" to challenged action.
 
-Note the issue of multiple links in the causal chain, especially where some links in the chain involve actions of third parties not before the court (e.g. Allen v. Wright; Linda R.S.; Eastern Kentucky Welfare Rights Organization).  Multiple links in the causal chain between the challenged action and the injury are not necessarily fatal, but the Court will scrutinize such chains to determine if the causal links are strong enough, especially where the suit seeks an order requiring the government to enforce laws against third parties (see e.g., Allen and Lujan, where the Court invoked separation of powers and Art II §3 “take care clause” arguments as justification for applying the causation requirement more strictly).   Note that the court’s characterization of the injury may affect the length of the causal chain and may alter the causation analysis (recall class discussion of Linda R.S. and Bakke.)
+Note the issue of multiple links in the causal chain, especially where some links in the chain involve actions of third parties not before the court (e.g. Allen v. Wright; Linda R.S.; Eastern Kentucky Welfare Rights Organization).  Multiple links in the causal chain between the challenged action and the injury are not necessarily fatal, but the Court will scrutinize such chains to determine if the causal links are strong enough, especially where the suit seeks an order requiring the government to enforce laws against third parties (see e.g., Allen and Lujan, where the Court invoked separation of powers and Art. II §3 “take care clause” arguments as justification for applying the causation requirement more strictly).   Note that the court’s characterization of the injury may affect the length of the causal chain and may alter the causation analysis (recall class discussion of Linda R.S. and Bakke.)
+
+---
 
 ### (3) Redressability
 
-An award of relief to the plaintiff must be likely to redress (cure, mitigate, compensate for) the Art. III injury alleged, at least to some extent.  
+An award of relief to the plaintiff must be likely to redress (cure, mitigate, compensate for) the Article III injury alleged, at least to some extent.  
 
-Recall the discussion of redressability/causation in Akins where the Court held that plaintiffs satisfied those elements of standing despite the fact that a court order in plaintiffs’ favor might not ultimately redress plaintiffs’ injury (because the FEC retained discretion to excuse AIPAC from FECA’s public disclosure requirements).  Note also the discussion of redressability and "procedural rights" in Lujan footnote 7, making the same point.  
+Recall the discussion of redressability/causation in Akins where the Court held that plaintiffs satisfied those elements of standing despite the fact that a court order in plaintiffs’ favor might not ultimately redress plaintiffs’ injury (because the FEC retained discretion to excuse AIPAC from FECA’s public disclosure requirements).  Note also the discussion of redressability and "procedural rights" in Lujan footnote 7, making the same point.
 
-**Federal Election Commission v. Akins 524 U.S. 11 (1998)** (FEC claimed that American Israel Public Affairs Committee (AIPAC) lacked prudential standing to bring suit because it was not a “political committee” and thus did not have to disclose its members, contributions, and expenditures, as was required of political committees.)
-
-Rule: Prudential standing is satisfied when the injury asserted arguably falls within the zone of interests to be protected or regulated by the statute in question.
-
-Issue: Is prudential standing satisfied when the injury asserted falls within the zone of interests to be protected or regulated by the statute in question?
-
-Holding and Reasoning (Breyer, J.): Yes. To establish constitutional standing, a party must establish that its injury is concrete, fairly traceable to the challenged action, and redressable. Prudential standing is satisfied when the injury asserted by a plaintiff arguably falls within the zone of interests to be protected or regulated by the statute in question. In the present case, the plaintiffs’ injury is that they were unable to obtain information about the AIPAC that was relevant to their evaluation of candidates for public office. Although this injury is widely shared, it is sufficiently concrete to meet the requirement under Article III of the U.S. Constitution because the injury is definite and directly related to voting. Furthermore, the injury is fairly traceable to the FEC’s decision because the decision directly deprived the plaintiffs of the information they sought. Finally, the injury falls within the zone of interests to be protected or regulated by the Act. The Act provides that “[a]ny person who believes a violation this Act . . . has occurred, may file a complaint with the [FEC].” Certainly, the plaintiffs believe a violation of the Act occurred, and under the terms of the Act itself, they have prudential standing. As a result of the foregoing, the plaintiffs have standing to bring this claim. The case is remanded to the FEC.
-
-Dissent (Scalia, J.): As the majority notes, the Act provides that “[a]ny person who believes a violation this Act . . . has occurred, may file a complaint with the [FEC]” and that “[a]ny party aggrieved by an order of the [FEC] dismissing a complaint filed by such party . . . may file a petition” in district court. The distinction between “person” in the former clause and “aggrieved party” in the latter is significant, but the majority’s decision removes any limiting authority that the latter clause had. The plaintiffs’ claimed injury is not lack of access to information; it is the FEC’s refusal to bring an enforcement action against a third party. Regardless, the plaintiffs assert a generalized grievance, applicable to “virtually the entire population,” that is best remedied through political, rather than judicial means.
+- {:.indent-0}**Federal Election Commission v. Akins (1998)** (FEC claimed that American Israel Public Affairs Committee (AIPAC) lacked prudential standing to bring suit because it was not a “political committee” and thus did not have to disclose its members, contributions, and expenditures, as was required of political committees.)
+- {:.indent-2}Rule: Prudential standing is satisfied when the injury asserted arguably falls within the zone of interests to be protected or regulated by the statute in question.
+- {:.indent-2}Issue: Is prudential standing satisfied when the injury asserted falls within the zone of interests to be protected or regulated by the statute in question?
+- {:.indent-2}Holding and Reasoning (Breyer, J.): Yes. To establish constitutional standing, a party must establish that its injury is concrete, fairly traceable to the challenged action, and redressable. Prudential standing is satisfied when the injury asserted by a plaintiff arguably falls within the zone of interests to be protected or regulated by the statute in question. In the present case, the plaintiffs’ injury is that they were unable to obtain information about the AIPAC that was relevant to their evaluation of candidates for public office. Although this injury is widely shared, it is sufficiently concrete to meet the requirement under Article III of the U.S. Constitution because the injury is definite and directly related to voting. Furthermore, the injury is fairly traceable to the FEC’s decision because the decision directly deprived the plaintiffs of the information they sought. Finally, the injury falls within the zone of interests to be protected or regulated by the Act. The Act provides that “[a]ny person who believes a violation this Act . . . has occurred, may file a complaint with the [FEC].” Certainly, the plaintiffs believe a violation of the Act occurred, and under the terms of the Act itself, they have prudential standing. As a result of the foregoing, the plaintiffs have standing to bring this claim. The case is remanded to the FEC.
+- {:.indent-0}Dissent (Scalia, J.): As the majority notes, the Act provides that “[a]ny person who believes a violation this Act . . . has occurred, may file a complaint with the [FEC]” and that “[a]ny party aggrieved by an order of the [FEC] dismissing a complaint filed by such party . . . may file a petition” in district court. The distinction between “person” in the former clause and “aggrieved party” in the latter is significant, but the majority’s decision removes any limiting authority that the latter clause had. The plaintiffs’ claimed injury is not lack of access to information; it is the FEC’s refusal to bring an enforcement action against a third party. Regardless, the plaintiffs assert a generalized grievance, applicable to “virtually the entire population,” that is best remedied through political, rather than judicial means.
 
 ---
 
 ## Prudential limitations
 
-Non-constitutional, judge-made limitations on standing. [Note:  since these limitations are non-constitutional, they are not binding on Congress.  Congress may authorize federal suits by individuals who satisfy Art III case and controversy requirements, irrespective of any prudential limitation.]  
+Non-constitutional, judge-made limitations on standing. [Note:  since these limitations are non-constitutional, they are not binding on Congress.  Congress may authorize federal suits by individuals who satisfy Article III case and controversy requirements, irrespective of any prudential limitation.]  
 
-In *Lexmark v. Static Controls* (2014), the Supreme Court suggested (but has not yet held) that prudential limitations ordinarily should not prevent federal adjudication of claims that meet the Article III case and controversy requirements.  The Court’s dictum leaves the status of standing doctrine in some doubt.
+- {:.indent-0}**Lexmark v. Static Controls (2014)**
+- {:.indent-2}Rule: Supreme Court suggested (but has not yet held) that prudential limitations ordinarily should not prevent federal adjudication of claims that meet the Article III case and controversy requirements.  The Court’s dictum leaves the status of standing doctrine in some doubt.
+- {:.indent-2}Reasoning: No "generalized grievances:" the Court has said that the federal judiciary should decline on prudential grounds to adjudicate “generalized grievances shared in substantially equal measure by all or a large class of citizens."" (see also Akins; Richardson; Schlesinger). As noted above, the ban on generalized grievances is an Article III constitutional limitation on standing, not a prudential limitation. To the extent that the ban on “generalized grievances” described in earlier cases had a broader scope than defined above, it is unclear whether it survives as a prudential limitation (or may in a later case be deemed part of the Art. III injury test.)  
+- {:.indent-0}Note: For our purposes, assume that the ban on “generalized grievances” now exists only in its narrow version and only as part of the Article III injury requirement.  So **as of now, there is only one established “prudential limitation” – the ban on assertion of third party rights.**
 
-No "generalized grievances:" the Court has said that the federal judiciary should decline on prudential grounds to adjudicate “generalized grievances shared in substantially equal measure by all or a large class of citizens’ (Warth v. Seldin). (see also Akins; Richardson; Schlesinger). As noted above, the ban generalized grievances, defined more narrowly [in Lexmark, e.g.] as “suits ‘claiming only harm to [the plaintiff's] and every citizen's interest in proper application of the Constitution and laws, and seeking relief that no more directly and tangibly benefits him than it does the public at large’” is an Art. III constitutional limitation on standing, not a prudential limitation.
-
-To the extent that the ban on “generalized grievances” described in earlier cases had a broader scope than defined above, it is unclear whether it survives as a prudential limitation (or may in a later case be deemed part of the Art. III injury test.)  
-
-[NOTE: for our purposes, assume that the ban on “generalized grievances” now exists only in its narrow version and only as part of the Article III injury requirement.  So as of now, there is only one established “prudential limitation” – the ban on assertion of third party rights. ]
-
-In any event, the bright line rule is that in federal court there is no general "citizen standing" or "taxpayer standing." [Note, just fyi: municipal taxpayers under certain circumstances may have standing to challenge municipal expenditures. (You need not know this exception for the exam.)]
-
-**Exceptions:**
+### Exceptions
 
 (a) To the extent that there is anything left of the “generalized grievance” concept as a prudential limitation, Congress can override this limitation (subject to the standards described in Akins and Spokeo and in the Kennedy concurrence in Lujan.)
 
 (b) *Flast v. Cohen*:  taxpayers have standing to challenge an exercise of Congress’s Article I, sec. 8 taxing and spending power as violative of First Amendment Establishment Clause. (Note that *Hein v. Freedom From Religion Foundation, Inc.* (2007) held that taxpayers have no standing to challenge executive branch expenditures as violative of the Establishment Clause.)  
 
-**General bar against plaintiff assertion of the legal rights of third parties not before the Court** (sometimes referred to as rule against jus (right) tertii (third party)).
+(c) **General bar against plaintiff assertion of the legal rights of third parties not before the Court** (sometimes referred to as rule against jus (right) tertii (third party)). Justification for this limitation is the idea that the party whose rights are most directly at stake ordinarily should have responsibility and control over litigation of those rights. Therefore, courts should only allow the assertion of a third party’s rights by litigants whose interests are **very closely aligned with the right-holder’s**, and who can be trusted to **advocate vigorously** for the third-part’s rights.
 
-Justification for this limitation is the idea that the party whose rights are most directly at stake ordinarily should have responsibility and control over litigation of those rights. Therefore, courts should only allow the assertion of a third party’s rights by litigants whose interests are **very closely aligned with the right-holder’s**, and who can be trusted to **advocate vigorously** for the third-part’s rights.
+### Exceptions to exceptions
 
-**Exceptions:**
+(a) Congressional override [NB: plaintiff must always meet Article III requirements.]
 
-(a) Congressional override [NB: plaintiff must always meet Art III requirements.]
+(b) Where “enforcement of the challenged restriction against the litigant would result indirectly in the violation of third parties’ rights.” For example, enforcement of the alcohol sales restriction against the Plaintiff bar owner in *Craig v. Boren* would result indirectly in the violation of the equal protection rights of the 18-20 year old men; or enforcement of criminal statutes prohibiting distributing contraceptives against the Plaintiff medical providers in Griswold would result in violation of their patients’ constitutional privacy and reproductive rights.
 
-(b) Where “enforcement of the challenged restriction against the litigant would result indirectly in the violation of third parties’ rights.” (For example, enforcement of the alcohol sales restriction against the Plaintiff bar owner in *Craig v. Boren* would result indirectly in the violation of the equal protection rights of the 18-20 year old men; or enforcement of criminal statutes prohibiting distributing contraceptives against the Plaintiff medical providers in Griswold would result in violation of their patients’ constitutional privacy and reproductive rights.)
+(c) Where the challenged statute, regulation, etc. would "preclude or otherwise adversely affect a relationship existing between the litigant and the persons whose rights are violated."  (e.g, the relationship between parochial schools and parents in Pierce v. Society of Sisters;  possibly the vendor-vendee relationship in Craig, or doctor-patient relationship in Griswold). Note that this exception overlaps with exception (b).
 
-(c) Where the challenged statute, regulation, etc. would "preclude or otherwise adversely affect a relationship existing between the litigant and the persons whose rights are violated."  (e.g, the relationship between parochial schools and parents in Pierce v. Society of Sisters;  possibly the vendor-vendee relationship in Craig, or doctor-patient relationship in Griswold). Note that this exception overlaps with the second exception.
+(d) Where there is otherwise a “close relationship” between the litigant and the third party who possesses the right, and “there is a hindrance to the possessor’s ability to protect his or her own interests.”  (E.g. Sessions v. Morales, 137 S. Ct. 1678, 1688-89 (2017).) [Nb: the overriding inquiry in assessing the applicability of exceptions (b), (c) or (d) is whether the plaintiff will vigorously advocate the rights of the third party; if the court concludes that the litigant may not be a vigorous advocate for the rights of the third party – or may have different interests from the third party – it will deny standing]. 		
 
-(d) Where there is otherwise a “close relationship” between the litigant and the third party who possesses the right, and “there is a hindrance to the possessor’s ability to protect his or her own interests.”  (E.g. Sessions v. Morales, 137 S. Ct. 1678, 1688-89 (2017).)
-
-[Nb: the overriding inquiry in assessing the applicability of exceptions (b), (c) or (d) is whether the plaintiff will vigorously advocate the rights of the third party; if the court concludes that the litigant may not be a vigorous advocate for the rights of the third party – or may have different interests from the third party – it will deny standing].
-
-[(*) Historical note:  "Zone-of-interest" test  ("whether the interest sought to be protected by the [litigant] is arguably within the zone of interests to be protected or regulated by the statute or constitutional guarantee in question.")  In Lexmark v. Static Controls (2014), the Supreme Court held that zone-of-interest is no longer to be considered part of standing analysis, but relates instead to whether a particular statute confers a right of action on the plaintiff.  The zone-of-interests test will appear as part of the standing rule statement in many pre-2014 judicial opinions; those rule statements are no longer correct.]   		
-
-(C)	Significance of *City of Los Angeles v. Lyons*: plaintiff must demonstrate standing for each element of relief; the fact that the defendant’s action injured an individual in the past does not necessarily give that individual standing to seek a prospective injunction.  Clarify the rule and reasoning of Lyons and the bases for distinguishing it. (Recall NYC Street Crimes Unit case discussed in class).  
+(e)	Significance of *City of Los Angeles v. Lyons*: plaintiff must demonstrate standing for each element of relief; the fact that the defendant’s action injured an individual in the past does not necessarily give that individual standing to seek a prospective injunction.  
 
 ---
 
@@ -395,24 +413,21 @@ The classic case raising a ripeness question is one in which a plaintiff challen
 
 The **modern ripeness test** appeared in *Abbott Labs v. Gardener* (discussed in the CSS opinions and in Handout 3, note B).  Abbott was a pre-enforcement challenge to FDA regulations that would have required the plaintiff drug company to re-label its pharmaceutical products at substantial expense.  The drug company sought a judicial declaration of the regulations’ invalidity before the FDA sought to enforce the regulations against the company.  Note, absent judicial intervention at this pre-enforcement stage, the plaintiff would be put to the choice of incurring significant expense (in order to abide by the regulations) or intentionally disobeying the regulations at the risk of incurring civil or criminal penalties (in order to have an opportunity to challenge the regulations in court).  The Supreme Court was apparently moved by the drug company’s dilemma and held that the case was ripe.  [Compare the Court’s treatment of the parallel (perhaps sharper) dilemma confronting the workers in the Longshoremen’s’ case and the immigrants in Catholic Social Services.]
 
-The test that emerged from Abbott asks two questions:
+**The test that emerged from Abbott asks two questions:**
 
-1. Whether the claims are "fit for judicial review:" to the extent that a claim raises "purely legal" questions (such as facial challenges to a regulation's or statute’s validity) it is more likely to be found "fit for judicial review" because there is little or no benefit to waiting for additional facts to develop; conversely, if the resolution of the claim seems to turn on factual circumstances that have not fully emerged at the time review is sought (e.g., facts concerning how the challenged law will be applied to and affect the plaintiff), the claim may be deemed unfit for judicial review.
+1. **Fitness**. Whether the claims are "fit for judicial review:" to the extent that a claim raises "purely legal" questions (such as facial challenges to a regulation's or statute’s validity) it is more likely to be found "fit for judicial review" because there is little or no benefit to waiting for additional facts to develop; conversely, if the resolution of the claim seems to turn on factual circumstances that have not fully emerged at the time review is sought (e.g., facts concerning how the challenged law will be applied to and affect the plaintiff), the claim may be deemed unfit for judicial review.
 
-2. Whether delaying adjudication will result in hardship to a party. The typical instance of "hardship" is where denying pre-enforcement review will put a party to the choice of risking significant sanctions in order to challenge the allegedly illegal government restriction, or suffering an irremediable deprivation by accepting the restriction.  Abbott is an example of this, as is the Longshoremen’s case and the various cases in which doctors have sought pre-enforcement review of anti-abortion statutes (but see Poe in casebook).  
+2. **Hardship**. Whether delaying adjudication will result in hardship to a party. The typical instance of "hardship" is where denying pre-enforcement review will put a party to the choice of risking significant sanctions in order to challenge the allegedly illegal government restriction, or suffering an irremediable deprivation by accepting the restriction.  Abbott is an example of this, as is the Longshoremen’s case and the various cases in which doctors have sought pre-enforcement review of anti-abortion statutes (but see Poe in casebook).  
 
 Note: The court will always consider the probability that the predicted harm will actually occur – either as part of the “fitness” analysis, the “hardship” analysis or as an independent factor.  
 
-Clarify the impact of Catholic Social Services on ripeness doctrine.  What is the meaning of CSS’s distinction between benefit-restricting regulations and behavior-prescribing regulations?  (Note that "benefit" in this sense includes public benefits, admission to public educational institutions, immigration status, public contracts and licenses, etc.) Does a different, more restrictive ripeness analysis apply to the former?  If so, what?  Note the different rule the Court applied in the Northeastern Florida case and in Gratz, where plaintiffs alleged equal protection violations (or denial of equal treatment) in the distribution of a governmental benefit.
+*Clarify the impact of Catholic Social Services on ripeness doctrine.  What is the meaning of CSS’s distinction between benefit-restricting regulations and behavior-prescribing regulations?  (Note that "benefit" in this sense includes public benefits, admission to public educational institutions, immigration status, public contracts and licenses, etc.) Does a different, more restrictive ripeness analysis apply to the former?  If so, what?  Note the different rule the Court applied in the Northeastern Florida case and in Gratz, where plaintiffs alleged equal protection violations (or denial of equal treatment) in the distribution of a governmental benefit.*
 
 ---
 
 ### Mootness
 
-When the case is no longer a live "case or controversy" because of subsequent events.  
-
-Note:  The "case and controversy" requirements of Article III must be met at every stage of the litigation, from trial through final disposition on appeal (see Honig v. Doe).  If a case becomes moot while on appeal, what happens to the ruling(s) below? (See Rehnquist concurrence in Honig).
-
+When the case is no longer a live "case or controversy" because of subsequent events, it is moot. The "case and controversy" requirements of Article III must be met at every stage of the litigation, from trial through final disposition on appeal (see Honig v. Doe). If a case becomes moot while on appeal, *what happens to the ruling(s) below? (See Rehnquist concurrence in Honig).*
 
 Examples of events that could render a claim "moot:"
 
@@ -543,7 +558,7 @@ The following principles governed the scope of the commerce power before Lopez a
 
 ---
 
-## Commerce Power After Lopez and Morrison
+### Commerce Power After Lopez and Morrison
 
 *U.S. v. Lopez* (1995) - Categories of Permissible Commerce Clause Legislation
 
@@ -617,6 +632,8 @@ Clarify the differences between civil rights statutes based on the Thirteenth Am
 
 Note: federal civil rights legislation enacted in the 1960s, which provide remedies against purely private conduct in a variety of areas such as public accommodations (Heart of Atlanta and McClung), employment, and housing, for example, have been sustained as exercises of Congress' Commerce Power, not its Civil Rights Enforcement Power.  [See the concurring opinions in Heart of Atlanta and McClung for the view that these statutes should have been upheld on the basis of the Civil Rights Powers and that the Civil Rights Cases  (l883), which limited the Fourteenth Amendment to actions of the state (the state action doctrine), should have been overruled.]  Note also that in striking down the Violence Against Women Act (in Morrison) the Supreme Court relied upon and reaffirmed the Civil Rights Cases.
 
+---
+
 ## Taxing Power  
 
 [will NOT be tested on the midterm]
@@ -635,6 +652,8 @@ Regulation by means of a tax is always permissible (absent some “external” p
 
 1. the regulation is merely "incidental" to the tax; or
 2. Congress has constitutional authority to regulate an activity, independent of its taxing power;  it can then employ tax measures as a "necessary and proper" means to achieve the regulation. (e.g. Congress’s power over currency gave it independent authority to regulate state-issued banknotes: a prohibitively high tax on such notes -- even if considered "regulatory" and not "revenue-raising" -- would be sustained as necessary and proper to the implementation of the independent federal power to regulate currency).
+
+---
 
 ## Spending Power
 
@@ -666,6 +685,70 @@ Q. NFIB v. Sebelius elaborated on (some would say altered) conditional spending 
 ## External Constraints on Congressional Powers
 
 Note that implicit and explicit prohibitions in the original constitution’s text (e.g., Article I, section 9) and the Bill of Rights, including the subsequent Amendments, operate as a constraint on the exercise of all the powers of Congress.  How does the 10th amendment figure in this structure (is it an external constraint?)  What about the 11th amendment?
+
+---
+
+## Structural Limitations on State and Local Power The Dormant Commerce Clause
+
+Fundamental Framework Text pp 232-38
+Handout 8 (Edwards v. California)
+
+---
+
+## Dormant Commerce Clause Protection against Discrimination
+
+Text pp 247-260 (Philadelphia v. New Jersey; C & A Carbone;
+West Lynn Creamery)
+
+---
+
+## Facially Neutral Statutes that Affect Commerce
+
+Text pp 264-282 (Exxon; Hunt; Kassel)
+
+---
+
+## Market Participant Doctrine
+
+Text pp 260-262 (Hughes, South-Central Timber, Reeves)
+Handout 9 (White v. Mass. Council of Construction
+Employers)
+
+---
+
+## Protection Against Discrimination on Account of State Residence
+
+Privileges & Immunities Clause of Article IV
+Text pp 262-264
+Handout 10 (UBCT v. Camden)
+Preemption Doctrine
+Text pp 283-292 (Arizona v. U.S.)
+
+---
+
+## Separation of National Powers Federal Executive Authority
+
+I. Separation of National Power – Executive Authority
+Introduction
+Text pp 367-370
+
+---
+
+### Executive Authority General Framework
+Text pp 370-388 (Youngstown (Steel Seizure Case))
+Dames & Moore, Medellin)
+
+---
+
+### Executive Authority and Foreign Affairs
+
+Text pp 388-409 (Hamdi, Hamdan, Boumediene)
+
+---
+
+### Executive Authority
+
+Handout 11 (Zivotofsky and current issues).
 
 ---
 
