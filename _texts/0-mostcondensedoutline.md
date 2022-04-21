@@ -5,7 +5,6 @@ author:
 editor: Sabina Pringle
 source:
 toc:
-- Statutory Scheme
 - Slavery and the Constitution
 - Wealth, class, economic inequality and the Constitution
 - Federal Judicial Power
@@ -48,68 +47,19 @@ toc:
 
 ---
 
-Welcome to my condensed outline. Use the menu bar on the upper left to jump around. Make sure you check out the footnotes.
+Welcome to my condensed outline. Use the menu bar on the upper left to jump around. Make sure you check out the footnotes.[^1]
 
 See [U.S. Constitution](https://www.law.cornell.edu/constitution/index.html) for constitutional law. Course materials are on [TWEN](https://lawschool.westlaw.com/manage/homepage.aspx?task=coursehomepage&courseid=304460).
 
----
-## Statutory Scheme
-
-- {:.indent-0}**1787 Constitution**
-- {:.indent-2}**Article I**: National Legislature (Congress)
-- {:.indent-2}**Article II**: National Executive (President)
-- {:.indent-2}**Article III**: National Judiciary
-- {:.indent-2}**Article IV**: States
-- {:.indent-2}**Article V**: Amendment process (very difficult)
-- {:.indent-2}**Article VI**: Federal Supremacy (within a system of “dual sovereignty”)
-- {:.indent-2}**Article VII**: Ratification
-
-- {:.indent-0}**Amendments**
-- {:.indent-2}**1st Amendment**: Protects freedom of religion, freedom of speech, freedom of the press, freedom of assembly and the right to petition the government. Ratified 1791.
-- {:.indent-2}**3rd Amendment**: Restricts the quartering of soldiers in private homes. Ratified 1791.
-- {:.indent-2}**4th Amendment**: Prohibits unreasonable searches and seizures and sets out requirements for search warrants based on probable cause. Ratified 1791.
-- {:.indent-2}**5th Amendment**: Sets out rules for indictment by grand jury and eminent domain, protects the right to due process, and prohibits self-incrimination and double jeopardy. Ratified 1791.
-- {:.indent-2}**7th Amendment**: Provides for the right to a jury trial in civil lawsuits. Ratified 1791.
-- {:.indent-2}**8th Amendment**: Prohibits excessive fines and excessive bail, as well as cruel and unusual punishment. Ratified 1791.
-- {:.indent-2}**9th Amendment**: States that rights not enumerated in the Constitution are retained by the people. Ratified 1791.
-- {:.indent-2}**10th Amendment**: States that the federal government possesses only those powers delegated, or enumerated, to it through the Constitution, and that all other powers are reserved to the States, or to the people. Ratified 1791.
-- {:.indent-2}**11th Amendment**: Makes states immune from suits from out-of-state citizens and foreigners not living within the state borders; lays the foundation for state sovereign immunity. Ratified 1795.
-- {:.indent-2}**12th Amendment**: Revises presidential election procedures by having the president and vice president elected together as opposed to the vice president being the runner up in the presidential election. Ratified 1804.
-- {:.indent-2}**13th Amendment**: Abolishes slavery, and involuntary servitude, except as punishment for a crime. Ratified 1865.
-- {:.indent-2}**14th Amendment**: Defines citizenship, contains the Privileges or Immunities Clause, the Due Process Clause, and the Equal Protection Clause, and deals with post–Civil War issues. Ratified 1868.
-- {:.indent-2}**15th Amendment**: Prohibits the denial of the right to vote based on race, color or previous condition of servitude. Ratified 1870.
-- {:.indent-2}**16th Amendment**: Permits Congress to levy an income tax without apportioning it among the various states or basing it on the United States Census. Ratified 1913.
-- {:.indent-2}**17th Amendment**: Establishes the direct election of United States senators by popular vote. Ratified 1913.
-- {:.indent-2}**18th Amendment**: Prohibited the manufacturing or sale of alcohol within the United States (Repealed December 5, 1933, via the 21st Amendment). Ratified 1919.
-- {:.indent-2}**19th Amendment**: Prohibits the denial of the right to vote based on sex. Ratified 1920.
-- {:.indent-2}**20th Amendment**: Changes the dates on which the terms of the president and vice president, and of members of Congress, begin and end, to January 20 and January 3 respectively. States that if the president-elect dies before taking office, the vice president–elect is to be inaugurated as President. Ratified 1933.
-- {:.indent-2}**21st Amendment**: Repeals the 18th Amendment and makes it a federal offense to transport or import intoxicating liquors into U.S. states and territories where such is prohibited by law. Ratified 1933.
-- {:.indent-2}**22nd Amendment**: Limits the number of times a person can be elected president. Ratified 1951.
-- {:.indent-2}**23rd Amendment**: Grants the District of Columbia electors in the Electoral College. Ratified 1961.
-- {:.indent-2}**24th Amendment**: Prohibits the revocation of voting rights due to the non-payment of a poll tax or any other tax. Ratified 1964.
-- {:.indent-2}**25th Amendment**: Addresses succession to the presidency and establishes procedures both for filling a vacancy in the office of the vice president and responding to presidential disabilities. Ratified 1967.
-- {:.indent-2}**26th Amendment**: Prohibits the denial of the right of US citizens, 18 years of age or older, to vote on account of age. Ratified 1971.
-- {:.indent-2}**27th Amendment**: Delays laws affecting Congressional salary from taking effect until after the next election of representatives. Ratified 1992.
+[^1]:Here are the footnotes.
 
 ---
 
 ## Slavery and the Constitution
 
-**Article I, Section 2**: "Representatives … shall be apportioned among the several States … according to their respective Numbers, which shall be determined by adding to the whole Number of free Persons, including those bound to service for a Term of Years, and excluding Indians not taxed, three fifths of all other Persons."
+Article I, Section 2 (..."three fifths of all other Persons"); Article I, Section 9, clause 1 ("... Migration or Importation of ... Persons ... shall not be prohibited ... prior to [1808]"); Article IV, Section 2 "No Person ... shall . . . be discharged from ... Service or Labor, but shall be delivered up on Claim ..."); Article V ("... no Amendment ... prior to [1808] shall ... affect [Art. I, §9, cl. 1]") were repealed by the reconstruction amendments. At the Constitution's Bicentennial in 1987, Chief Justice Thurgood Marshall wrote "[t]he focus of this celebration invites a complacent belief that the vision of those who debated and compromised in Philadelphia yielded the "more perfect Union" it is said we now enjoy. I cannot accept this invitation, for I do not believe that the meaning of the Constitution was forever "fixed" at the Philadelphia Convention. Nor do I find the wisdom, foresight, and sense of justice exhibited by the Framers particularly profound. To the contrary, the government they devised was defective from the start, requiring several amendments, a civil war, and momentous social transformation to attain the system of constitutional government, and its respect for the individual freedoms and human rights, we hold as fundamental today." *Commemorating the Wrong Document?* (1987).
 
-**Article I, Section 9, clause 1**: "The Migration or Importation of such Persons as any of the States now existing shall think proper to admit, shall not be prohibited by Congress prior to the Year [1808]."
-
-**Article IV, Section 2**: "No Person held to Service or Labor in one State under the Laws thereof, escaping into another, shall . . . be discharged from such Service or Labor, but shall be delivered up on Claim of the Party to whom Service or Labor may be due.""
-
-**Article V**: "... no Amendment which shall be made prior to the Year [1808] shall in any manner affect [Art. I, §9, cl. 1]."
-
-**Article II, Section 1**: Presidents chosen by “electoral votes,” not popular vote.
-
-- {:.indent-2}2000 Election: George W. Bush loses popular vote – becomes President.
-- {:.indent-2}2016 Election: Trump loses popular vote by 2.9 million – becomes President.
-- {:.indent-2}2020 Election: Joe Biden wins popular vote by over 7 million; but a change of about 100k votes could have given an electoral college victory to Trump.
-
-**At the Constitution's Bicentennial in 1987, Chief Justice Thurgood Marshall**: "[t]he focus of this celebration invites a complacent belief that the vision of those who debated and compromised in Philadelphia yielded the "more perfect Union" it is said we now enjoy. I cannot accept this invitation, for I do not believe that the meaning of the Constitution was forever "fixed" at the Philadelphia Convention. Nor do I find the wisdom, foresight, and sense of justice exhibited by the Framers particularly profound. To the contrary, the government they devised was defective from the start, requiring several amendments, a civil war, and momentous social transformation to attain the system of constitutional government, and its respect for the individual freedoms and human rights, we hold as fundamental today." *Commemorating the Wrong Document?* (1987).
+Unlike other abolitionists who condemned the Constitution as pro-slavery, in 1860 **Frederick Douglass** wrote “If the South has made the Constitution bend to the purposes of slavery, let the North now make that instrument bend to the cause of freedom and justice." Possible rationales for supporting the Constitution are **(1) "rule of law” rationale**; and **(2) pragmatic or “consequentialist” rationale**. The “rule of law” rationale rests on the circumstances of the founding that speak to the legitimacy (or not) of the Constitution at adoption, and thus the rule-of-law rationale for supporting it. The “consequentialist” rationale focuses on the implications for how the courts should interpret the Constitution. These include the use of “originalism” (especially from founding era); interpreting the constitution as a “living constitution” v. fixed meaning; and the role of courts in democratic society.
 
 ---
 
@@ -159,9 +109,7 @@ Basic Concepts are federalism, separation of powers, power of judicial review an
 
 ## Federalism
 
-System of "dual sovereignty" by which the states operate under a national or "federal" government but still retain certain independent powers and sovereign attributes.  
-
-Federalism issues involve the appropriate distribution of authority between the national government and the states, and the relationship between those units of government.  The Supreme Court at present is deeply divided on basic issues of federalism.  When the modern Court invokes "federalism" as justification for declining to adjudicate cases, it has concluded that federal judicial oversight of state or local governments in a particular context would constitute an inappropriate federal encroachment upon state sovereignty or areas traditionally committed to the states.
+Federalism is a system of "dual sovereignty" by which the states operate under a national or "federal" government but still retain certain independent powers and sovereign attributes. Federalism issues involve the appropriate distribution of authority between the national government and the states, and the relationship between those units of government.  The Supreme Court at present is deeply divided on basic issues of federalism.  When the modern Court invokes "federalism" as justification for declining to adjudicate cases, it has concluded that federal judicial oversight of state or local governments in a particular context would constitute an inappropriate federal encroachment upon state sovereignty or areas traditionally committed to the states.
 
 (recall, e.g., *Term Limits* and *Seminole Tribe*)  (e.g. *Lyons*, which the Court formally decided on standing grounds)
 
@@ -180,7 +128,14 @@ A major question in US constitutional law has been whether and to what extent th
 - {:.indent-0}**Shelby County (2013)**
 - {:.indent-2}Holding/rule: Constitution bars Congress from maintaining key provisions of the Voting Rights Act of 1965 that had curbed state actions disenfranchising people of color.
 
-Unlike other abolitionists who condemned the Constitution as pro-slavery, in 1860 **Frederick Douglass** wrote “If the South has made the Constitution bend to the purposes of slavery, let the North now make that instrument bend to the cause of freedom and justice." Possible rationales for supporting the Constitution are **(1) "rule of law” rationale**; and **(2) pragmatic or “consequentialist” rationale**. The “rule of law” rationale rests on the circumstances of the founding that speak to the legitimacy (or not) of the Constitution at adoption, and thus the rule-of-law rationale for supporting it. The “consequentialist” rationale focuses on the implications for how the courts should interpret the Constitution. These include the use of “originalism” (especially from founding era); interpreting the constitution as a “living constitution” v. fixed meaning; and the role of courts in democratic society.
+- {:.indent-0}**U.S. Term Limits v. Thornton (1995)**
+- {:.indent-2}Holding/rule: States may not impose qualifications for prospective members of Congress stricter than those specified in the Constitution.
+
+- {:.indent-0}**Seminole Tribe of Florida v. Florida (1996)**
+- {:.indent-2}Holding/rule: Article I of the U.S. Constitution did not give the United States Congress the power to abrogate the sovereign immunity of the states that is further protected under the Eleventh Amendment.
+
+- {:.indent-0}**City of Los Angeles v. Lyons (1983)**
+- {:.indent-2}Holding/Rule: A plaintiff must meet a standing requirement for each form of relief sought.
 
 ---
 
