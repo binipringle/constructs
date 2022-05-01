@@ -1,6 +1,6 @@
 ---
 layout: poem
-title: Outline for Final
+title: First Draft of Outline for Final
 author:
 editor: Sabina Pringle
 source:
@@ -14,7 +14,7 @@ toc:
 
 ---
 
-Welcome to my outline for the final exam. Use the menu bar on the upper left to jump around. Make sure you check out the footnotes.[^1]
+Welcome to the first (messy) draft of my outline for the final exam. Use the menu bar on the upper left to jump around. Make sure you check out the footnotes.[^1]
 
 See [U.S. Constitution](https://www.law.cornell.edu/constitution/index.html) for constitutional law. Course materials are on [TWEN](https://lawschool.westlaw.com/manage/homepage.aspx?task=coursehomepage&courseid=304460).
 
