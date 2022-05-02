@@ -42,6 +42,6 @@ prioritize
 
 possible issues:
 
-judicial power: does the court have the power to hear
+judicial power: does the court have the power to hear (this was from Asima's notes)
 
 ---
