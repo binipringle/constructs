@@ -149,13 +149,15 @@ Non-constitutional, judge-made limitations on standing. Since these limitations 
 
 (d) Where there is otherwise a “close relationship” between the litigant and the third party who possesses the right, and “there is a hindrance to the possessor’s ability to protect his or her own interests.”  (E.g. Sessions v. Morales, 137 S. Ct. 1678, 1688-89 (2017).) [Nb: the overriding inquiry in assessing the applicability of exceptions (b), (c) or (d) is whether the plaintiff will vigorously advocate the rights of the third party; if the court concludes that the litigant may not be a vigorous advocate for the rights of the third party – or may have different interests from the third party – it will deny standing]. 		
 
-(e)	Significance of *City of Los Angeles v. Lyons*: plaintiff must demonstrate standing for each element of relief; the fact that the defendant’s action injured an individual in the past does not necessarily give that individual standing to seek a prospective injunction.  
+(e)	Significance of *City of Los Angeles v. Lyons*: plaintiff must demonstrate standing for each element of relief; the fact that the defendant’s action injured an individual in the past does not necessarily give that individual standing to seek a prospective injunction.  (Court found that Lyons faced very little risk of again being subjected to a chokehold because there were a relatively small number of chokehold incidents in LA).
 
 ---
 
 ## Eleventh Amendment
 
 *The Judicial power of the United States shall not be construed to extend to any suit in law or equity, commenced or prosecuted against one of the United States by Citizens of another State, or by Citizens or Subjects of any Foreign State.* Eleventh Amendment.
+
+"The 11th amendment and allied principles of state sovereign immunity bar individual lawsuits in federal court against states, state agencies, state officials in their official capacity (with the exception of *Ex Parte Young* suits) and other entities acting as an “arm of the state”, unless the state has waived or Congress has validly abrogated that immunity."
 
 (a) The 11th Amendment limits (i) federal judicial power; and, (ii) as the Court has elaborated the doctrine, the 11A “presupposes” the existence of state sovereignty principles that limit congressional power to abrogate state sovereign immunity in federal court (Seminole) or in state court (Alden), and also (iii): immunizes state defendants from certain federal administrative proceedings initiated by private parties (Federal Maritime Comm’n). (b) State sovereign immunity ("11A immunity" or "SSI") applies only when a state is the defendant or the "real party in interest" on the defense side. SSI comes into play where the state, a state agency, a state official sued in official capacity, and/or other entities acting as an “arm of the state” are defendants " (see Handout 5, p. 3); there is no SSI if the defendant is a county, city, other political subdivision or local official (unless "arm-of-state"), or state officials sued in their individual capacities. (c) There is no SSI limitation (even if a state is the defendant) where the plaintiff is the United States (including agencies of the U.S.) or another state (cf. Art III, §2); cases involving any other plaintiff (including foreign states) subject to SSI limitations[^6].
 
@@ -231,70 +233,37 @@ Spending will be constitutional if (Dole):
 
 Q. NFIB v. Sebelius elaborated on (some would say altered) conditional spending doctrine, holding that Affordable Care Act impermissibly coerced states into expanding their federally-funded Medicaid programs. What is the Court's definition of "coercion"?  Does this coercion analysis ever apply if Congress simply offers states money to operate a program on condition that the state follow federal directives for how the program is to be operated?  Why did the Court try to distinguish “existing Medicaid” from “ACA Medicaid”?
 
-**"Unconstitutional Conditions" doctrine** [this will not be tested on the midterm or the final, but you should be aware of it]: Under some circumstances, the Court has held that Congress may not condition an important benefit on the waiver of a constitutional right, or "penalize" the exercise of a constitutional right by withholding a benefit; this is known as the "unconstitutional conditions" doctrine.  The Court has scaled back this doctrine in recent years.  Recall cases discussed in class: James (welfare/4th amendment); Rust (medical assistance/1st amendment); Lyng v. UAW (food stamps/1st amendment).
-
----
-
-## External Constraints on Congressional Powers
-
-Note that implicit and explicit prohibitions in the original constitution’s text (e.g., Article I, section 9) and the Bill of Rights, including the subsequent Amendments, operate as a constraint on the exercise of all the powers of Congress.  How does the 10th amendment figure in this structure (is it an external constraint?)  What about the 11th amendment?
-
 ---
 
 ## Commerce Power
 
-Source: [Article I, sec. 8, cl. 3](https://www.law.cornell.edu/constitution-conan/article-1/section-8); classic interpretation of the commerce clause appears in Gibbons v. Ogden.
+The issue is whether the [act, law or regulation, etc.] is a constitutional exercise of Congress’s commerce power.
 
-The following principles governed the scope of the commerce power before Lopez and Morrison:
+"Article I, § 8, clause 3 of the Constitution authorizes Congress to regulate commerce among the several states. The Supreme Court has interpreted the commerce clause as empowering Congress to regulate (1) the channels of interstate commerce; (2) the instrumentalities of, or people or things in, interstate commerce; or (3) activities that have a “substantial effect” on interstate commerce. In determining whether an activity has a “substantial effect” on interstate commerce, courts consider not merely whether a single instance of the activity has the requisite effect, but rather, whether the aggregate impact of all such activity nationally can reasonably be said to “substantially affect interstate commerce.” [This principle was established by *Wickard v. Filburn*
+(agricultural price support act constitutional as applied to small amount of home grown wheat because cumulative effect of all home grown wheat on interstate commerce is substantial).] *U.S. v. Lopez* and *U.S. v. Morrison* suggest that Congress may not regulate “non-economic” activity on a theory that the aggregate effect of such activity nationally has a “substantial effect on interstate commerce.” [In other words, the Court has suggested that the Wickard aggregation principle does not apply in determining whether Congress can regulate non-economic activity.] However, Congress may regulate any activity (even non-economic) if it threatens “instrumentalities, people or things in interstate commerce,” or if the regulation includes a “jurisdictional” provision limiting its reach to activities directly linked to interstate commerce [recall the amendment of the Gun Free School Zones Act after Lopez, limiting the statute’s reach to the possession of guns transported across state lines], or if the regulation is an essential part of a larger regulation of economic activity. [See for example the *Raich* case, upholding federal regulation of home-grown marijuana for medical purposes as a necessary part of Congress’s broader regulation (through the Controlled Substances Act) of the interstate market in marijuana.] As a general matter courts will defer to Congress’s judgments regarding congressional authority under the commerce clause and will apply a rational basis standard when assessing a claim that Congress has acted in
+excess of its commerce power. However, when Congress employs its commerce power to regulate “non-economic” activities, the Court has applied a less deferential standard of review and has refused to accept lines of reasoning (connecting the regulated activity to interstate commerce) that would effectively preclude any judicially enforceable limits on the commerce power.
 
-1. The "significant" or "substantial" effects test:  Congress can regulate any activity that substantially affects interstate commerce, even if the regulated activity is not itself either "interstate" or "commerce."  (E.g. NLRB v. Jones & Laughlin; Heart of Atlanta; McClung).
+The [act, law or regulation, etc.] [is / is not] valid commerce clause legislation. A court would most likely analyze the [act, law or regulation, etc.] as a regulation of activity that [substantially affects interstate commerce (Lopez category 3).] [One might also argue that ...] 
 
-2. The "aggregate" or "cumulative effect" rule:  Congress can regulate activities that, considered one by one, would have no effect on interstate commerce as long as the cumulative effect of that class of activities nationally would have a substantial impact on interstate commerce.  (Wickard, Perez, Heart of Atlanta; McClung).
+Under *Lopez* and *Morrison*, the threshold question is whether the [act, law or regulation, etc.] regulates “economic” activity or “non-economic” activity; if the former, “substantial effect” on interstate  commerce may be shown through aggregation; if the latter, then constitutionality turns on whether Congress could reasonably have concluded that particular instances of the regulated activity have the requisite substantial effect or are otherwise directly linked to interstate commerce.
 
-3. The irrelevance of congressional motivation:  Congress may directly regulate interstate commerce for any reason, even if Congress’s "real" purpose is to achieve some goal that would otherwise be outside its constitutional authority.  E.g., in Darby, Congress prohibited the interstate transport of goods produced by workers receiving below the federal minimum wage; this is a constitutional exercise of the commerce power, even if Congress’s "real" purpose was to regulate wage rates not interstate commerce.  Similarly, in Heart of Atlanta and McClung, the Court ruled that the Civil Rights Act of 1964 was a constitutional exercise of the commerce power, even though Congress’s primary goal was not the regulation of interstate commerce, but the advancement of racial equality and human rights and equal citizenship.
+The EPA regulates an [“economic” / "non-economic"] activity because ...
 
-4. Rational basis standard: the courts defer heavily to congressional assertions that a particular activity "substantially affects" interstate commerce or that a particular congressional regulation furthers a federal end (like the regulation of interstate commerce.)   If there is any reasonable basis for such congressional assertions (formal findings are not required) the courts will accept them.  (E.g. Perez). The question on rational basis review is not whether the regulated activity actually has a substantial effect on interstate commerce, but rather whether Congress could have rationally concluded that the regulated activity has such an effect.
-
-*What does Lopez (as interpreted by Morrison) do to this analysis?*
-
-*What are the three categories of permissible commerce clause legislation under Lopez?*  
-
-*How will the Court apply the "substantial effects" test after Lopez and Morrison?*
-	• What's the analysis if the regulated activity is "economic"?   
-	• What's the analysis if the regulated activity is deemed to be "non-economic"?  
-	• Under what circumstances may Congress regulate "non-economic" activity under the commerce clause and what is the standard of review?  See, e.g., Raich (the medical marijuana case.)  
-
-[A summary of the Commerce Power after Lopez and Morrison is attached to this outline as an addendum – please review it.]
+Therefore, the [act, law or regulation, etc.] falls with Congress’s commerce power because Congress could rationally conclude that the nationally aggregated impact of [something] “substantially affects” interstate commerce.
 
 ---
 
-### Commerce Power After Lopez and Morrison
+This was my rule which I might not use (the above is the rule from the sample final answer):
 
-*U.S. v. Lopez* (1995) - Categories of Permissible Commerce Clause Legislation
+Article I, Section 8, Clause 3 of the U.S. Constitution gives Congress the power to (1) regulate the use of the channels of interstate commerce; (2) regulate and protect the instrumentalities of interstate commerce, or persons or things in interstate commerce, even though the threat may come from intrastate activities; and (3) regulate activities that have a substantial relation to interstate commerce or that substantially affect interstate commerce. To determine whether an activity has a substantial relation to or substantially effects interstate commerce, courts use the substantial effects test, which distinguishes between "economic" and "non-economic" activity. If the regulated activity is economic, courts apply the Wickard aggregation rule, which asks whether Congress could rationally conclude that the regulated activity, considered in the aggregate nationally, has a substantial effect on interstate commerce (The answer is invariably yes). If the regulated activity is non-economic, the court will not consider the aggregate impact of “non-economic” activity in determining whether Congress may regulate that activity under the substantial effects test. However, Congress may regulate “non-economic” activity under the commerce clause if (1) the legislation fits into Lopez category 1 or 2 (*U.S. v. Lopez* (1995) provides categories of permissible commerce clause legislation); (2) the regulation of non-economic activity is an essential part of a broader regulation of “economic” activity; or (3) through a statute with a jurisdictional element limiting the statute’s application case-by-case to activity having a nexus with interstate commerce. (See the amended Gun Free School Zones Act.)
 
-Congress may:
-
-1.   Regulate the use of the channels of interstate commerce.
-2.   Regulate and protect the instrumentalities of interstate commerce, or persons or things in interstate commerce, even though the threat may come from intrastate activities.
-3.   Regulate activities that have a substantial relation to interstate commerce or that substantially affect interstate commerce.
-
-For category 3 (the substantial effects test):
-
-**If the regulated activity is “ECONOMIC”:** the Wickard aggregation rule applies; the court asks whether Congress could rationally conclude that the regulated activity, considered in the aggregate nationally, has a substantial effect on interstate commerce.  (The answer is invariably yes.)
-
-**If the regulated activity is “NON-ECONOMIC”:** our working rule is that the court will NOT consider the aggregate impact of “non-economic” activity in determining whether Congress may regulate that activity under the substantial effects test.
-
-Under what circumstances may Congress regulate “non-economic” activity under the commerce clause?
-
-1.  If the legislation fits into Lopez category 1 or 2 (above).
-2.  If the regulation of “non-economic activity” is an essential part of a broader regulation of “economic” activity (e.g., *Gonzalez v. Raich*).
-3.  Through a statute with a jurisdictional element limiting the statute’s application case-by-case to activity having a nexus with interstate commerce. (See the amended Gun Free School Zones Act.)
-
-Raich:  In determining whether a regulation of non-economic activity is “an essential part of a broader regulation of economic activity” the court asks whether Congress could rationally conclude that “failure to regulate that class of [non-economic] activity would undercut” Congress’s broader regulation of economic activity.  (In other words, Congress may consider the cumulative impact of a non-economic activity for purposes of determining whether regulation of that activity is essential to a broader economic regulatory scheme.)  In Raich, Congress could consider not only whether failure to regulate the plaintiff’s medical marijuana plants would undercut regulation of the marijuana market – it could consider whether failure to regulate that activity in the aggregate (i.e., all home-grown medical marijuana) would undermine its broader economic regulation.
-
-*What does the NFIB v. Sebelius (the Affordable Care Act case) do to the doctrine?* (assuming CJ Roberts' opinion regarding the commerce power – though formally dictum – reflects the approach that a majority of the Court endorses.) Note:  the impact (if any) of Sebelius on commerce power doctrine will NOT be tested on the Midterm.
+"In determining whether a regulation of non-economic activity is “an essential part of a broader regulation of economic activity” the court asks whether Congress could rationally conclude that “failure to regulate that class of [non-economic] activity would undercut” Congress’s broader regulation of economic activity.  (In other words, Congress may consider the cumulative impact of a non-economic activity for purposes of determining whether regulation of that activity is essential to a broader economic regulatory scheme.)" *Gonzales v. Raich*, 545 U.S. 1 (2005) (Congress may regulate use and production of home-grown marijuana because taken in the aggregate, growing marijuana could rationally be seen as having a substantial economic effect on interstate commerce by undermining broader economic regulation).
 
 "The Court’s affirmative commerce clause jurisprudence for the most part subjects national legislation to a form of rational basis review." (scroll DCC 1)
+
+**CASES I MIGHT WANT TO ADD IN PARENTHETICALS TO RULE EXPLANATIONS AND RULE APPLICATIONS**
+
+*NFIB v. Sebelius* (the Affordable Care Act case) (YEAR) (assuming CJ Roberts' opinion regarding the commerce power – though formally dictum – reflects the approach that a majority of the Court endorses.)
 
 ---
 
@@ -337,13 +306,27 @@ The second issue is whether [the statute or regulation] is overtly discriminator
 
 A statute overtly discriminates against interstate commerce if it advances an in-state or local enterprise and burdens out-of-state business. A statute is facially neutral if it does not advance in-state or local enterprise nor burden out-of-state business.  
 
-Here, ... [to check if the law discriminates on its face, see if State A law explicitly favors its residents over the residents of other states. If so, the law discriminates on its face and I should discuss strict scrutiny.]
+Here, ... *if law explicitly favors state residents over residents of other states, it is overtly discriminatory*
 
 Therefore, [the statute or regulation] is [overtly discriminatory or facially neutral].
 
 **OVERTLY DISCRIMINATORY TEST**
 
 To determine whether an overtly discriminatory statute is permissible under the dormant commerce clause, the court subjects the statute to a type of heightened scrutiny sometimes not unlike equal protection strict scrutiny. The state must make a "compelling showing" (1) of a "neutral, non-protectionist state interest or purpose" that (2) cannot be adequately served by reasonable nondiscriminatory alternatives.[^9] A facially discriminatory statute may have a non-protectionist state interest.
+
+The first question is whether the state met its burden of showing a neutral, non-protectionist state interest or purpose.
+
+Here, ...
+
+Therefore, ...
+
+The second question is whether nondiscriminatory alternatives were available to achieve the statute or regulation's purpose.
+
+Here, ...
+
+Therefore, ...
+
+Therefore, ...
 
 **PIKE BALANCING TEST FOR FACIALLY NEUTRAL**
 
@@ -365,9 +348,13 @@ Therefore, ...
 
 Here, ... *to see if unduly burdensome, discuss state's non-economic interest including state police powers: health, safety and welfare.*[^10]
 
+Therefore, the statute [is / is not] unduly burdensome.
+
 (4) The fourth question is whether there were other means available to achieve the statute's purpose.
 
 Here, the state [could have / could not have] achieved its ends by using less discriminatory means because ... (the availability of less discriminatory means is considered but not required)
+
+Therefore, other means [were / were not] available to the state.
 
 Therefore, the dormant commerce clause [does / does not] prohibit the state's enactment of [the statute] because the state's interest in the statute [is / is not] legitimate, the effects of the statute [are / are not] incidental, the statute [is / is not] unduly burdensome, and the state [could have / could not have] achieved its end by using less discriminatory means.
 
