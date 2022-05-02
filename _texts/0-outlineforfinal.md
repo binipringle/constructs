@@ -317,31 +317,7 @@ For example, in Murphy itself, nothing would prevent Congress from outlawing spo
 
 ## Dormant Commerce clause
 
-
-
-
-
-Three Common Sub-Rules under the Dormant Commerce Clause.
-
-1. Unduly burdensome. Key: State’s Non-economic interest. Not difficult to analyze.
-2. The Market-Participant Doctrine. Not difficult to analyze.
-3. Discriminates on its face (the language of the statute explicitly discriminates). Use this element to help you: “No less discriminatory alternatives.” Usually the state will not prevail here.
-
-Here is how you analyze these Sub-Rules.
-
-1. Unduly burdensome. Key: Discuss State’s Non-Economic Interest. Apply a balancing test. Discuss the state police powers: Health, safety, and welfare.
-
-2. The Market-Participant Doctrine. Use this rule: “When a state or local government enters the market as a participant it is not subject to the restraints of the Commerce Clause.” Then determine whether the state is a market participant. There are exceptions to the market-participant rule.
-
-3. Discriminates on its face (the language explicitly discriminates). Key: No less discriminatory alternatives. Strict scrutiny is implicated (as mentioned above). Use this rule: “The state must show that it advances a legitimate local purpose that cannot be adequately served by reasonable nondiscriminatory alternatives. This is a high standard that the state must meet.”
-
----
-
-## My Rule and Steps of Analysis for The Dormant Commerce Clause
-
-The first issue is whether the [statute or regulation] violates the commerce clause.
-
-Article I, Section 8, Clause 3 of the U.S. Constitution gives Congress the power to regulate the channels, instrumentalities and any activity that substantially affects interstate commerce. The commerce clause does not clearly define what power is left to the states to regulate foreign or interstate commerce in the absence of congressional action or direction. The U.S. Supreme Court has interpreted the commerce clause as implying a limitation on state power to regulate matters affecting interstate commerce (parenthetical). The commerce clause is thus both a “positive” grant of power to Congress, and a “negative” constraint upon the states which permits the courts to measure state legislation against commerce clause values even in the absence of congressional regulation, that is, when Congress’s exercise of its power is dormant. This doctrine is known as the dormant commerce clause (DCC).[^7] [^8]
+Article I, Section 8, Clause 3 of the U.S. Constitution gives Congress the power to regulate the channels and instrumentalities of interstate commerce, and any activity that substantially affects interstate commerce. States are also allowed to regulate commerce, but the commerce clause does not clearly define what or how much power is left to the states in the absence of congressional action or direction. The U.S. Supreme Court has interpreted the commerce clause as implying a limitation on state power to regulate commerce (parenthetical). The commerce clause is thus both a “positive” grant of power to Congress, and a “negative” constraint upon the states which permits the courts to measure state legislation against commerce clause values even in the absence of congressional regulation, that is, when Congress’s exercise of its power is dormant. This doctrine is known as the dormant commerce clause (DCC).[^7] [^8]
 
 Dormant commerce clause doctrine prohibits state legislation that has a protectionist purpose or discriminates against or unduly burdens interstate or international commerce. "[W]here simple economic protectionism is effected by state legislation, a virtual per se rule of invalidity has been erected. [...] But where other legislative objectives are credibly advanced and there is no patent discrimination against interstate trade, the Court has adopted a much more flexible approach the general contours of which were outlined in Pike v. Bruce Church." *Philadelphia v. New Jersey* (YEAR). "Where the statute regulates evenhandedly to effectuate a legitimate local public interest, and its effects on interstate commerce are only incidental, it will be upheld unless the burden imposed on such commerce is clearly excessive in relation to the putative public benefit. [...] And the extent of the burden that will be tolerated will depend on the nature of the local interest and on whether it could be promoted as well with a lesser impact on interstate activities." *Philadelphia v. New Jersey* quoting *Pike v. Bruch Church* (1970).
 
