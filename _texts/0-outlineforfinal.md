@@ -331,9 +331,7 @@ Here, ... [hoarding]
 
 Therefore, the [statute or regulation] [has / does not have] a protectionist purpose.
 
-In determining whether state legislation discriminates against interstate or international commerce, Courts look at whether a state regulation (1) discriminates on its face against interstate commerce; (2) unduly burdens interstate commerce; or (3) has the purpose or effect of discriminating against interstate commerce.
-
-**(1) OVERTLY DISCRIMINATORY OR FACIALLY NEUTRAL**
+**OVERTLY DISCRIMINATORY OR FACIALLY NEUTRAL**
 
 The second issue is whether [the statute or regulation] is overtly discriminatory or facially neutral.
 
