@@ -6,7 +6,7 @@ editor: Sabina Pringle
 source:
 toc:
 - Standing
-- Eleventh Amendment State Sovereign Immunity Limitations on Federal Judicial Power
+- Eleventh Amendment
 - Spending Power
 - Commerce Power
 - Tenth Amendment
@@ -153,7 +153,7 @@ Non-constitutional, judge-made limitations on standing. Since these limitations 
 
 ---
 
-## Eleventh Amendment State Sovereign Immunity Limitations on Federal Judicial Power
+## Eleventh Amendment
 
 *The Judicial power of the United States shall not be construed to extend to any suit in law or equity, commenced or prosecuted against one of the United States by Citizens of another State, or by Citizens or Subjects of any Foreign State.* Eleventh Amendment.
 
@@ -317,11 +317,9 @@ For example, in Murphy itself, nothing would prevent Congress from outlawing spo
 
 ## Dormant Commerce clause
 
-"Congress has the plenary power to regulate the channels, instrumentalities and any activity that substantially affects interstate commerce. However, this authority is not absolute. States are allowed to regulate commerce if such regulation is not preempted by federal law, and so long as the State regulation does not discriminate against out of staters. If the state regulation discriminates on its face against out of staters, it violates the DCC unless the regulation is necessary for a compelling state interest (strict scrutiny). If the regulation does not discriminate against out of staters, it usually will be upheld so long as it does not unduly burden interstate commerce." (Answer A to Question 5 of the July 2018 California Bar Exam)[^7]
 
-[^7]:This is from [juraxbar.com](https://juraxbar.com/approach-to-dormant-commerce-clause-easy-set-up/#comment-5749), a CA website that breaks it down decently.
 
-*To check if the law discriminates on its face, see if State A law explicitly favors its residents over the residents of other states. If so, the law discriminates on its face and I should discuss strict scrutiny.*
+
 
 Three Common Sub-Rules under the Dormant Commerce Clause.
 
@@ -343,172 +341,114 @@ Here is how you analyze these Sub-Rules.
 
 The first issue is whether the [statute or regulation] violates the commerce clause.
 
-Article I, Section 8, Clause 3 of the U.S. Constitution gives Congress power to regulate interstate and international commerce.
+Article I, Section 8, Clause 3 of the U.S. Constitution gives Congress the power to regulate the channels, instrumentalities and any activity that substantially affects interstate commerce. The commerce clause does not clearly define what power is left to the states to regulate foreign or interstate commerce in the absence of congressional action or direction. The U.S. Supreme Court has interpreted the commerce clause as implying a limitation on state power to regulate matters affecting interstate commerce (parenthetical). The commerce clause is thus both a “positive” grant of power to Congress, and a “negative” constraint upon the states which permits the courts to measure state legislation against commerce clause values even in the absence of congressional regulation, that is, when Congress’s exercise of its power is dormant. This doctrine is known as the dormant commerce clause (DCC).[^7] [^8]
 
-Here, [the statute or regulation] was not enacted by Congress, but by a state.
+Dormant commerce clause doctrine prohibits state legislation that has a protectionist purpose or discriminates against or unduly burdens interstate or international commerce. "[W]here simple economic protectionism is effected by state legislation, a virtual per se rule of invalidity has been erected. [...] But where other legislative objectives are credibly advanced and there is no patent discrimination against interstate trade, the Court has adopted a much more flexible approach the general contours of which were outlined in Pike v. Bruce Church." *Philadelphia v. New Jersey* (YEAR). "Where the statute regulates evenhandedly to effectuate a legitimate local public interest, and its effects on interstate commerce are only incidental, it will be upheld unless the burden imposed on such commerce is clearly excessive in relation to the putative public benefit. [...] And the extent of the burden that will be tolerated will depend on the nature of the local interest and on whether it could be promoted as well with a lesser impact on interstate activities." *Philadelphia v. New Jersey* quoting *Pike v. Bruch Church* (1970).
 
-Therefore, the commerce clause does not apply.
+In determining whether state legislation discriminates against interstate or international commerce, Courts look at whether a state regulation (1) discriminates on its face against interstate commerce; (2) unduly burdens interstate commerce; or (3) has the purpose or effect of discriminating against interstate commerce.
 
-While the commerce clause gives Congress power to regulate interstate commerce, it does not clearly define what power is left to the states to regulate foreign or interstate commerce if Congress has passed no act or if its legislation does not clearly rule on the ground covered by the enacted state legislation. The U.S. Supreme Court has interpreted the commerce clause as implying a limitation on state power to regulate matters affecting interstate commerce. The commerce clause is thus both a “positive” grant of power to Congress, and a “negative” constraint upon the states which permits the courts to measure state legislation against Commerce Clause values even in the absence of congressional regulation, that is, when Congress’s exercise of its power is dormant. This doctrine is known as the Dormant Commerce Clause. Thus, under the Dormant Commerce Clause, Congress has power to decide whether state legislative power was validly exercised.
-
-The Dormant Commerce Clause Doctrine prohibits state legislation that discriminates against, or unduly burdens, interstate or international commerce, or has a protectionist purpose. In determining whether state legislation discriminates against interstate or international commerce, Courts look at whether a state regulation (1) discriminates on its face against interstate commerce or (2) has the purpose or effect of discriminating against interstate commerce. While a state may not discriminate in favor of private citizens or actors, it may discriminate in its own favor. *United Haulers Assn. v. Oneida-Herkimer Solid Waste Management Authority*, 550 U.S. 330 (2007) (Flow-control ordinance favoring government but treating in-state and out-of-state private businesses the same did not excessively burden interstate commerce). There are two exceptions to the DCC: (1) when congress consents to or preempts state legislation; and (2) when a state or local government enters the market as a participant it is not subject to the restraints of the Commerce Clause.
+**(1) OVERTLY DISCRIMINATORY OR FACIALLY NEUTRAL**
 
 The first issue is whether [the statute or regulation] is overtly discriminatory or facially neutral.
 
 A statute overtly discriminates against interstate commerce if it advances an in-state or local enterprise and burdens out-of-state business. A statute is facially neutral if it does not advance in-state or local enterprise nor burden out-of-state business.  
 
-Here, ...
+Here, ... [to check if the law discriminates on its face, see if State A law explicitly favors its residents over the residents of other states. If so, the law discriminates on its face and I should discuss strict scrutiny.]
 
 Therefore, [the statute or regulation] is [overtly discriminatory or facially neutral].
 
-To determine whether an overtly discriminatory statute is permissible under the dormant commerce clause, the court subjects the statute to a type of heightened scrutiny sometimes not unlike equal protection strict scrutiny. The state must make a "compelling showing" (1) of a "neutral, non-protectionist state interest or purpose"; and (2) that no less discriminatory means are available to achieve the state interest.[^8]
+**OVERTLY DISCRIMINATORY TEST**
 
-[^8]: Alternative overtly discrimatory test from juraxbar: “The state must show that it advances a legitimate local purpose that cannot be adequately served by reasonable nondiscriminatory alternatives. This is a high standard that the state must meet.”
-
-A facially discriminatory statute may have a non-protectionist state interest. Does this mean it passes the test?
-
-To determine whether a facially neutral statute is permissible under the dormant commerce clause doctrine, the court applies a standard of review similar to rational basis review, to determine whether the statute discriminates against interstate commerce. "Where the statute regulates evenhandedly to effectuate a legitimate local public interest, and its effects on interstate commerce are only incidental, it will be upheld unless the burden imposed on such commerce is clearly excessive in relation to the putative public benefit. . . And the extent of the burden that will be tolerated will depend on the nature of the local interest and on whether it could be promoted as well with a lesser impact on interstate activities." *Pike v. Bruch Church* (1970).
+To determine whether an overtly discriminatory statute is permissible under the dormant commerce clause, the court subjects the statute to a type of heightened scrutiny sometimes not unlike equal protection strict scrutiny. The state must make a "compelling showing" (1) of a "neutral, non-protectionist state interest or purpose" that (2) cannot be adequately served by reasonable nondiscriminatory alternatives.[^9] A facially discriminatory statute may have a non-protectionist state interest.
 
 **PIKE BALANCING TEST FOR FACIALLY NEUTRAL**
 
-The Pike balancing test requires us to ask (1) whether the state interest is legitimate; (2) whether the statute does not unduly burden interstate commerce; and (3) whether there are less discriminatory means to achieve that end (the availability of less discriminatory means is considered but not required).
+To determine whether a facially neutral statute is permissible under the dormant commerce clause doctrine, the court applies a standard of review similar to rational basis review, to determine whether the statute discriminates against interstate commerce. "Where the statute (1) [has] a legitimate local public interest, and (2) its effects on interstate commerce are only incidental, it will be upheld unless (3) the burden imposed on such commerce is clearly excessive in relation to the putative public benefit. . . And the extent of the burden that will be tolerated will depend on the nature of the local interest and on whether it could be promoted as well with a lesser impact on interstate activities." *Pike v. Bruch Church* (1970). (the availability of less discriminatory means is considered but not required).
 
-Here, (1) the state interest [is / is not] legitimate because .... . (2) The means employed by the state [are / are not] reasonably related to the statutory goal because ... . (3) The state [could have / could not have] achieved its ends by using less discriminatory means because ... *to see if unduly burdensome, discuss state's non-economic interest including state police powers: health, safety and welfare.*
+(1) The first question is whether the state interest is legitimate.
 
-Therefore, the dormant commerce clause [does / does not] prohibit the state's enactment of [the statute] because the state's interest in the statute [is / is not] legitimate, the means the state employs to achieve its end [is / is not] reasonably related to that end, and the state [could have / could not have] achieved its end by using less discriminatory means.  '
+Here, the state interest [is / is not] legitimate because .... .
 
-The next question is whether any caveats, special cases or exceptions apply.
+Therefore, ...
 
-A facially neutral state-enacted statute with incidental discriminatory effects on interstate commerce is not prohibited by the dormant commerce clause if (a) congress consents to or preempts the statute; (b) the state is a market participant; or (c) the discrimination is in favor of the government.  
+(2) The second question is whether the statute's effects on interstate commerce are incidental.
 
-Here, ...
+Here, the effect of the statute [is / is not] incidental to the statute's purpose because it [does / does not] have a protectionist purpose *if statute burdens out of state goods only, or if hoarding, then protectionist*
 
-Therefore, ...    
+Therefore, ...
 
+(3) The third question is whether the statute is unduly burdensome.
 
+Here, ... *to see if unduly burdensome, discuss state's non-economic interest including state police powers: health, safety and welfare.*[^10]
 
-The second question is whether [the statute or regulation] has a protectionist purpose.
+(4) The fourth question is whether there were other means available to achieve the statute's purpose.
 
-If the purpose of a statute is protectionist, the statute is impermissible. A statute is protectionist if it intends to benefit "local private economic actors at the expense of out-of-state economic actors". "The Court appears to set forth a categorical prohibition against attempts on the part of any single state to isolate itself from difficulties common to all [states] by restraining the transportation of persons and property across its borders." *Edwards v. California*, 314 U.S. 160 (1941) ("California statute that made it a crime to help a poor person enter the state is unconstitutional").
+Here, the state [could have / could not have] achieved its ends by using less discriminatory means because ... (the availability of less discriminatory means is considered but not required)
+
+Therefore, the dormant commerce clause [does / does not] prohibit the state's enactment of [the statute] because the state's interest in the statute [is / is not] legitimate, the effects of the statute [are / are not] incidental, the statute [is / is not] unduly burdensome, and the state [could have / could not have] achieved its end by using less discriminatory means.
+
+**PROTECTIONIST PURPOSE**
+
+The second issue is whether [the statute or regulation] has a protectionist purpose.
+
+If the purpose of a statute is protectionist, it is prohibited by the Court under dormant commerce clause doctrine. A statute is protectionist if it intends to benefit "local private economic actors at the expense of out-of-state economic actors". "The Court appears to set forth a categorical prohibition against attempts on the part of any single state to isolate itself from difficulties common to all [states] by restraining the transportation of persons and property across its borders." *Edwards v. California*, 314 U.S. 160 (1941) ("California statute that made it a crime to help a poor person enter the state is unconstitutional").
 
 Here, ... [hoarding]
 
 Therefore, the [statute or regulation] [has / does not have] a protectionist purpose.
 
+**EXCEPTIONS**
+
+The next question is whether any caveats, special cases or exceptions apply.
+
+A state-enacted statute with incidental discriminatory effects on interstate commerce is not prohibited by the dormant commerce clause if (1) congress consents to or preempts the statute; or (2) the state is a market participant; or (3) the discrimination is in favor of the government.  
+
+The three caveats, special circumstances or exceptions to the dormant commerce clause are preemption or congressional consent, market participation, and discrimination in favor of the government. (1) When congress consents to or preempts state legislation, that legislation is not restrained by the dormant commerce clause; (2) when a state or local government enters the market as a participant it is not subject to the restraints of the commerce clause; *White v. Mass. Council of Constr. Employers*, 460 U.S. 204 (1983), citing *Hughes v. Alexandria Scrap Corp.*, 426 U.S. 794 and *Reeves, Inc. v. Stake*, 447 U.S. 429.; and (3) while a state may not discriminate in favor of private citizens or actors, it may discriminate in its own favor. *United Haulers Assn. v. Oneida-Herkimer Solid Waste Management Authority*, 550 U.S. 330 (2007) (Flow-control ordinance favoring government but treating in-state and out-of-state private businesses the same did not excessively burden interstate commerce).  
+
+The first question is whether Congress consented to or preempted [state legislation or regulation].
+
+Here, ...
+
+Therefore, ...    
+
+The second question is whether [state] entered the market as a market participant or a market regulator.
+
+Dormant commerce clause limits do not apply to states or localities acting as "market participants" as opposed to "market regulators." "The Court’s reasoning is that 'nothing in the purposes animating the commerce clause prohibits a state, in the absence of congressional action, from participating in the market and exercising the right to favor its own citizens over others.' *Hughes v. Alexandria Scrap* (1976)." The market participant exception does not apply where states “impose contract conditions that have a substantial regulatory effect” outside the market in which the state is participating.  If a state imposes conditions or restrictions “downstream from [enduring after and/or reaching beyond] the actual transaction,” it is acting as a market regulator. *South-Central Timber Development v. Wunnicke* (1984) (Contract term requiring purchaser of Alaskan timber to process timber in Alaska prior to export operated as a regulation and therefore was not exempt from DCC scrutiny under the market participant exception.)[^11]    
+
+Here, ...
+
+Therefore, ...
+
+The third question is whether [state statute or regulation] is discriminating in the state's own favor.
+
+Here, ...
+
+Therefore, ...
 
 
+From DCC scroll 1:
 
-However,
+*Philadelphia v. New Jersey* (1978) (Court invalidated a New Jersey statute that prohibited the disposal in New Jersey of solid waste generated outside of the state. "This dispute about ultimate legislative purpose need not be resolved, because [...] the evil of protectionism can reside in legislative means as well as legislative ends.")
 
-(impermissible): law MOTIVATED by protectionism. court prohibits. protectionist statutes are unconstitionial.
+*Maine v Taylor* (1986) (Court upheld a Maine statute that barred the importation of live bait fish from out of state because impact was incidental.) *"A much more deferential analysis applies to state statutes that do not patently discriminate against interstate commerce or out-of-state economic interests [...] even though such statutes may have as large or even larger economic impact than some overtly discriminatory statutes."*"
 
-if statute burdens out of state goods only, or if hoarding
+From DCC scroll 2:
 
-is it overtly discriminatory or facially neutral?
+*West Lynn Creamery* (1994) ("Massachusetts imposed a non-discriminatory tax on all milk sales within the state." "Massachusetts placed the proceeds of that tax into a special fund, and drew from that fund to subsidize Massachusetts dairy farmers.")
 
-if facially neutral with incidental impact, (add rules from slides)
+*Carbone v. Clarkstown* (1994) ("Local ordinance requiring that all solid waste generated in the town be disposed of at the town-designated but privately operated waste transfer facility is unconstitutional.") *This case illustrates the difficulty of classifying regulations as patently discriminatory v. facially neutral.*
 
+*Hunt v. Washington State Apple Growers* (1977) ("North Carolina statute that prohibited the labeling of apple crates sold in NC with any grades except U.S. Department of Agriculture grades violates the DCC.") *Facially neutral statute, but SCOTUS invalidated because the Court did not accept the state’s justification for this restriction on interstate commerce (i.e., the Court concluded that the statute did not rationally advance the asserted goal of consumer protection.).*
 
+[^7]:Here is a DCC rule from [juraxbar.com](https://juraxbar.com/approach-to-dormant-commerce-clause-easy-set-up/#comment-5749): "Congress has the plenary power to regulate the channels, instrumentalities and any activity that substantially affects interstate commerce. However, this authority is not absolute. States are allowed to regulate commerce if such regulation is not preempted by federal law, and so long as the State regulation does not discriminate against out of staters. If the state regulation discriminates on its face against out of staters, it violates the DCC unless the regulation is necessary for a compelling state interest (strict scrutiny). If the regulation does not discriminate against out of staters, it usually will be upheld so long as it does not unduly burden interstate commerce." (Answer A to Question 5 of the July 2018 California Bar Exam)
 
+[^8]:Notes from review session with Asima: DCC Doctrine is largely judge-made. Made from commerce clause + 10th A + supremacy clause. DCC is phrased as an affirmative something (see slide).
 
-1. protectionist purpose
-2. overtly discriminatory
-3. facially neutral
+[^9]: Alternative overtly discrimatory test from juraxbar: “The state must show that it advances a legitimate local purpose that cannot be adequately served by reasonable nondiscriminatory alternatives. This is a high standard that the state must meet.”
 
+[^10]:Courts will “weaken the deference traditionally accorded to state safety regulation” when the regulation contains exemptions that reduce the burdens on in-state interests. *Kassel v. Consolidated Freightways* (1981) ("Iowa statute that banned 65-foot double trucks from its roads and highways violated the DCC.") (Iowa failed to present persuasive evidence that the purpose of its statute was health and safety and undermined its purported purpose by including many exemptions in the statute that relieved Iowans of the burdens of regulation.) *All of the states surrounding Iowa permitted such trucks, so the impact of the statute was to force large trucks making east-west long hauls to detour around Iowa (adding hundreds of miles to their routes).*
 
-facially or overtly discriminates against interstate commerce.
-
-
-1.
-2. Note that
-
-
-
-
-""[W]here simple economic protectionism is effected by state legislation, a virtual per se rule of invalidity has been erected.  .  .  But where other legislative objectives are credibly advanced and there is no patent discrimination against interstate trade, the Court has adopted a much more flexible approach the general contours of which were outlined in Pike v. Bruce Church:  Where the statute regulates evenhandedly to effectuate a legitimate local public interest, and its effects on interstate commerce are only incidental, it will be upheld unless the burden imposed on such commerce is clearly excessive in relation to the putative public benefit. . . And the extent of the burden that will be tolerated will depend on the nature of the local interest and on whether it could be promoted as well with a lesser impact on interstate activities." *Philadelphia v. New Jersey* (quoting *Pike v. Bruch Church* (1970))."
-
-
-
-
-
-
-
-Fundamental Framework Text pp 232-38
-Handout 8 (Edwards v. California)
-
-
-## Dormant Commerce Clause from review session with Asima 4-30-22
-
-this is not in any of loffredo's outlines. start with a really good rule for this.
-
-remember rule statements from midterms
-
-if whether violate the commerce clause might be whether violated dormant commerce clause
-
-issue: whether ESSRA sec 3 and 4 violated commerce Clause
-who enacted the law being challenged?
-not congress (if it were congress commerce clause would have been challenged)
-state legislature - NYS
-not commerce clause but dormant commerce clause analysis
-
-issue 2: whether violate other thing
-
-DCC Doctrine
-
-largely judge-made.
-commerce clause + 10th A + supremacy clause
-DCC is phrased as an affirmative something (see slide)
-
-art 1 sec 8 clause 3
-
-3 categories for DCC
-
-1. protectionist purpose
-2. overtly discriminatory
-3. facially neutral
-
-protectionist purpose (impermissible): law MOTIVATED by protectionism. court prohibits. protectionist statutes are unconstitionial.
-
-if statute burdens out of state goods only, or if hoarding
-
-is it overtly discriminatory or facially neutral?
-
-if facially neutral with incidental impact, (add rules from slides)
-
-exceptions
-
-1. see slides
-2. see slides
-3. market participation
-
-when state acts as market participant dcc does not apply - are they acting like a private actor - look at loffredo's six examples of market participation and market regulation - towards the end of the market participation segment
-
-here, state is acting like a participant because accepting bids and so on BUT state is acting like a market regulator because imposing legislation
-
-Vaughn note from chat re essay 2: when nys decides to buy local for itself that is market participation, but when it orders private businesses to buy local, that is market regulation
-
-if state is just a market participant than the restrictions of dcc does not apply. if market regulator than the facially neutral and overtly discriminatory tests apply.
-
----
-
-**Dormant Commerce Clause Protection against Discrimination**
-
-Text pp 247-260 (Philadelphia v. New Jersey; C & A Carbone;
-West Lynn Creamery)
-
----
-
-**Facially Neutral Statutes that Affect Commerce**
-
-Text pp 264-282 (Exxon; Hunt; Kassel)
-
----
-
-**Market Participant Doctrine**
-
-Text pp 260-262 (Hughes, South-Central Timber, Reeves)
-Handout 9 (White v. Mass. Council of Construction
-Employers)
+[^11]:Vaughn note from chat re essay 2: when nys decides to buy local for itself that is market participation, but when it orders private businesses to buy local, that is market regulation.
 
 ---
 
