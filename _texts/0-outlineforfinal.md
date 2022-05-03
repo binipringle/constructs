@@ -329,13 +329,13 @@ Article I, Section 8, Clause 3 of the U.S. Constitution gives Congress the power
 
 Dormant commerce clause doctrine prohibits state legislation that has a protectionist purpose or discriminates against or unduly burdens interstate or international commerce. "[W]here simple economic protectionism is effected by state legislation, a virtual per se rule of invalidity has been erected. [...] But where other legislative objectives are credibly advanced and there is no patent discrimination against interstate trade, the Court has adopted a [...] flexible approach." *City of Philadelphia v. New Jersey*, 437 U.S. 617 (1978). "Where the statute regulates evenhandedly to effectuate a legitimate local public interest, and its effects on interstate commerce are only incidental, it will be upheld unless the burden imposed on such commerce is clearly excessive in relation to the putative public benefit. [...] And the extent of the burden that will be tolerated will depend on the nature of the local interest and on whether it could be promoted as well with a lesser impact on interstate activities." *Philadelphia v. New Jersey* quoting *Pike v. Bruce Church, Inc.*, 397 U.S. 137 (1970).
 
-The first step is to classify the [statute or regulation].
+The first step is to classify the [statute or regulation]. *Who is regulating? Congress or state? If state, has congress acted or directed?*
 
 Here, the [statute or regulation] is a [statute or regulation] enacted by a state which regulates [commerce that it regulates]. Congress is silent on how [commerce that the statute or regulation regulates]. Therefore, the DCC applies.
 
 **PROTECTIONIST PURPOSE**
 
-The first issue is whether [the statute or regulation] has a protectionist purpose.
+The first issue is whether [the statute or regulation] has a protectionist purpose. *What is the statute regulating?*
 
 If the purpose of a statute is protectionist, the statute is deemed unconstitutional and prohibited by the Court under dormant commerce clause doctrine. A statute is protectionist if it intends to benefit "local private economic actors at the expense of out-of-state economic actors". "The Court appears to set forth a categorical prohibition against attempts on the part of any single state to isolate itself from difficulties common to all [states] by restraining the transportation of persons and property across its borders." *Edwards v. California*, 314 U.S. 160 (1941) ("California statute that made it a crime to help a poor person enter the state is unconstitutional").
 
