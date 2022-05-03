@@ -253,6 +253,8 @@ an Ex parte Young action
 
 Source: Article I, sec. 8, cl. 1.  Congress may tax and spend to pay the national debt, to provide for the common defense, and to advance the “general welfare” of the United States.
 
+Under its spending power, "Congress may deploy that power to pay the public debts and provide for the common defense and the general welfare of the United States. The Courts have allowed Congress nearly unreviewable discretion to define the “general welfare” in this context."
+
 Scope:
 
 "General welfare" of the U.S. is broader than the enumerated powers of Congress. (Butler).  Congress has wide, and perhaps unreviewable, authority to define the "general welfare" for which it may make appropriations. (Dole)

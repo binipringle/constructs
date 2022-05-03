@@ -5,127 +5,106 @@ author:
 editor: Sabina Pringle
 source:
 toc:
-
+- Standing
+- 11th Amendment State Sovereign Immunity
+- 10th Amendment Limitations on Commerce Clause Power
+- The Civil Rights Enforcement Power
+- Spending Power
+- The Dormant Commerce Clause as Structural Limitation on State and Local Power
 
 ---
 
+## Standing
 
-
-A.	STANDING
-
-ISSUE
 At issue is whether or not the plaintiff has standing to bring the claim, and thus whether or not the Court has the authority to hear this particular case.
 
-RULE
 Justiciability asks whether the federal court has power to hear a particular case. Specifically, justiciability doctrine encompasses the doctrines of standing, ripeness, mootness and political questions. Standing doctrine asks whether the plaintiff has a sufficient stake in the lawsuit to give rise to an Article III “case or controversy” and to satisfy the Supreme Court’s judge-made, non-constitutional “prudential limitations.” Article III standing must be proved for every case or controversy, each form of relief requested, and throughout each stage in the proceeding. Lyons.
+
 A plaintiff, or the party invoking federal jurisdiction, bears the burden of satisfying Article III case or controversy requirements by establishing these three elements: (1) Actual or threatened injury in fact, (2) causation that is fairly traceable to the defendant’s actions, (3) redressability in terms of relief the court can afford.
+
 An actual or threatened injury in fact is an invasion of a legally protected interest. A legally protected interest includes the invasion of individual constitutional rights, a violation of a statutory right, an economic deprivation, an emotional harm, a harm that affects a person’s life, and an aesthetic or environment interest. The legally protected interest must be concrete and particularized, Whitmore v. Arkansas, as opposed to abstract. An injury is concrete when it actually exists and is not abstract. Spokeo. A concrete injury may be tangible (i.e., economic, health, freedom), or it may be intangible (i.e., free exercise of religion), and tangible injuries are generally easier to recognize than intangible injuries. Spokeo. In order to determine if an injury is concrete enough to establish an injury in fact, the Court will look to history and congressional intent. Spokeo. The Court has found that procedural interests tied to a substantive right are concrete enough to satisfy injury in fact.  However, if a procedural right is not tied to substantive right, it will not satisfy injury in fact. An injury is particularized when it affects the plaintiff in a personal and individual way. Spokeo. Congress can create laws that give rise to an injury and can protect widely share interests, so long as the interests are concrete and not abstract, meaning individual plaintiffs suffer injuries in a concrete and particularized way. Akins. Injuries can be past, present, or threatened future injuries. If the injury is a threatened future injury, then it must be imminent, which falls somewhere along the spectrum of posing a significant risk to a plaintiff’s legally protected interest, Dreihaus, to a certainly impending actual injury (in a national security context) that is more than mere speculation, Clapper.
+
 Causation is fairly traceable to the defendant’s challenged conduct when (1) there is a causal connection between the injury and the conduct complained of and (2) the injury is not the result of the independent action of a third party not before the Court. Allen v. Wright. The Court sets a high standard for causal links, but third parties may be intermediate links in the chain of causation. Often, separation of powers concerns influence the ways courts flesh out causation, and the Court uses causation to manipulate standing.
+
 Redressability means that the Court must be able to redress or mitigate the plaintiff’s injury in some way. It must be likely, as opposed to merely speculative, that the injury will be redressed by a favorable decision. The decision must remedy at least part of the alleged injury, but it is not necessary for the Court to remedy the entire injury or even give the plaintiff the relief they are ultimately seeking. Akins. A person who is accorded a procedural right to protect concrete interests can assert that right without meeting all the normal standards for redressability and immediacy. Lujan, n.7.
+
 After a plaintiff establishes an Article III case or controversy, their standing may still be limited by non-constitutional, judge-made prudential limitations. Doctrine around these limitations is evolving, but the Court currently recognizes two prudential limitations: (1) no generalized grievances and (2) no assertion of third party rights.
+
 A plaintiff will not have standing if they are asserting a generalized grievance that is shared in substantially equal measure by all or a large class of citizens. Warth v. Seldin. There is no “tax payer standing” in federal court. Although citizen suit provisions are generally barred, Congress can create laws that give rise to an injury and can protect widely share interests, so long as the interests are concrete and not abstract, meaning individual plaintiffs suffer injuries in a concrete and particularized way. Akins. Under this rule, a citizen-suit provision will only be lawful if Congress clearly articulates the protected statutory interests, identify the class of persons protected and authorized to bring suit, and identify chains of causation.
-The plaintiff’s injury cannot be the result of the independent action of a third party not before the Court. Allen v. Wright. The Court has, however, recognized four exceptions: (1) Congress may override this limitation by statute; (2) enforcement of the challenged policy against litigant would result indirectly in the violation of third parties’ rights, see Craig v. Boren (barkeeper sued, not the young boys); (3) enforcement of the challenged policy would adversely affect a relationship existing between the litigant and the third parties whose rights are assertedly violated, see Griswold v. Connecticut (enforcement of law criminally punishing medical providers for providing birth control resulted in violation of rights of third party patients seeking birth control); (4) if the third party who is the real party in interest is otherwise disabled from bringing suit because of a genuine obstacle or practical impossibility, e.g., minors who can’t sue in federal court on their own behalf.  
+
+The plaintiff’s injury cannot be the result of the independent action of a third party not before the Court. Allen v. Wright. The Court has, however, recognized four exceptions: (1) Congress may override this limitation by statute; (2) enforcement of the challenged policy against litigant would result indirectly in the violation of third parties’ rights, see Craig v. Boren (barkeeper sued, not the young boys); (3) enforcement of the challenged policy would adversely affect a relationship existing between the litigant and the third parties whose rights are assertedly violated, see Griswold v. Connecticut (enforcement of law criminally punishing medical providers for providing birth control resulted in violation of rights of third party patients seeking birth control); (4) if the third party who is the real party in interest is otherwise disabled from bringing suit because of a genuine obstacle or practical impossibility, e.g., minors who can’t sue in federal court on their own behalf.
+
 An actual past injury does not necessarily give plaintiff standing to seek an injunction for prospective relief, rather the past injury has to be reasonably likely to recur. Lyons.  The Court evaluates whether the injury is reasonably likely to recur by weighing these six factors: (1) the injury or challenged conduct is as a result of a clearly authorized official policy, (2) the plaintiff has been subjected to the conduct more than one time, (3) there are many instances of the challenged conduct, (4) the plaintiff is at risk of repeat injury even if the plaintiff is not involved in the unlawful activity, (5) the defendant is not a state or local law enforcement entity, and (6) it is a class action lawsuit, where many plaintiffs are challenging the same conduct.
 
 APPLICATION/EXPLANATION
-	Here, it is likely/unlikely that the Court will find that the plaintiff has standing.
-First, the Court will determine whether or not there is an Article III case or controversy by determining if there is an
-(1)	actual or threatened injury in fact
+
+Here, it is likely/unlikely that the Court will find that the plaintiff has standing.
+
+First, the Court will determine whether or not there is an Article III case or controversy by determining if there is (1) an actual or threatened injury in fact
+
 Here, there was/was not an actual or threatened injury in fact.
+
 Case examples:
+
 ●	In Allen v. Wright, the Court found that a nationwide class of Black schoolchildren did not have standing to bring a claim against the IRS for providing tax exemptions to segregated, white private religious schools, in part, because the alleged injury that Black schoolchildren were harmed because the government gave financial aid to discriminatory private schools was too abstract.
+
 ●	In Lujan v. Defenders of Wildlife, the plaintiffs did not have standing when they challenged a statute that restricted the applicability of an endangered species act to only domestic actions and not international actions, alleging that this would allow for extinction of endangered species abroad. There, the plaintiffs alleged that their threatened injury was that they would not be able to scientifically observe or study, or aesthetically appreciate these animals once there were extinct. The Court, however, found there was no injury because the plaintiffs, who had previously travelled abroad to observe these animals, had no plans or plane tickets to go abroad.
+
 ●	In FEC v. Akins, the Court held that plaintiffs could allege widely shared harms so long as those harms are concrete and not abstract, as they were here where a group of voters sued the FEC seeking disclosure under FOIA of certain information regarding AIPAC campaign contributions.
+
 ●	In Clapper v. Amnesty Int’l, the court found that the threatened injury of the phones of human rights lawyers communicating with their clients was not imminent enough because it was not certainly impending, meaning it was too speculative. Thus, there was not injury in fact.
+
 ●	In Susan B. Anthony v. Driehaus, the court found that a pre-enforcement challenge, or a threatened injury, was sufficiently imminent because the plaintiff alleges an intention to engage in a course of conduct that will pose a significant risk to a plaintiff’s legally protected interest.
+
 ●	In Lyons, the plaintiff’s past injury of being placed in a chokehold, which gave rise to a damages claim, did not in and of itself give rise to a claim for a prospective injunction against that conduct in the future. Thus, Lyons did not have standing to seek the injunction unless he could show that the future harm was substantially likely by applying these six factors: (1) challenged conduct is authorized by official policy (here the chokehold policy), (2) plaintiff was subjected to the conduct more than once (here, Lyons was only stopped for a broken taillight and placed in a chokehold once), (3) many instances of challenged conduct (here, only happened to Lyons once, even though there were statistics that this happened all over LA), (4) Defendant is not a state or local law enforcement entity (here, LAPD was), and (5) class action (had Lyons brought this as a class action, there may have been standing).
 (2)	causation that is fairly traceable to the defendant’s actions.
+
 Here, there was/was not causation that is fairly traceable to the defendant’s actions.
+
 Case examples:
+
 ●	In Allen v. Wright, the Court found that a nationwide class of Black schoolchildren did not have standing to bring a claim against the IRS for providing tax exemptions to segregated, white private religious schools, in part, because the alleged injury that Black schoolchildren were harmed because the government gave financial aid to discriminatory private schools was too abstract, and thus could not be fairly traced to the defendant, IRS’s actions.
+
 ●	In Clapper v. Amnesty Int’l, the plaintiffs did not have standing because the court found that the threatened injury of the phones of human rights lawyers communicating with their clients was not imminent enough because it was not certainly impending, meaning it was too speculative. Thus, there was not an injury in fact that could be fairly traceable to a defendant’s actions.
 
 (3)	redressability in terms of relief the court can afford.
+
 Here, there was/was not redressability.
+
 Case examples:
+
 ●	In FEC v. Akins, the plaintiffs did have standing and the Court finds that their injury is redressable because the group of voters sued the FEC for information regarding AIPAC campaign contribution under FOIA, and the Court could direct that their FOIA request be granted, even though the information they get may or may not cover all of the relief they sought.
+
 Second, the Court will determine if their standing may still be limited by non-constitutional, judge-made prudential limitations:
+
 (1)	no generalized grievances
+
 Here, there are/are not generalized grievances.
+
 Case examples:
+
 ●	In FEC v. Akins, the plaintiffs had standing and the Court found that their request as a group of voters suing the FEC for information regarding AIPAC campaign contribution disclosures was not a generalized grievance because Congress created FOIA and Congress can authorize standing for individuals suffering statutory defined injuries even if those injuries are shared by many citizens, so long as the injury is concrete and particularized and the statute identifies the right, relates it to a group of people and authorizes the suit.
+
 ●	Warth v. Seldin places it here, whereas Lexmark dicta places generalized grievance under Article III limitation.
 
 (2)	no assertion of third party rights.
+
 Here, there are/are not assertions of third party rights.
+
 Case examples:
+
 ●	In Allen v. Wright, the Court found that a nationwide class of Black schoolchildren did not have standing to bring a claim against the IRS for providing tax exemptions to segregated, white private religious schools, in part, because it seemed that the plaintiffs were asking the court regulate the rights of a third party (the religious schools) in a particular way.
+
 ●	In Pierce v. Soc’y of Sisters, parents had standing because the parents, who were third parties, had the substantive due process right to educate their children, even though the case was about Nebraska law that prevented any schools from teaching children any non-English language and thus impacted private schools.
+
 ●	In Griswold, there was standing because enforcement of law criminally punishing medical providers for providing birth control resulted violated the rights of third party patients seeking birth control.
 
 CONCLUSION
-	Thus, the Court will find that the plaintiff does/does not have standing.
 
-B.	RIPENESS
-
-
-ISSUE
-At issue is whether or not the plaintiff’s claim is ripe and thus, whether or not the Court has the authority to hear this particular case.
-
-RULE
-
-1.	Trigger: when plaintiff’s injury has yet to occur and is contingent on future events that may or may not happen
-a.	Classic example is an anticipatory suit or pre-enforcement challenge to a statute or regulatory provision
-b.	Large overlap with standing analysis of whether a “threatened injury is imminent enough to satisfy Article III injury requirement”
-c.	You cannot get pre enforcement review of a government benefit restriction, you must first apply and be denied. EXcept: where the restriction is a denial of equal treatment (minority set asides for public contracts)
-2.	Rule: Test from Abbott Labs v. Gardener:
-3.
-For a claim to be right it must be (a) “fit for judicial review” and (b) the plaintiff has to show that denying pre-enforcement review will result in immediate adverse consequences. For a claim to be fit for judicial review
-i.	If the claim raises "purely legal" questions (such as facial challenges to a regulation's or statute’s validity) it is more likely to be found "fit for judicial review;"
-ii.	if the resolution of the claim seems to turn on factual circumstances that have not fully developed at the time review is sought (e.g., facts concerning how the challenged law will be applied to and affect the plaintiff), the claim may be deemed unfit for judicial review.
-i.	Probability that the predicted harm will occur
-2.	Hardship -
-b. Ask, if absent judicial intervention at this pre-enforcement stage, the plaintiff would be put to the choice of incurring significant expense (in order to abide by the regulations) or intentionally disobeying the regulations at the risk of incurring civil or criminal penalties (in order to have an opportunity to challenge the regulations in court).  
-i. Does the existence of the policy, even before its enforced, have an impact on the plaintiff?
-ii. The plaintiff has to show that they were affected in an immediate and concrete way because of the regulations
-iii. probability that the predicted harm will occur
-a.	If you have a procedural injury – footnote 7 Lujan – you can satisfy causation and redressability. Denial of opportunity for review/benefit/etc. (people denied out the door, versus, those whose claims were reviewed)
-4. Note: difference in how the Supreme Court treated a drug company’s dilemma v. the  dilemma confronting the workers in the Longshoremen’s’ case and the immigrants in Catholic Social Services.
-5. Takeaway:
-i.	Generally, the court does not hear pre-enforcement matters. [ I.e. a potential beneficiary of a governmental program or benefit (public assistance, educational, etc) cannot challenge a benefit restricting regulation or law or policy until they apply for and are denied the benefit because of the challenged regulation] However, in cases alleging denial of equality treatment, the court has allowed pre-enforcement challenges
-1.	Challenges to a benefit-restricting regulation are most strictly enforced (must show imminence in that you’ve applied for the benefit or are being restricted from applying) than a behavior prescribing regulation (which forces the plaintiff to choose between compliance + injury or noncompliance)
-
-ii.	You can also still bring challenges to procedural denials
+Thus, the Court will find that the plaintiff does/does not have standing.
 
 
-
-
-APPLICATION/EXPLANATION
-
-1.	Is the claim fit for judicial review?
-
-2.	Will denying pre-enforcement review will result in immediate adverse consequences
-Case example: Reno v. CSS – Immigration reform and control act
-
-
-
-CONCLUSION
-	Thus, the Court will find that the plaintiff’s claim is/is not ripe.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-C.	11TH AMENDMENT STATE SOVEREIGN IMMUNITY
+## 11th Amendment State Sovereign Immunity
 
 ISSUE
 	At issue is whether or not the federal court has the authority, consistent with the Eleventh Amendment and related state sovereign immunity principles, to award plaintiff the requested relief.
@@ -163,25 +142,7 @@ Case Examples
 CONCLUSION
 Thus, the federal court does/does not have the authority, consistent with the Eleventh Amendment and related state sovereign immunity principles, to award plaintiff the requested relief.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-II.	FEDERAL LEGISLATIVE POWER
-
-The federal government is one of limited and enumerated powers: an Act of Congress is valid only if (a) it is affirmative authorized by the Constitution and (b) it is not barred by some prohibition in the Constitution. The main source of congressional power is Article I, § 8, which includes the Necessary and Proper Clause and the Commerce Clause, among others.
-
-A.	10TH AMENDMENT LIMITATIONS ON COMMERCE CLAUSE POWER
+## 10th Amendment Limitations on Commerce Clause Power
 
 ISSUE
 	At issue is whether or not Congress adopted a statute directed solely at a state entity that commands the state in its sovereign capacity to adopt and/or administer a federal law/policy that exceeds the scope of the limitation that the 10th Amendment places on Congress’s power to regulate under the Commerce Clause.
@@ -207,12 +168,7 @@ Case Example
 CONCLUSION
 	Congress did/did not exceed its authority under the Tenth Amendment limitations.
 
-
-
-
-
-
-B.	THE CIVIL RIGHTS ENFORCEMENT POWERS
+## The Civil Rights Enforcement Power
 
 ISSUE
 	At issue is whether or not [federal statute] is a constitutional exercise of Congress’s civil rights enforcement power under § 5 of the Fourteenth Amendment.
@@ -244,19 +200,7 @@ Case examples
 CONCLUSION
 	Thus, the statute does/does not satisfy Boerne’s “congruence and proportionality” test, and should/should not be sustained as valid legislation under Congress’s § 5 enforcement powers.
 
-
-
-
-
-
-
-
-
-
-
-
-
-C.	SPENDING POWER
+## Spending Power
 
 ISSUE
 	At issue is whether or not [this statute] is a constitutional exercise of Congress’s Article I § 8 spending power.
@@ -283,24 +227,7 @@ b.	In Sebelius, on the other hand, Congress conditioned state Medicaid funding o
 CONCLUSION
 Thus, [this statute] is/is not a constitutional exercise of Congress’s Article I § 8 spending power.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-III.	THE DORMANT COMMERCE CLAUSE AS STRUCTURAL LIMITATION ON STATE & LOCAL POWER
+## The Dormant Commerce Clause as Structural Limitation on State and Local Power
 
 ISSUE
 	Did a state law discriminate between in-state and out-of-state interests in a way that burdens interstate commerce in violation of the dormant commerce clause?
