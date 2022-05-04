@@ -22,6 +22,8 @@ See [U.S. Constitution](https://www.law.cornell.edu/constitution/index.html) for
 
 ---
 
+Hello
+
 ## Standing
 
 Article III, Section 2 of the U.S. Constitution provides that "the judicial power shall extend to all cases, in law and equity, arising under this Constitution, the laws of the United States, and treaties made, or which shall be made, under their authority;-- [...] to controversies to which the United States shall be a party;-- [...] between two or more states;-- between a state and citizens of another state;-- between citizens of different states;-- between citizens of the same state claiming lands under grants of different states, and between a state, or the citizens thereof, and foreign states, citizens or subjects." Article III, Section 2 has been interpreted to mean that federal courts of the United States can only hear live cases and controversies, and cannot not provide merely advisory opinions. One of the justiciability doctrines that governs federal courts is "standing," which requires a plaintiff to establish that they have a sufficient stake in a lawsuit to (1) give rise to an Article III "case or controversy" and (2) satisfy the U.S. Supreme Court’s judge-made "prudential limitations." The Court has said that the federal judiciary should decline on prudential grounds to adjudicate generalized grievances shared by all or a large class of citizens." *Lexmark v. Static Controls* (2014). Policies underlying the doctrine of standing are adverse presentation of issues (courts want cases to be vigorously litigated [this ensures fairness]); autonomy (favors placing litigation of rights in the hands of those most affected) and additional separation of powers and federalism considerations.
