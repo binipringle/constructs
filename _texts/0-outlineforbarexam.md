@@ -21,7 +21,7 @@ Basic Concepts are federalism, separation of powers, power of judicial review an
 
 ---
 
-### Federalism
+## Federalism
 
 Federalism is a system of dual sovereignty by which the states operate under a national or federal government but still retain certain independent powers and sovereign attributes. A major question in United States constitutional law has been whether and to what extent the judiciary should define and enforce federalism-based limits (or states' rights limits) on the national government.
 
@@ -59,7 +59,7 @@ Congress has the power to abrogate state sovereign immunity in certain cases. Ab
 
 ---
 
-### Eleventh Amendment State Sovereign Immunity General Rule
+## Eleventh Amendment State Sovereign Immunity General Rule
 
 The Eleventh Amendement grants states sovereign immunity, which makes state defendants immune from private suits in any federal or state court or quasi-judicial federal administrative proceeding, unless the state has waived its immunity or Congress has validly abrogated its immunity, or the Ex Parte Young exception applies.
 
@@ -132,7 +132,7 @@ Holding: Defenders of Wildlife lacked standing to challenge regulations jointly 
 
 ---
 
-### Article III case or controversy requirement
+## Article III case or controversy requirement
 
 1. Injury
 2. Causation
@@ -180,7 +180,7 @@ A **threatened injury** can give rise to standing if it is imminent and not mere
 
 ---
 
-## (2) Causation
+## Causation
 
 The injury must be fairly traceable to challenged action.
 
@@ -188,7 +188,7 @@ Multiple links in the causal chain between the challenged action and the injury 
 
 ---
 
-### (3) Redressability
+## Redressability
 
 An award of relief to the plaintiff must be likely to redress the Article III injury, at least to some extent.  
 
@@ -210,7 +210,7 @@ This is a **general bar against plaintiff assertion of the legal rights of third
 
 ---
 
-### Exceptions
+## Exceptions
 
 **Exception!** A taxpayer can challenge a law believed to violate the Establishment Clause of the 1st Amendment.[^12]
 
