@@ -127,11 +127,11 @@ Federalism is a system of dual sovereignty by which the states operate under a n
 
 # Federal Jurisdiction
 
-Article III, Section 2 limits the jurisdiction of the federal courts to two types. The two types of jurisdiction are law-based jurisdiction and party-based jurisdiction.
+Article III, Section 2 limits the jurisdiction of the federal courts to two types. The two types of jurisdiction are **law-based jurisdiction** and **party-based jurisdiction**.
 
-Law-based jurisdiction refers to the authority of federal courts to hear cases that arise under (1) the Constitution or federal law; and (2) admiralty and maritime jurisdiction. Law-based jurisdiction is about the nature of the legal issues involved in the case.
+**Law-based jurisdiction** refers to the authority of federal courts to hear cases that arise under (1) the Constitution or federal law; and (2) admiralty and maritime jurisdiction. Law-based jurisdiction is about the nature of the legal issues involved in the case.
 
-Party-based jurisdiction refers to the types of parties involved in a case that can give federal courts the authority to hear the case. Party-based Jurisdiction gives federal courts jurisdiction over (1) controversies to which the U.S. shall be a party; (2) controversies between two or more states; (3) cases between a state and citizens of another state; (4) cases between citizens of different states where the amount in controversy is over $75,000 (diversity cases); and (5) cases affecting ambassadors and consuls.
+**Party-based jurisdiction** refers to the types of parties involved in a case that can give federal courts the authority to hear the case. Party-based Jurisdiction gives federal courts jurisdiction over (1) controversies to which the U.S. shall be a party; (2) controversies between two or more states; (3) cases between a state and citizens of another state; (4) cases between citizens of different states where the amount in controversy is over $75,000 (diversity cases); and (5) cases affecting ambassadors and consuls.
 
 Even if one of the above types of jurisdiction exists, a federal court must review other requirements before it can hear a case.
 
@@ -980,9 +980,9 @@ Substantive due process protects substantive rights not specifically referenced 
 
 Substantive rights are rights which are “implicit in the concept of ordered liberty” or “deeply rooted” in our history and tradition.
 
-### Rational Basis Review versus Strict Scrutiny
-
 ---
+
+### Rational Basis Review versus Strict Scrutiny
 
 At a minimum, substantive due process requires that all legislation be rationally related to some legitimate government purpose (rational basis review).
 
@@ -992,7 +992,7 @@ However, when a court deems that the substantive right asserted by the plaintiff
 
 ### Economic Regulations
 
-A substantive due process challenge directed at an economic regulation is subject only to rational basis review.
+**A substantive due process challenge directed at an economic regulation is subject only to rational basis review.**
 
 Under such a review, the burden is on the plaintiff to show either: (1) that the government interest is not legitimate, or (2) if the government’s interest is legitimate, that the legislation is nevertheless not rationally related to promoting it.
 
@@ -1136,7 +1136,7 @@ Do equal protection analysis based on classification of group.
 | ---------------------------- |---------------------------- |---------------------------- |
 | rationally related to a legitimate government interest | substantially related to an important government interest | narrowly tailored to a compelling government interest |
 | Non-suspect classification | Quasi-suspect classification | Suspect classification |
-| Age, alienage (federal), disability, sexual orientation (rational basis with teeth), undocumented immigrant children (rational basis with teeth), wealth, everything else | Gender, illegitimacy | Alienage (state), domestic travel, national origin, race, voting |
+| Age, alienage (federal), disability, sexual orientation (rational basis with teeth), undocumented immigrant children (rational basis with teeth), wealth, private sexual activities, economic rights, everything else | Gender, illegitimacy | Alienage (state), domestic travel, national origin, race, voting |
 
 **Strict Scrutiny:** Applies to classifications based on race, alienage, and national origin. Such laws will be presumptively invalid, absent a showing by the state that the measure is necessary to achieve a compelling state interest.
 
