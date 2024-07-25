@@ -34,6 +34,39 @@ toc:
 - Cumulative Effect Doctrine
 - Limitations on Commerce Clause Power
 - Exception to Limitations on Commerce Clause Power Comprehensive Scheme
+- Taxing Power
+- Spending Power
+- War and Defense Powers
+- Investigatory Power
+- Property Power
+- Power of Eminent Domain
+- Admiralty and Maritime Power
+- Bankruptcy Power
+- Postal Power
+- Copyright and Patent Power
+- Speech and Debate Clause Immunity
+- Civil War Amendments
+- Delegation of Power
+- Executive Power
+- Enforcement of Laws
+- Appointment Power
+- Removal Power
+- Veto Power
+- Pardon Power
+- Executive Privilege
+- Commander-in-Chief
+- Military Powers
+- Treaty Power
+- Executive Agreements
+- Congressional Limits on the Executive
+- Impeachment Power
+- Appropriations Power
+- Presidential Limits on Congress
+- Judicial Limits on Congress and the President
+- Nature and Scope of Federal and State Powers
+- Immunity of Federal Government
+- Immunity of State Governments
+- Authority Reserved for the States
 - Dormant Commerce Clause
 - State Action versus Private Action
 - Due Process and Incorporation of Portions of the Bill of Rights
@@ -78,7 +111,7 @@ Welcome to my outline for passing the bar exam. Use the menu bar on the upper le
 
 See [U.S. Constitution](https://www.law.cornell.edu/constitution/index.html) for constitutional law.
 
----
+----
 
 # Federal Judicial Power
 
@@ -537,6 +570,321 @@ Congress may use its commerce clause power to regulate intrastate non-economic a
 
 ---
 
+# Taxing Power
+
+Congress has the power to impose and collect taxes in order to pay debts and spend for the general welfare. A congressional act purporting to be a “tax” should be upheld as a valid exercise of the taxing power if (1) it raises revenue (objective test); (2) it was intended to raise revenue even if it doesn’t (subjective test); or (3) Congress has the power to regulate the activity that’s being taxed (regulatory test).
+
+For example, the Supreme Court sustained a tax on coal producers who violated a fair competition law, even though it was clearly designed to be a penalty rather than raise revenue [Sunshine Anthracite Coal Co. v. Adkins, 310 U.S. 381 (1940)].
+
+---
+
+# Spending Power
+
+Article I, Section 8, Clause 1, provides Congress with the power to spend for the general welfare.
+
+For example, Congress can give money to political candidates and state that, in return, they must abide by certain expenditure limits. The Supreme Court sustained this as spending for the general welfare because it would reduce the harmful effect of candidates’ reliance on large private contributions [Buckley v. Valeo, 424 U.S. 1 (1976)].
+
+For example, Congress can spend money to build highways. It can even spend money to build a single bridge in a single state. This is because transportation promotes the general welfare.  
+
+For example, Congress may not spend money to build a vacation home for the Senate majority leader. It would take this sort of self-dealing and corruption to fall outside of the general welfare.  
+
+Congress can use its spending power to get around limits on its regulatory power. It may pass a law offering money to states or individuals in exchange for “x”. Often, “x” is not something that Congress could order the state or individual to do directly.  For example, Congress cannot use its commerce power to regulate public schools. However, it can use its spending power to offer money to the public school systems if they agree to implement standardized testing.  
+
+Congress may place a condition on the receipt of federal funds by a state if (1) the spending serves the general welfare; (2) the condition is unambiguous; (3) the condition is related to the federal program (relatedness); (4) the state is not required to undertake unconstitutional action; and (5) the amount in question is not so much that the state is “coerced” into accepting the funds.
+
+---
+
+# War and Defense Powers
+
+Congress may declare war, raise and support armies, provide and maintain a navy, and organize, arm, discipline, and call forth a militia.
+
+During wartime, Congress has the power to (1) activate the military draft and selective service; (2) initiate wage, price, and rent control of the civilian economy; and (3) exclude civilians from certain restricted areas.
+
+Congress can establish military courts to gain jurisdiction over members of the armed forces, conduct court-martial proceedings, and try enemy combatants.
+
+*EXAM TIP: A question might ask what rights a terrorist has with respect to detention. Both U.S. citizens and non-U.S. citizens within the United States (or U.S. territories) are entitled to Due Process rights.*
+
+---
+
+# Investigatory Power
+
+Congress has broad **investigatory powers** that may extend to any matter within its legitimate lawmaking functions, including **immigration and naturalization**.
+
+Congress can do things necessary to facilitate an investigation (i.e., cite a witness who fails to appear for contempt), but it cannot override any person’s constitutional rights.
+
+---
+
+# Property Power
+
+Congress has the power to regulate or dispose of federal property.
+
+*EXAM TIP: If dealing with a federal territory and not a state, Congress has a general legislative power and can pass any law it would like.*
+
+---
+
+## Power of Eminent Domain
+
+Congress has the power to take private property for public use (implied power, not expressly granted in the Constitution).
+
+---
+
+## Admiralty and Maritime Power
+
+The Supreme Court has determined that the Necessary and Proper Clause gives Congress complete and plenary power to fix and determine the maritime laws throughout the country.
+
+---
+
+## Bankruptcy Power
+
+Congress has the power to “establish uniform Laws on the subject of Bankruptcies throughout the United States.”
+
+---
+
+## Postal Power
+
+Congress may establish Post Offices and Post Roads.
+
+---
+
+## Copyright and Patent Power
+
+Congress may “promote the Progress of Science and useful Arts, by securing for limited Times to Authors and Inventors the exclusive Right to their respective Writings and Discoveries”.
+
+---
+
+## Speech and Debate Clause Immunity
+
+Members of Congress cannot be punished or prosecuted for anything they say during debate on the floor in either house.  
+
+---
+
+# Civil War Amendments
+
+Congress has the power to enforce the 13th Amendment, which bans slavery; the 14th Amendment, which prohibits states from violating due process, equal protection, and privileges and immunities; and the 15th Amendment, which prohibits states from discriminating with respect to race in voting rights.
+
+With respect to the 14th and 15th Amendments, Congress can only regulate states, not private individuals.
+
+When enforcing the 14th and 15th Amendments on state governments, (1) such governments must have engaged in widespread violations of the Amendment; and (2) the legislative remedy must be “congruent and proportional to” the violations.
+
+If Congress passed valid legislation to enforce the 14th or 15th Amendment legislation, recall that sovereign immunity under the 11th Amendment will not apply.
+
+---
+
+## Delegation of Power
+
+Congress can create an executive agency and give the agency some legislative power that will prevail over inconsistent state law.
+
+**Limitation:** Congress can delegate power so long as there is some “intelligible principle” that guides the agency.
+
+# Executive Power
+
+The President is the chief executive.
+
+---
+
+### Enforcement of Laws
+
+The President can enforce but not create laws.
+
+---
+
+### Appointment Power
+
+The President appoints “high-level officials” such as Ambassadors and Cabinet members with the advice and consent of the Senate.
+
+Congress can delegate appointment of “inferior” officers (anyone who has a superior) to the President; the judiciary; or the head of an executive department.
+
+---
+
+### Removal Power
+
+**Executive officials:** The President may remove any executive appointee without cause (i.e., an ambassador or cabinet member).
+
+**Executive officials with fixed terms:** The President must have cause to remove executive officers who have fixed terms and officers who perform judicial or quasi-judicial functions (e.g., a member of the Federal Trade Commission).
+
+**Federal judges:** The President cannot remove judges, even for cause. The only way a federal judge may be removed is by impeachment.
+
+**Congressional approval/removal:** Congress cannot require the President to get congressional approval before removing someone; Congress cannot remove an official itself.
+
+---
+
+### Veto Power
+
+**Veto Process:**
+
+1.	Once Congress has passed legislation by a majority vote in each house,
+2.	the President must sign the bill for it to become law.
+3.	If the President vetoes it, Congress must override the veto.
+4.	If the President takes no action within 10 days, it becomes law.
+
+**Pocket Veto:** If the bill is presented to the President less than 10 days before the end of a legislative session, then the President can “pocket veto” it.
+
+**Congressional Override:** Congress has the power to override a veto by a two-thirds vote in both the Senate and House.
+
+**Line-item Veto:** A president cannot cancel particular provisions of new federal legislation. The President has to either accept a bill or veto it as a whole.
+
+*EXAM TIP: Bicameralism and presentment are the only ways in which a bill can become a law. Both the House and Senate vote on, and then pass the bill. It is then presented to the President to sign it into law.*
+
+---
+
+### Pardon Power
+
+The President may grant pardons.
+
+**Limitations:**
+
+President can only issue pardons for federal crimes, not state crimes. For a state crime, the governor can offer clemency.
+
+A pardon cannot undo an impeachment, because it is not a criminal conviction. It cannot restore someone to office.
+
+---
+
+### Executive Privilege
+
+**Absolute Privilege:** The President has an absolute privilege to refuse to disclose information related to national security.
+
+**Presumptively Privileged:** Other confidential communications between the President and advisors are presumptively privileged. The purpose of this is to allow the President to seek candid advice. The presumption is overcome when confidential communications are subpoenaed as evidence in a criminal trial.
+
+*For example, the federal court subpoenaed tapes of Nixon and his advisors and the Supreme Court said this was permissible.*  
+
+---
+
+## Commander-in-Chief
+
+The President is Commander-in-Chief of the military.
+
+---
+
+### Military Powers
+
+Congress has the power to declare war. If Congress has not done so, the President’s powers are limited to using military force in response to a surprise attack upon the US.
+
+If the President and Congress disagree, the President prevails only with respect to battlefield tactical decisions.
+
+---
+
+### Treaty Power
+
+The President has the power to make treaties with the consent of the Senate. The Senate must ratify by a two-thirds vote before it becomes federal law.
+
+**Treaties and Federal law:** Treaties have the same status as federal law and will override earlier federal law if ratified by the Senate. **A new federal law enacted after the treaty will override that treaty.**
+
+**Treaties and State law:** Treaties take precedence over any conflicting state law (regardless of whether the treaty precedes or follows the enactment of the state law).
+
+---
+
+### Executive Agreements
+
+The President has the power to enter into executive agreements with foreign nations.
+
+Executive agreements are the sole responsibility of the President, and do not need to be ratified by the Senate.
+
+**Federal statutes:** Executive agreements do not prevail over federal law.
+
+**State law:** Executive agreements prevail over inconsistent state law.
+
+*For example, the President can use an executive agreement to settle claims U.S. citizens have against a foreign country.*
+
+---
+
+## Congressional Limits on the Executive
+
+If Congress is acting within its constitutional powers, Congress may block the President from acting.
+
+*For example, there is a threat of strike at steel mills during wartime and the President decides to seize these mills despite federal laws stating he cannot do so. Courts have found this to be unconstitutional.*
+
+*For example, President sets up military courts on his own in order to try suspected terrorists, ignoring valid federal law established by Congress. Again, this is unconstitutional and Congress wins. The President could have asked for authority from Congress to set up these military courts, and that would have been okay.*
+
+---
+
+## Impeachment Power
+
+Congress can remove the President, federal judges, and any federal official from office.
+
+The House has the sole power to impeach.
+
+The Senate has the sole power to try impeachments. A two-thirds vote in the Senate is required for conviction.
+
+Impeachment by itself does not carry any penalty beyond removal from office.
+
+Impeachable offenses are treason, bribery, and other high crimes and misdemeanors.
+
+---
+
+## Appropriations Power
+
+Where Congress by legislative act explicitly directs the President to spend appropriated money, the President has no power to impound (i.e., refuse to spend or delay spending) the authorized funds.
+
+*For example, if Congress does not want any Guantanamo prisoner transferred to the U.S., then it can say no federal funds may be used to transport prisoners to the U.S. This will prevent the President from doing otherwise.*
+
+---
+
+## Presidential Limits on Congress
+
+**Veto:** Every act of Congress must be approved and signed by the President before it can become law; but if the president vetoes the bill, it can become law if passed by a two-thirds vote of each house.
+
+**Pardon Power:** President can pardon anyone convicted under federal law.
+
+---
+
+## Judicial Limits on Congress and the President  
+
+The only thing a court can do is to hold a federal law unconstitutional. Courts cannot enforce the judgments, so they need cooperation from the official whose conduct they believe is unconstitutional. Most often the president will comply.
+
+---
+
+# Nature and Scope of Federal and State Powers
+
+**Federal Government** has the powers granted by the Constitution and no others.
+
+**The States** have police power. They can pass laws without identifying a source of power for doing so. However, there are constitutional limitations on state police powers:
+
+**Exclusive Federal Power** reserves certain enumerated powers exclusively for the federal government;
+
+**Individual Rights** restrict state governments from acting in violation of constitutional provisions; and
+
+**Preemption:** Under the Supremacy Clause, if Congress enacts legislation with the intention of preempting state law, the congressional regulation will control.
+
+---
+
+## Immunity of Federal Government
+
+**Sovereign immunity:** The federal government cannot be sued without its consent.
+
+**Supremacy Clause:** Federal law is supreme over state law.
+
+**Taxation of Federal Government by a State:** The federal government and its agencies and instrumentalities are immune from state taxation and regulation that would interfere with their performance of federal functions.
+
+---
+
+## Immunity of State Governments
+
+**11th Amendment:** Recall that Congress cannot create a private cause of action for money damages against a state unless it is using its enforcement powers under the post-Civil War 13th, 14th, and 15th Amendments. However, individuals may seek injunctive relief.
+
+A state is immune from federal taxation if the tax is applied to unique state activities or essential governmental functions.
+
+**Anti-Commandeering Doctrine:** The federal government cannot force states to act in their sovereign capacities (i.e., legislate or enforce laws).
+
+*EXAM TIP: The 10th Amendment is frequently a “red herring” wrong answer choice, except when the facts show the federal government “commanding” the states.*
+
+*EXAM TIP: It does not matter if a state is happy to obey the federal government regarding legislation or enforcement of a law. It is still unconstitutional. The Spending Clause can often be used instead to achieve the same result.*
+
+For example, Congress enacts a law regulating the purchase of guns by requiring people who do so to consent to a background check. Congress orders state law officials to enforce the law. This law is unconstitutional.
+
+Another example is Congress enacts a law that requires state legislatures to enact programs to dispose of nuclear waste. This is unconstitutional because Congress is ordering state legislatures to legislate.
+
+Yet another example is Congress enacts a law that prohibits race discrimination in employment. This law applies generally to individuals and doesn’t require the state legislature to enact or refrain from enacting legislation. It is constitutional because Congress has enumerated powers to legislate in this area under the 13th and 14th Amendments.  
+
+An additional example is Congress enacts an anti-gambling statute prohibiting states from repealing their anti-gambling laws. This law is unconstitutional because Congress can neither force nor prohibit state legislatures from acting.
+
+---
+
+# Authority Reserved for the States
+
+There is authority reserved for the states.
+
+---
+
 ## Dormant Commerce Clause
 
 States cannot discriminate against out-of-state economic actors.
@@ -545,7 +893,7 @@ If a state law discriminates on its face against out-of-state goods or economic 
 
 *For example, Maine bans importation of out-of-state bait fish to preserve Maine fisheries from the parasites in the bait fish. This passes the strict test above. *
 
-**Rule: ** State laws that regulate interstate commerce even-handedly to effectuate a legitimate local public interest will be upheld unless the burden imposed on such commerce is clearly excessive in relation to the putative local benefits.
+**Rule:** State laws that regulate interstate commerce even-handedly to effectuate a legitimate local public interest will be upheld unless the burden imposed on such commerce is clearly excessive in relation to the putative local benefits.
 
 *For example, a Detroit smoke abatement ordinance that applies to ships traveling in interstate commerce was upheld as a valid health measure.*
 
@@ -570,7 +918,7 @@ To show that the defendant is a state actor, the plaintiff must show that there 
 
 **Two Exceptions:**
 
-**Public-Function Theory (also called Entwinement): ** Where a private entity is carrying on activities traditionally performed by the government. This theory is also known as entwinement.
+**Public-Function Theory (also called Entwinement):** Where a private entity is carrying on activities traditionally performed by the government. This theory is also known as entwinement.
 
 **Significant State Involvement Theory (also called Entanglement):** Where a private party’s action is closely encouraged and supported by the state, the private party’s action can be treated as action by the government. This exception is also known as entanglement.
 
@@ -666,33 +1014,33 @@ Both over-inclusive and under-inclusive laws will likely fail strict scrutiny re
 
 **Marriage**
 
-**Family Relations : ** Government cannot prohibit members of an extended family from living in a single household. State can ban unrelated persons from living together in a single-family residence.
+**Family Relations :** Government cannot prohibit members of an extended family from living in a single household. State can ban unrelated persons from living together in a single-family residence.
 
-**Private Education: ** Parents have a fundamental right to privately educate their children outside the public  school system.
+**Private Education:** Parents have a fundamental right to privately educate their children outside the public  school system.
 
-**Possession of Obscene Material: ** A person has a right to possess obscene material in the privacy of their home; they do not have a right to buy or sell obscene material. Exception: The state can criminalize even the private possession of child pornography.
+**Possession of Obscene Material:** A person has a right to possess obscene material in the privacy of their home; they do not have a right to buy or sell obscene material. Exception: The state can criminalize even the private possession of child pornography.
 
-**Right to Travel: ** 14th Amendment Privileges or Immunities Clause allows citizens to travel freely  from state to state and to set up residency in a new state. The right to international travel is not absolute and may be subject to reasonable restrictions in the name of national security.
+**Right to Travel:** 14th Amendment Privileges or Immunities Clause allows citizens to travel freely  from state to state and to set up residency in a new state. The right to international travel is not absolute and may be subject to reasonable restrictions in the name of national security.
 
 **Right to Vote:** Generally, the right to vote comes from the 1st Amendment Right of Association and the 14th Amendment. However, there are more specific amendments regarding the right to vote.
 
-**15th Amendment: ** States cannot discriminate with respect to race and right to vote.
+**15th Amendment:** States cannot discriminate with respect to race and right to vote.
 
-**19th Amendment: ** States cannot discriminate with respect to sex and right to vote.
+**19th Amendment:** States cannot discriminate with respect to sex and right to vote.
 
-**24th Amendment: ** No poll taxes.
+**24th Amendment:** No poll taxes.
 
-**26th Amendment: ** Right to vote for all citizens 18 years or older.
+**26th Amendment:** Right to vote for all citizens 18 years or older.
 
-**Level of Scrutiny: ** Some voting restrictions are constitutional, while others are not.
+**Level of Scrutiny:** Some voting restrictions are constitutional, while others are not.
 
-**Restrictions that are constitutional: ** (1) Reasonable residency and voter registration requirements; (2) reasonable regulation of time and manner of casting votes; (3) denying felons the right to vote.
+**Restrictions that are constitutional:** (1) Reasonable residency and voter registration requirements; (2) reasonable regulation of time and manner of casting votes; (3) denying felons the right to vote.
 
-**Restrictions that are unconstitutional (strict scrutiny applies): ** (1) Cannot impose poll tax; (2) cannot require voters at school board elections to own property; (3) cannot count votes using standards that lack uniformity or are too vague.
+**Restrictions that are unconstitutional (strict scrutiny applies):** (1) Cannot impose poll tax; (2) cannot require voters at school board elections to own property; (3) cannot count votes using standards that lack uniformity or are too vague.
 
 *A state cannot block you from voting in a presidential election if you are not a member of a political party. The plaintiff will be successful with respect to the general presidential election. With respect to the primary, political parties are sufficiently intertwined with a state that for some things they will be considered state actors. However, to say that their primary is closed to party members is a reasonable restriction and not unconstitutional.*
 
-**Presidential Elections: ** The President is not chosen by the overall popular vote. Instead, individual voters select electors as state representatives and they actually choose the President. Anyone who may vote for state legislature can vote for state electors.
+**Presidential Elections:** The President is not chosen by the overall popular vote. Instead, individual voters select electors as state representatives and they actually choose the President. Anyone who may vote for state legislature can vote for state electors.
 
 ---
 
@@ -700,7 +1048,7 @@ Both over-inclusive and under-inclusive laws will likely fail strict scrutiny re
 
 **Right to Die:** No right to die via suicide or assisted suicide, but there is a right to refuse medical treatment.
 
-**Same-Sex Intimacy: ** Same-sex intimacy is not considered a fundamental right, but it is unconstitutional to  criminalize such behavior. The Court applied a rational basis review, but because the state lost, which is virtually unheard of, the court seemed to apply rational basis with “teeth.”
+**Same-Sex Intimacy:** Same-sex intimacy is not considered a fundamental right, but it is unconstitutional to  criminalize such behavior. The Court applied a rational basis review, but because the state lost, which is virtually unheard of, the court seemed to apply rational basis with “teeth.”
 
 ---
 
@@ -712,13 +1060,15 @@ Public use is if there is a public purpose (easy standard to meet).
 
 There are four kinds of takings.
 
-**Direct government appropriation: ** Where the government actually takes someone’s property.
+**Direct government appropriation:** Where the government actually takes someone’s property.
 
-**Regulatory taking: ** Where the government doesn’t take property, but imposes a regulatory requirement that is so onerous as to effectively amount to a taking. A regulatory requirement amounts to a taking if (1) the regulation requires the property owner to suffer some permanent physical invasion[^30]; or the regulation deprives the property owner of all economically beneficial use to the property[^31]. The government will balance the economic versus physical impact of the regulation on the property owner, as well as the duration and character of the government action. [^32]
+**Regulatory taking:** Where the government doesn’t take property, but imposes a regulatory requirement that is so onerous as to effectively amount to a taking. A regulatory requirement amounts to a taking if (1) the regulation requires the property owner to suffer some permanent physical invasion[^30]; or the regulation deprives the property owner of all economically beneficial use to the property[^31]. The government will balance the economic versus physical impact of the regulation on the property owner, as well as the duration and character of the government action. [^32]
+
+For example, a state law that permits only residential development on a property owner's land is a regulatory taking where the government doesn't outright take ownership of the property, but instead, imposes a regulatory requirement that is so onerous as to effectively amount to a taking.
 
 **Temporary restrictions** do not permanently deprive the owner of all economically beneficial uses of his land. A court will look at both the dimensions of a property interest and the term of years.
 
-**Conditional permits: ** A condition on the grant of a permit for land development is permissible if (1) there is a logical nexus between the condition and the governmental purposes; and (2) there is rough proportionality between the impact on the proposed development and the governmental objectives served by the condition.
+**Conditional permits:** A condition on the grant of a permit for land development is permissible if (1) there is a logical nexus between the condition and the governmental purposes; and (2) there is rough proportionality between the impact on the proposed development and the governmental objectives served by the condition.
 
 [^30]: For example, a state law requires landlords to permit cable companies to install cable lines through apartment buildings.
 
@@ -730,7 +1080,7 @@ There are four kinds of takings.
 
 # Equal Protection
 
-**Constitutional Basis: ** For the states, 14th Amendment Equal Protection Clause; for the federal government, 5th Amendment Due Process Clause.
+**Constitutional Basis:** For the states, 14th Amendment Equal Protection Clause; for the federal government, 5th Amendment Due Process Clause.
 
 Equal protection requires the government to justify when it discriminates.
 
@@ -788,40 +1138,40 @@ Do equal protection analysis based on classification of group.
 | Non-suspect classification | Quasi-suspect classification | Suspect classification |
 | Age, alienage (federal), disability, sexual orientation (rational basis with teeth), undocumented immigrant children (rational basis with teeth), wealth, everything else | Gender, illegitimacy | Alienage (state), domestic travel, national origin, race, voting |
 
-**Strict Scrutiny: ** Applies to classifications based on race, alienage, and national origin. Such laws will be presumptively invalid, absent a showing by the state that the measure is necessary to achieve a compelling state interest.
+**Strict Scrutiny:** Applies to classifications based on race, alienage, and national origin. Such laws will be presumptively invalid, absent a showing by the state that the measure is necessary to achieve a compelling state interest.
 
 **Racial discrimination:** State laws prohibiting interracial marriages or interracial cohabitation are unconstitutional. They facially discriminate on the basis of race.
 
 **De jure segregation:** Laws that deliberately segregate on the basis of race. This will face strict scrutiny and almost always be found unconstitutional.
 
-**De facto segregation: ** Segregation in fact but not by operation of law. This isn’t discrimination, as there’s no state action.
+**De facto segregation:** Segregation in fact but not by operation of law. This isn’t discrimination, as there’s no state action.
 
-**School segregation: ** Various plans to hinder desegregation have been deemed unconstitutional, including the closing of all public schools. School boards have an affirmative duty to eliminate intentional racial segregation of schools. **Court-ordered busing is constitutional where it is implemented to remedy past discrimination in a particular school system, some sort of de jure segregation.**
+**School segregation:** Various plans to hinder desegregation have been deemed unconstitutional, including the closing of all public schools. School boards have an affirmative duty to eliminate intentional racial segregation of schools. **Court-ordered busing is constitutional where it is implemented to remedy past discrimination in a particular school system, some sort of de jure segregation.**
 
 **Overt classifications may pass strict scrutiny**, for example, where police are separating a crowd by race in the middle of a riot.
 
 **Alienage Discrimination by States: **
 
-**Resident Noncitizens: ** When states discriminate against resident noncitizens, apply strict scrutiny.
+**Resident Noncitizens:** When states discriminate against resident noncitizens, apply strict scrutiny.
 
-**Public-Function Exception: ** Some jobs or activities may be withheld from resident noncitizens, including Police officers; Governmental officials; and Public school teachers.
+**Public-Function Exception:** Some jobs or activities may be withheld from resident noncitizens, including Police officers; Governmental officials; and Public school teachers.
 
-**Undocumented Immigrants: ** Rational basis review applies to discrimination against undocumented immigrants. However, states cannot enact their own immigration policy. That is reserved for the federal government.
+**Undocumented Immigrants:** Rational basis review applies to discrimination against undocumented immigrants. However, states cannot enact their own immigration policy. That is reserved for the federal government.
 
-**Undocumented Immigrant Children: ** The Court determined that undocumented immigrant children have a right to free public elementary and secondary education. The Court used a stringent version of the rational basis scrutiny test (rational basis review “with teeth”) and held that the discrimination against the children “can hardly be considered rational unless it furthers some substantial goal of the state.”
+**Undocumented Immigrant Children:** The Court determined that undocumented immigrant children have a right to free public elementary and secondary education. The Court used a stringent version of the rational basis scrutiny test (rational basis review “with teeth”) and held that the discrimination against the children “can hardly be considered rational unless it furthers some substantial goal of the state.”
 
 ---
 
 ### Intermediate Scrutiny
 
-**Illegitimacy: ** Laws that treat people differently based on whether their parents were married.
+**Illegitimacy:** Laws that treat people differently based on whether their parents were married.
 
 For example, state laws that deny welfare benefits to illegitimate children are unconstitutional. State laws that deny illegitimate children from sharing equally with other children in workers’ compensation death benefits are unconstitutional.
 
 *EXAM TIP: If there is a question with discrimination based on illegitimacy on the bar exam, it will probably be unconstitutional. This sort of discrimination serves no important governmental interest.*  
 
 
-**Gender Discrimination: ** Laws that treat men and women differently must meet intermediate scrutiny.
+**Gender Discrimination:** Laws that treat men and women differently must meet intermediate scrutiny.
 
 **Example of constitutional laws: **
 
@@ -831,13 +1181,13 @@ State statutory rape laws may set the age of consent higher for females than for
 
 *EXAM TIP: If a question involves discrimination that is motivated or reinforced by traditional stereotypes about appropriate gender roles, it will most likely be unconstitutional.*   
 
-**Affirmative Action – Gender: ** Gender based affirmative action need only pass intermediate scrutiny.
+**Affirmative Action – Gender:** Gender based affirmative action need only pass intermediate scrutiny.
 
 For example, Social Security statutes and tax exemptions that entitle women to greater benefits were upheld.
 
 Another example is U.S. navy discharge procedure that required male officers, twice denied promotion to be automatically discharged, but not female officers, was upheld because in the past because men had been afforded greater promotional opportunities than women.
 
-**General rule: ** Benign discrimination in favor of women gets upheld to make up for past discrimination either by the person who is offering the remedial program or to make up for societal discrimination.
+**General rule:** Benign discrimination in favor of women gets upheld to make up for past discrimination either by the person who is offering the remedial program or to make up for societal discrimination.
 
 ---
 
@@ -1033,11 +1383,11 @@ There are five exceptions.
 
 ### Unprotected or Low Value Speech
 
-A  regulation that relates to unprotected speech must pass the rational basis test.
+**A  regulation that relates to unprotected speech must pass the rational basis test.**
 
 Unprotected speech includes:
 
-**Speech that advocates violence or unlawful action. The test is whether such advocacy is (1) directed to inciting or producing imminent lawless action, and (2) is likely to incite or produce such action. If both elements are satisfied the speech is not protected.
+**Speech that advocates violence or unlawful action**. The test is whether such advocacy is (1) directed to inciting or producing imminent lawless action, and (2) is likely to incite or produce such action. If both elements are satisfied the speech is not protected.
 
 **Fighting words** are words likely to incite an ordinary citizen to commit acts of immediate physical retaliation may be punished. The speech must be more than annoying or offensive; it has to be a direct personal insult. “Fighting words” statutes are subject to facial invalidity if the conduct proscribed is vague (e.g., a law prohibiting “opprobrious words”) or overbroad. “Fighting words” statutes designed to punish certain viewpoints are unconstitutional.
 
@@ -1049,11 +1399,11 @@ Unprotected speech includes:
 
 **Private person, matter of private concern:** plaintiff does not need to prove actual malice. The plaintiff need only show negligence in order to recover according to common law defamation principles.
 
-**Private person, matter of public concern: ** plaintiff must prove negligence about the truth or falsity of the statement (no malice required).
+**Private person, matter of public concern:** plaintiff must prove negligence about the truth or falsity of the statement (no malice required).
 
-**Public official/figure, matter of public or private concern: ** plaintiff must prove the state law requirements of defamation and “actual malice.” Actual malice is knowledge of the falsity or reckless disregard of the truth or falsity of the statement.
+**Public official/figure, matter of public or private concern:** plaintiff must prove the state law requirements of defamation and “actual malice.” Actual malice is knowledge of the falsity or reckless disregard of the truth or falsity of the statement.
 
-**Private person suing media for false-light invasion of privacy concerning matter of public interest: ** plaintiff must prove actual malice. This standard is higher than in cases when a private plaintiff sues for defamation over matters of public interest. In the latter cases, the plaintiff need only prove negligence.
+**Private person suing media for false-light invasion of privacy concerning matter of public interest:** plaintiff must prove actual malice. This standard is higher than in cases when a private plaintiff sues for defamation over matters of public interest. In the latter cases, the plaintiff need only prove negligence.
 
 **Rule:** A newspaper or broadcaster cannot be held liable for publishing truthful information obtained from the public record. Any newsworthy and true information is also protected.
 
