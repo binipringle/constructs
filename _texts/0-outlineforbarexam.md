@@ -330,7 +330,7 @@ congressional override. Plaintiff must always meet Article III requirements.
 
 **Where the challenged statute, regulation, etc. would preclude or otherwise adversely affect a relationship between the litigant and the persons whose rights are violated.**  For example, the relationship between parochial schools and parents in Pierce v. Society of Sisters;  poState Sovereign Immunitybly the vendor-vendee relationship in Craig, or doctor-patient relationship in Griswold. This overlaps with the exception where enforcement would result indirectly in the violation of third party rights.
 
-**The overriding inquiry in asseState Sovereign Immunityng the applicability of exceptions is whether the plaintiff will vigorously advocate the rights of the third party.** If the court concludes that the litigant will not vigorously advocate for the rights of the third party or may have different interests from the third party, it will deny standing. This can happen where there is a close relationship between the litigant and the third party who possesses the right, and there is a hindrance to the possessor’s ability to protect his or her own interests.		 
+**The overriding inquiry in assessing the applicability of exceptions is whether the plaintiff will vigorously advocate the rights of the third party.** If the court concludes that the litigant will not vigorously advocate for the rights of the third party or may have different interests from the third party, it will deny standing. This can happen where there is a close relationship between the litigant and the third party who possesses the right, and there is a hindrance to the possessor’s ability to protect his or her own interests.		 
 
 ---
 
@@ -408,21 +408,23 @@ Two most important factors are (1) something in the Constitution suggests that u
 
 ## Abstention
 
-**A federal court may abstain or refuse to hear a particular case when the case includes undecided issues of state law.** The abstention doctrine permits a federal court to defer to a state court to resolve issues of state law. If resolved via state law, the constitutional issues disappear. Thus, proper deference is paid to the state court system and harmonious federal-state relations are furthered.
+A federal court may abstain or refuse to hear a particular case when the case includes undecided issues of state law.
 
-Abstention occurs in two ways. (1) The federal court may abstain if the meaning of a state law or regulation is unclear. In this situation, the state court might interpret the statute so as to avoid the constitutional issue. (2) Where a state court proceeding is going on, the federal court will abstain from hearing the same matter.
+The abstention doctrine permits a federal court to defer to a state court to resolve issues of state law. If resolved via state law, the constitutional issues disappear. Thus, proper deference is paid to the state court system and harmonious federal-state relations are furthered.
+
+Abstention occurs in two ways. (1) The federal court may abstain **if the meaning of a state law or regulation is unclear**. In this situation, the state court might interpret the statute so as to avoid the constitutional issue. (2) Where **a state court proceeding is going on**, the federal court will abstain from hearing the same matter.
 
 ---
 
 ### Special Case Rule for the U.S. Supreme Court when Adequate and Independent State Grounds
 
-If a state court decision involves a federal question but the state court judgment can be supported on an adequate and independent state ground, the Supreme Court will not take jurisdiction. This is because to do so would be tantamount to rendering an “advisory opinion.”
+If a state court decision involves a federal question but the state court judgment can be supported on an **adequate and independent state ground**, the Supreme Court will not take jurisdiction. This is because to do so would be tantamount to rendering an “advisory opinion.”
 
 Applies only to the Supreme Court.
 
-**Exception:** If the state court says, in interpreting the state constitution, it was merely copying the federal constitution, then no clear, independent state ground exists; so the doctrine will not apply and the Supreme Court will hear the case.
+Exception: **If the state court says it was merely copying the federal constitution, the doctrine will not apply because there was no independent state ground and the Supreme Court will hear the case.**
 
-*EXAM TIP: A state law ground will usually be adequate if it invalidates something—a state law or a contract. On the other hand, a state law will usually not be adequate if the law or contract is upheld under both state and federal law.*
+*EXAM TIP: A state law ground will usually be adequate if it invalidates something - a state law or a contract. On the other hand, a state law will usually not be adequate if the law or contract is upheld under both state and federal law.*
 
 ---
 
@@ -564,13 +566,13 @@ Commerce power cannot overcome eleventh amendment state sovereign immunity. For 
 
 ---
 
-## Exception to Limitations on Commerce Clause Power Comprehensive Scheme
+### Exception to Limitations on Commerce Clause Power Comprehensive Scheme
 
 Congress may use its commerce clause power to regulate intrastate non-economic activity with a comprehensive scheme.
 
 ---
 
-# Taxing Power
+## Taxing Power
 
 Congress has the power to impose and collect taxes in order to pay debts and spend for the general welfare. A congressional act purporting to be a “tax” should be upheld as a valid exercise of the taxing power if (1) it raises revenue (objective test); (2) it was intended to raise revenue even if it doesn’t (subjective test); or (3) Congress has the power to regulate the activity that’s being taxed (regulatory test).
 
@@ -578,7 +580,7 @@ For example, the Supreme Court sustained a tax on coal producers who violated a 
 
 ---
 
-# Spending Power
+## Spending Power
 
 Article I, Section 8, Clause 1, provides Congress with the power to spend for the general welfare.
 
@@ -594,7 +596,7 @@ Congress may place a condition on the receipt of federal funds by a state if (1)
 
 ---
 
-# War and Defense Powers
+## War and Defense Powers
 
 Congress may declare war, raise and support armies, provide and maintain a navy, and organize, arm, discipline, and call forth a militia.
 
@@ -606,7 +608,7 @@ Congress can establish military courts to gain jurisdiction over members of the 
 
 ---
 
-# Investigatory Power
+## Investigatory Power
 
 Congress has broad **investigatory powers** that may extend to any matter within its legitimate lawmaking functions, including **immigration and naturalization**.
 
@@ -675,6 +677,8 @@ If Congress passed valid legislation to enforce the 14th or 15th Amendment legis
 Congress can create an executive agency and give the agency some legislative power that will prevail over inconsistent state law.
 
 **Limitation:** Congress can delegate power so long as there is some “intelligible principle” that guides the agency.
+
+---
 
 # Executive Power
 
@@ -1024,15 +1028,11 @@ Both over-inclusive and under-inclusive laws will likely fail strict scrutiny re
 
 **Right to Vote:** Generally, the right to vote comes from the 1st Amendment Right of Association and the 14th Amendment. However, there are more specific amendments regarding the right to vote.
 
-**15th Amendment:** States cannot discriminate with respect to race and right to vote.
-
-**19th Amendment:** States cannot discriminate with respect to sex and right to vote.
-
-**24th Amendment:** No poll taxes.
-
-**26th Amendment:** Right to vote for all citizens 18 years or older.
-
-**Level of Scrutiny:** Some voting restrictions are constitutional, while others are not.
+- **15th Amendment:** States cannot discriminate with respect to race and right to vote.
+- **19th Amendment:** States cannot discriminate with respect to sex and right to vote.
+- **24th Amendment:** No poll taxes.
+- **26th Amendment:** Right to vote for all citizens 18 years or older.
+- **Level of Scrutiny:** Some voting restrictions are constitutional, while others are not.
 
 **Restrictions that are constitutional:** (1) Reasonable residency and voter registration requirements; (2) reasonable regulation of time and manner of casting votes; (3) denying felons the right to vote.
 
